@@ -20,27 +20,7 @@ The platform supports deep, structured bilingual CRM learning through:
 
 ---
 
-## 1. Quick Start
-
-### Option A: Direct Browser Preview (Zero dependencies)
-Simply double-click or open `output/index.html` in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox).
-
-```text
-file:///C:/Kiến thức cần học/CRM/output/index.html
-```
-
-### Option B: Local Web Server
-If you prefer running via a local HTTP server:
-
-```powershell
-cd "C:\Kiến thức cần học\CRM\output"
-uv run python -m http.server 3000
-```
-Then navigate to: `http://localhost:3000`
-
----
-
-## 2. Platform Architecture & Features
+## Platform Architecture & Features
 
 ### Core Modules
 1. **Dashboard (Bảng Điều khiển):** Central learning cockpit tracking completed chapters, flashcard masteries, exam scores, and quick actions.
@@ -61,7 +41,7 @@ The platform defaults to **Vietnamese (`vi`)** with a prominent header toggle (`
 
 ---
 
-## 3. Automated Quality Assurance & Testing
+## Automated Quality Assurance & Testing
 
 Run the full automated test suite using `uv`:
 

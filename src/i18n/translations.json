@@ -1,0 +1,772 @@
+{
+  "appTitle": {
+    "vi": "CRM Learning & Practice Hub",
+    "en": "CRM Learning & Practice Hub"
+  },
+  "appSubtitle": {
+    "vi": "Hệ thống Học tập & Luyện thi CRM Song ngữ Chuẩn mực",
+    "en": "Authoritative Bilingual CRM Study & Practice Platform"
+  },
+  "nav": {
+    "dashboard": {
+      "vi": "Bảng Điều khiển",
+      "en": "Dashboard"
+    },
+    "library": {
+      "vi": "Thư viện Tri thức",
+      "en": "Knowledge Library"
+    },
+    "glossary": {
+      "vi": "Thuật ngữ Anh - Việt",
+      "en": "Glossary"
+    },
+    "flashcards": {
+      "vi": "Thẻ Ghi nhớ (Flashcards)",
+      "en": "Flashcards"
+    },
+    "exams": {
+      "vi": "10 Đề thi Chuẩn hóa",
+      "en": "10 Curated Exams"
+    },
+    "practice": {
+      "vi": "Luyện tập Ngẫu nhiên",
+      "en": "Random Practice"
+    },
+    "cases": {
+      "vi": "Nghiên cứu Tình huống",
+      "en": "Case Study Lab"
+    },
+    "progress": {
+      "vi": "Tiến độ Học tập",
+      "en": "Progress Analytics"
+    },
+    "settings": {
+      "vi": "Cài đặt & Dữ liệu",
+      "en": "Settings & Data"
+    }
+  },
+  "header": {
+    "currentLanguage": {
+      "vi": "Ngôn ngữ:",
+      "en": "Language:"
+    },
+    "toggleVi": {
+      "vi": "Tiếng Việt",
+      "en": "Tiếng Việt"
+    },
+    "toggleEn": {
+      "vi": "English",
+      "en": "English"
+    },
+    "sourceGrounded": {
+      "vi": "100% Căn cứ Giáo trình Gốc",
+      "en": "100% Source-Grounded"
+    },
+    "author": {
+      "vi": "Được phát triển bởi Nguyễn Đăng Cẩm Tú (Hazel)",
+      "en": "Created by Nguyễn Đăng Cẩm Tú (Hazel)"
+    },
+    "searchPlaceholder": {
+      "vi": "Tìm kiếm khái niệm, thuật ngữ, câu hỏi...",
+      "en": "Search concepts, glossary, questions..."
+    }
+  },
+  "dashboard": {
+    "welcomeTitle": {
+      "vi": "Chào mừng bạn đến với CRM Learning & Practice Hub",
+      "en": "Welcome to the CRM Learning & Practice Hub"
+    },
+    "welcomeDesc": {
+      "vi": "Nền tảng đào tạo Quản trị Quan hệ Khách hàng (CRM) song ngữ chuyên sâu, đối chiếu trực tiếp từ 2 giáo trình kinh điển (Baran & Galka 2017; Kostojohn et al. 2011) và 10 nghiên cứu tình huống doanh nghiệp thực tế.",
+      "en": "Comprehensive bilingual CRM platform grounded directly in 2 authoritative textbooks (Baran & Galka 2017; Kostojohn et al. 2011) and 10 real-world enterprise case studies."
+    },
+    "statChapters": {
+      "vi": "Chương Giáo trình",
+      "en": "Curriculum Chapters"
+    },
+    "statGlossary": {
+      "vi": "Thuật ngữ Song ngữ",
+      "en": "Bilingual Terms"
+    },
+    "statFlashcards": {
+      "vi": "Thẻ Ghi nhớ",
+      "en": "Flashcards"
+    },
+    "statQuestions": {
+      "vi": "Câu hỏi Chuẩn hóa",
+      "en": "Validated Questions"
+    },
+    "statExams": {
+      "vi": "Đề thi Chuẩn hóa",
+      "en": "Curated Exams"
+    },
+    "statCases": {
+      "vi": "Nghiên cứu Tình huống",
+      "en": "Business Cases"
+    },
+    "progressTitle": {
+      "vi": "Tổng quan Tiến độ Học tập của Bạn",
+      "en": "Your Learning Progress Overview"
+    },
+    "quickActions": {
+      "vi": "Lối tắt Học tập",
+      "en": "Quick Study Actions"
+    },
+    "startFlashcards": {
+      "vi": "Luyện Flashcard",
+      "en": "Practice Flashcards"
+    },
+    "takeCuratedExam": {
+      "vi": "Làm Bài thi Chuẩn hóa",
+      "en": "Take Curated Exam"
+    },
+    "startRandomTest": {
+      "vi": "Tạo Đề Ngẫu nhiên",
+      "en": "Generate Random Test"
+    },
+    "studyCase": {
+      "vi": "Phân tích Tình huống",
+      "en": "Analyze Case Study"
+    },
+    "recentActivity": {
+      "vi": "Hoạt động Gần đây",
+      "en": "Recent Activity"
+    },
+    "noRecentActivity": {
+      "vi": "Chưa có hoạt động nào được ghi nhận. Hãy bắt đầu ngay!",
+      "en": "No recorded activity yet. Start studying now!"
+    }
+  },
+  "library": {
+    "title": {
+      "vi": "Thư viện Tri thức CRM Toàn diện",
+      "en": "Comprehensive CRM Knowledge Library"
+    },
+    "subtitle": {
+      "vi": "Tổng hợp ghi chú học tập chuyên sâu theo đúng cấu trúc từng chương của 2 giáo trình gốc.",
+      "en": "Detailed chapter-by-chapter study notes preserving the original textbook structures."
+    },
+    "textbook1Tab": {
+      "vi": "Giáo trình Baran & Galka (2017)",
+      "en": "Baran & Galka (2017) Textbook"
+    },
+    "textbook2Tab": {
+      "vi": "Giáo trình Kostojohn et al. (2011)",
+      "en": "Kostojohn et al. (2011) Textbook"
+    },
+    "chapter": {
+      "vi": "Chương",
+      "en": "Chapter"
+    },
+    "viewNotes": {
+      "vi": "Xem Ghi chú Chi tiết",
+      "en": "View Detailed Notes"
+    },
+    "learningObjectives": {
+      "vi": "Mục tiêu Học tập",
+      "en": "Learning Objectives"
+    },
+    "keyConcepts": {
+      "vi": "Khái niệm Cốt lõi",
+      "en": "Core Concepts"
+    },
+    "studyNotes": {
+      "vi": "Nội dung Nghiên cứu Chi tiết",
+      "en": "Detailed Study Notes"
+    },
+    "keyTakeaways": {
+      "vi": "Điểm cốt lõi cần nhớ",
+      "en": "Key Takeaways"
+    },
+    "reviewQuestions": {
+      "vi": "Câu hỏi Ôn tập & Hướng dẫn Trả lời",
+      "en": "Review Questions & Model Answers"
+    },
+    "caseConnections": {
+      "vi": "Liên kết Thực tiễn với Tình huống Doanh nghiệp",
+      "en": "Practical Case Study Connections"
+    },
+    "markCompleted": {
+      "vi": "Đánh dấu Đã học xong",
+      "en": "Mark as Completed"
+    },
+    "completed": {
+      "vi": "Đã hoàn thành",
+      "en": "Completed"
+    },
+    "prevChapter": {
+      "vi": "Chương trước",
+      "en": "Previous Chapter"
+    },
+    "nextChapter": {
+      "vi": "Chương tiếp theo",
+      "en": "Next Chapter"
+    },
+    "readingTime": {
+      "vi": "phút đọc",
+      "en": "min read"
+    },
+    "backToLibrary": {
+      "vi": "Quay lại Thư viện Tri thức",
+      "en": "Back to Library"
+    },
+    "inProgress": {
+      "vi": "Đang học",
+      "en": "In Progress"
+    },
+    "modelAnswer": {
+      "vi": "Hướng dẫn trả lời",
+      "en": "Model Answer"
+    }
+  },
+  "glossary": {
+    "title": {
+      "vi": "Từ điển Thuật ngữ CRM Song ngữ",
+      "en": "Bilingual CRM Glossary"
+    },
+    "subtitle": {
+      "vi": "Định nghĩa chuẩn xác, ngữ cảnh áp dụng thực tế và công thức định lượng.",
+      "en": "Rigorous definitions, operational context, and quantitative formulas."
+    },
+    "search": {
+      "vi": "Tìm kiếm thuật ngữ hoặc từ viết tắt...",
+      "en": "Search terms or acronyms..."
+    },
+    "filterAll": {
+      "vi": "Tất cả Phân loại",
+      "en": "All Categories"
+    },
+    "term": {
+      "vi": "Thuật ngữ",
+      "en": "Term"
+    },
+    "definition": {
+      "vi": "Định nghĩa",
+      "en": "Definition"
+    },
+    "context": {
+      "vi": "Ngữ cảnh Sử dụng",
+      "en": "Operational Context"
+    },
+    "related": {
+      "vi": "Thuật ngữ Liên quan",
+      "en": "Related Concepts"
+    },
+    "source": {
+      "vi": "Trích dẫn",
+      "en": "Source Citation"
+    }
+  },
+  "flashcards": {
+    "title": {
+      "vi": "Hệ thống Thẻ Ghi nhớ Thông minh",
+      "en": "Smart Flashcard Learning System"
+    },
+    "subtitle": {
+      "vi": "Phương pháp lặp lại ngắt quãng (Spaced Repetition) với 4 mức tự đánh giá.",
+      "en": "Spaced repetition methodology with 4 self-assessment ratings."
+    },
+    "filterTopic": {
+      "vi": "Lọc theo Chủ đề:",
+      "en": "Filter by Topic:"
+    },
+    "allTopics": {
+      "vi": "Tất cả Chủ đề",
+      "en": "All Topics"
+    },
+    "cardCount": {
+      "vi": "Thẻ",
+      "en": "Card"
+    },
+    "flipHint": {
+      "vi": "Nhấn vào thẻ hoặc bấm [Space] để lật mặt sau",
+      "en": "Click card or press [Space] to flip"
+    },
+    "showHint": {
+      "vi": "Xem Gợi ý",
+      "en": "Show Hint"
+    },
+    "hideHint": {
+      "vi": "Ẩn Gợi ý",
+      "en": "Hide Hint"
+    },
+    "ratingAgain": {
+      "vi": "Lặp lại (Again)",
+      "en": "Again"
+    },
+    "ratingHard": {
+      "vi": "Khó (Hard)",
+      "en": "Hard"
+    },
+    "ratingGood": {
+      "vi": "Tốt (Good)",
+      "en": "Good"
+    },
+    "ratingEasy": {
+      "vi": "Dễ (Easy)",
+      "en": "Easy"
+    },
+    "prevCard": {
+      "vi": "Thẻ trước",
+      "en": "Previous"
+    },
+    "nextCard": {
+      "vi": "Thẻ sau",
+      "en": "Next"
+    },
+    "shuffle": {
+      "vi": "Xáo trộn Thẻ",
+      "en": "Shuffle Cards"
+    },
+    "cardsCompleted": {
+      "vi": "Bạn đã hoàn thành lượt ôn tập này!",
+      "en": "You have completed this review session!"
+    },
+    "restart": {
+      "vi": "Học lại từ đầu",
+      "en": "Restart Deck"
+    }
+  },
+  "exams": {
+    "title": {
+      "vi": "10 Đề thi Chuẩn hóa (200 Câu hỏi)",
+      "en": "10 Curated Comprehensive Exams (200 Questions)"
+    },
+    "subtitle": {
+      "vi": "Mỗi đề gồm 20 câu hỏi duy nhất, bao quát có định hướng toàn bộ khung chương trình.",
+      "en": "Each curated exam contains 20 unique questions with intentional curricular coverage."
+    },
+    "examNumber": {
+      "vi": "Đề thi",
+      "en": "Exam"
+    },
+    "questionsCount": {
+      "vi": "Số câu hỏi:",
+      "en": "Questions:"
+    },
+    "duration": {
+      "vi": "Thời gian:",
+      "en": "Duration:"
+    },
+    "targetTopic": {
+      "vi": "Phạm vi Tri thức:",
+      "en": "Knowledge Scope:"
+    },
+    "startExam": {
+      "vi": "Bắt đầu Làm bài",
+      "en": "Start Exam"
+    },
+    "resumeExam": {
+      "vi": "Tiếp tục Làm bài",
+      "en": "Resume Exam"
+    },
+    "reviewScore": {
+      "vi": "Xem Lịch sử Điểm",
+      "en": "Review Score History"
+    },
+    "highestScore": {
+      "vi": "Điểm cao nhất:",
+      "en": "Highest Score:"
+    },
+    "notAttempted": {
+      "vi": "Chưa làm bài",
+      "en": "Not Attempted"
+    },
+    "submitExam": {
+      "vi": "Nộp bài",
+      "en": "Submit Exam"
+    },
+    "questionNum": {
+      "vi": "Câu hỏi",
+      "en": "Question"
+    },
+    "selectAnswer": {
+      "vi": "Chọn đáp án đúng nhất:",
+      "en": "Select the best answer:"
+    },
+    "explanation": {
+      "vi": "Giải thích Chi tiết:",
+      "en": "Detailed Rationale:"
+    },
+    "sourceReference": {
+      "vi": "Căn cứ Nguồn:",
+      "en": "Source Grounding:"
+    },
+    "confirmSubmit": {
+      "vi": "Bạn có chắc chắn muốn nộp bài thi này không?",
+      "en": "Are you sure you want to submit this exam?"
+    },
+    "examResults": {
+      "vi": "Kết quả Bài thi",
+      "en": "Exam Results"
+    },
+    "scoreLabel": {
+      "vi": "Điểm số Đạt được:",
+      "en": "Score Achieved:"
+    },
+    "accuracy": {
+      "vi": "Tỷ lệ Đúng:",
+      "en": "Accuracy Rate:"
+    },
+    "passed": {
+      "vi": "ĐẠT YÊU CẦU (>= 75%)",
+      "en": "PASSED (>= 75%)"
+    },
+    "failed": {
+      "vi": "CẦN ÔN TẬP THÊM (< 75%)",
+      "en": "NEEDS REVIEW (< 75%)"
+    },
+    "retake": {
+      "vi": "Làm lại Đề thi",
+      "en": "Retake Exam"
+    },
+    "reviewAll": {
+      "vi": "Xem Lại Tất Cả Đáp Án",
+      "en": "Review All Answers"
+    }
+  },
+  "practice": {
+    "title": {
+      "vi": "Bộ Luyện đề Ngẫu nhiên từ Ngân hàng 200 Câu",
+      "en": "Random Practice Test Generator (200 Questions)"
+    },
+    "subtitle": {
+      "vi": "Tạo bài luyện tập linh hoạt theo số lượng, độ khó và chủ đề tự chọn.",
+      "en": "Generate customized practice sessions by question count, difficulty, and topic."
+    },
+    "configTitle": {
+      "vi": "Cấu hình Đề thi Ngẫu nhiên",
+      "en": "Random Test Configuration"
+    },
+    "numQuestions": {
+      "vi": "Số lượng Câu hỏi:",
+      "en": "Number of Questions:"
+    },
+    "difficulty": {
+      "vi": "Mức độ Khó:",
+      "en": "Difficulty Level:"
+    },
+    "diffAll": {
+      "vi": "Tất cả Mức độ",
+      "en": "All Difficulties"
+    },
+    "diffEasy": {
+      "vi": "Cơ bản (Easy)",
+      "en": "Easy"
+    },
+    "diffMedium": {
+      "vi": "Trung bình (Medium)",
+      "en": "Medium"
+    },
+    "diffHard": {
+      "vi": "Nâng cao (Hard)",
+      "en": "Hard"
+    },
+    "mode": {
+      "vi": "Chế độ Phản hồi:",
+      "en": "Feedback Mode:"
+    },
+    "modeInstant": {
+      "vi": "Xem giải thích ngay sau mỗi câu",
+      "en": "Instant feedback after each question"
+    },
+    "modeExam": {
+      "vi": "Chỉ xem kết quả sau khi nộp toàn bài",
+      "en": "Exam mode (feedback upon submission)"
+    },
+    "startPractice": {
+      "vi": "Khởi tạo & Bắt đầu",
+      "en": "Generate & Start Test"
+    }
+  },
+  "cases": {
+    "title": {
+      "vi": "Phòng Nghiên cứu Tình huống Doanh nghiệp (Case Study Lab)",
+      "en": "Business Case Study Lab"
+    },
+    "subtitle": {
+      "vi": "10 tình huống doanh nghiệp thực tế từ tài liệu gốc với khung phân tích 10 bước chuẩn mực.",
+      "en": "10 authoritative enterprise cases analyzed through a structured 10-step problem-solving framework."
+    },
+    "caseList": {
+      "vi": "Danh sách Tình huống Doanh nghiệp",
+      "en": "Case Studies List"
+    },
+    "company": {
+      "vi": "Doanh nghiệp:",
+      "en": "Company:"
+    },
+    "industry": {
+      "vi": "Ngành:",
+      "en": "Industry:"
+    },
+    "sourceDoc": {
+      "vi": "Tài liệu Nguồn:",
+      "en": "Source Document:"
+    },
+    "viewCase": {
+      "vi": "Phân tích Tình huống",
+      "en": "Analyze Case"
+    },
+    "stepFrameworkTitle": {
+      "vi": "Khung Phân tích 10 Bước Chuẩn mực",
+      "en": "10-Step Problem-Solving Framework"
+    },
+    "discussionQuestions": {
+      "vi": "Câu hỏi Thảo luận & Hướng dẫn Đánh giá",
+      "en": "Discussion Questions & Evaluation Rubric"
+    },
+    "challengePrompt": {
+      "vi": "Thử thách Nâng cao (Chief Experience Officer Challenge)",
+      "en": "Chief Experience Officer (CXO) Challenge"
+    },
+    "studentNotes": {
+      "vi": "Ghi chú & Lời giải của Bạn:",
+      "en": "Your Analysis & Solution Notes:"
+    },
+    "saveNotes": {
+      "vi": "Lưu Ghi chú",
+      "en": "Save Notes"
+    },
+    "notesSaved": {
+      "vi": "Đã lưu ghi chú thành công!",
+      "en": "Notes saved successfully!"
+    },
+    "readingMode": {
+      "vi": "Chế độ đọc tài liệu:",
+      "en": "Reading Mode:"
+    },
+    "originalEnglish": {
+      "vi": "🇬🇧 Tiếng Anh Gốc (Original English)",
+      "en": "🇬🇧 Original English (Verbatim Source)"
+    },
+    "vietnameseTranslation": {
+      "vi": "🇻🇳 Bản dịch Tiếng Việt Toàn văn",
+      "en": "🇻🇳 Full Vietnamese Translation"
+    },
+    "sourceFidelityBadge": {
+      "vi": "✓ Nguyên văn 100% từ tài liệu học thuật gốc",
+      "en": "✓ 100% Verbatim from authoritative source"
+    },
+    "cxoChallengeBadge": {
+      "vi": "Thử thách Giám đốc Trải nghiệm (CXO Challenge)",
+      "en": "Chief Experience Officer (CXO) Challenge"
+    },
+    "workspaceTitle": {
+      "vi": "Không gian Phân tích Cá nhân (Khung 10 Chiều Chuẩn mực)",
+      "en": "Learner Analysis Workspace (10-Dimension Framework)"
+    },
+    "autoSavedAt": {
+      "vi": "Đã tự động lưu lúc",
+      "en": "Auto-saved at"
+    },
+    "saving": {
+      "vi": "Đang lưu...",
+      "en": "Saving..."
+    },
+    "saveWorkspace": {
+      "vi": "Lưu Phân Tích",
+      "en": "Save Analysis"
+    },
+    "resetWorkspace": {
+      "vi": "Đặt lại Không gian",
+      "en": "Reset Workspace"
+    },
+    "resetConfirm": {
+      "vi": "Bạn có chắc chắn muốn đặt lại toàn bộ nội dung phân tích tình huống này để làm lại từ đầu?",
+      "en": "Are you sure you want to reset your analysis for this case and start over?"
+    },
+    "exportReport": {
+      "vi": "Xuất Báo cáo (.md)",
+      "en": "Export Report (.md)"
+    },
+    "modelAnswerTitle": {
+      "vi": "Gợi ý Phân tích & Lời giải Mẫu Đối chiếu",
+      "en": "Model Analysis & Comparative Evaluation Guide"
+    },
+    "modelAnswerNotice": {
+      "vi": "Lời giải đối chiếu được ẩn mặc định nhằm rèn luyện tư duy phản biện độc lập. Bạn nên tự phân tích trước khi đối chiếu gợi ý.",
+      "en": "Model answers are hidden by default to foster independent critical thinking. Complete your own analysis before consulting the guide."
+    },
+    "revealModelAnswer": {
+      "vi": "🔓 Mở xem Gợi ý Phân tích & Lời giải Mẫu",
+      "en": "🔓 Reveal Comparative Analysis Guide"
+    },
+    "hideModelAnswer": {
+      "vi": "🔒 Ẩn Gợi ý Phân tích",
+      "en": "🔒 Hide Analysis Guide"
+    },
+    "aiCoachTitle": {
+      "vi": "Cố vấn Phản biện Socratic (Local Rule-Based Socratic Feedback Tool - Offline)",
+      "en": "Socratic Critical Thinking Coach (Local Rule-Based Heuristic Tool - Offline)"
+    },
+    "aiCoachSubtitle": {
+      "vi": "Công cụ phản biện nội bộ dựa trên bộ quy tắc định lượng & từ khóa chuyên sâu (chạy hoàn toàn trên máy cục bộ, không gửi dữ liệu ra bên ngoài, không phải mô hình Generative AI trực tiếp).",
+      "en": "Transparent local heuristic critique engine running 100% offline in your browser. Zero external API leaks, no live Generative AI claims."
+    },
+    "reviewMyAnalysis": {
+      "vi": "🔍 Đánh giá Toàn diện Bài phân tích",
+      "en": "🔍 Review My Analysis"
+    },
+    "challengeRecommendation": {
+      "vi": "⚔️ Phản biện & Thử thách Khuyến nghị",
+      "en": "⚔️ Challenge My Recommendation"
+    },
+    "aiEngineLocal": {
+      "vi": "⚡ Động cơ Quy tắc Nội bộ Cục bộ (Offline / Minh bạch 100%)",
+      "en": "⚡ Local Rule-Based Engine (100% Offline / Transparent)"
+    },
+    "configAiKey": {
+      "vi": "Cấu hình API Key (Tùy chọn)",
+      "en": "Configure API Key (Optional)"
+    },
+    "insufficientInput": {
+      "vi": "Vui lòng điền nội dung vào ít nhất 2 chiều phân tích (ví dụ Xác định Vấn đề & Khuyến nghị) để Cố vấn AI có đủ dữ liệu phản biện sắc bén.",
+      "en": "Please complete at least 2 analysis dimensions (e.g., Problem Definition & Recommendation) so the AI Coach can provide rigorous critique."
+    },
+    "evidenceVsInferenceTip": {
+      "vi": "💡 Phân biệt Ranh giới: Bằng chứng là số liệu/sự kiện thực tế trong bài; Suy luận là kết luận logic của bạn dựa trên bằng chứng.",
+      "en": "💡 Evidence Boundary: Evidence consists of verified source facts; Inference is your logical deduction derived from those facts."
+    }
+  },
+  "progress": {
+    "title": {
+      "vi": "Theo dõi & Đánh giá Tiến độ Học tập",
+      "en": "Learning Progress & Gap Analytics"
+    },
+    "subtitle": {
+      "vi": "Đo lường mức độ bao phủ kiến thức, tỷ lệ đúng theo từng chủ đề và xác định vùng kiến thức cần củng cố.",
+      "en": "Track curriculum coverage, accuracy by domain, and identify knowledge gaps."
+    },
+    "overallCompletion": {
+      "vi": "Độ Hoàn thành Toàn diện",
+      "en": "Overall Completion Rate"
+    },
+    "chaptersStudied": {
+      "vi": "Chương đã Học",
+      "en": "Chapters Studied"
+    },
+    "flashcardsMastered": {
+      "vi": "Thẻ đã Nắm vững",
+      "en": "Cards Mastered"
+    },
+    "examsCompleted": {
+      "vi": "Đề thi đã Hoàn thành",
+      "en": "Exams Completed"
+    },
+    "averageScore": {
+      "vi": "Điểm Trung bình",
+      "en": "Average Score"
+    },
+    "casesAnalyzed": {
+      "vi": "Tình huống đã Nghiên cứu",
+      "en": "Cases Analyzed"
+    },
+    "topicBreakdown": {
+      "vi": "Phân tích Năng lực theo Chủ đề",
+      "en": "Performance by Knowledge Domain"
+    },
+    "weakAreas": {
+      "vi": "Vùng Kiến thức Cần Củng cố (Weak Areas)",
+      "en": "Knowledge Areas Requiring Reinforcement"
+    },
+    "noWeakAreas": {
+      "vi": "Tuyệt vời! Bạn chưa có câu hỏi nào bị sai nhiều lần.",
+      "en": "Great! No recurrent knowledge gaps identified yet."
+    },
+    "recommendedActions": {
+      "vi": "Đề xuất Bước học Tiếp theo",
+      "en": "Recommended Next Actions"
+    }
+  },
+  "settings": {
+    "title": {
+      "vi": "Cài đặt & Quản lý Dữ liệu Học tập",
+      "en": "Settings & Learning Data Management"
+    },
+    "subtitle": {
+      "vi": "Quản lý tùy chọn ngôn ngữ, xuất/nhập tiến độ và khôi phục trạng thái ban đầu.",
+      "en": "Manage language preferences, backup/restore progress, or reset state."
+    },
+    "languageSection": {
+      "vi": "Tùy chọn Ngôn ngữ Giao diện & Học tập",
+      "en": "Interface & Learning Language"
+    },
+    "currentLanguage": {
+      "vi": "Ngôn ngữ Hiện tại:",
+      "en": "Current Language:"
+    },
+    "storageSection": {
+      "vi": "Lưu trữ Cục bộ (Local Storage)",
+      "en": "Local Storage & Persistence"
+    },
+    "storageDesc": {
+      "vi": "Mọi tiến độ học tập, ghi chú, lịch sử làm bài và thẻ flashcard được lưu trực tiếp trên trình duyệt của bạn.",
+      "en": "All study progress, notes, exam history, and flashcard queues are safely preserved in your browser's local storage."
+    },
+    "exportProgress": {
+      "vi": "Xuất Dữ liệu Tiến độ (JSON)",
+      "en": "Export Progress Data (JSON)"
+    },
+    "importProgress": {
+      "vi": "Nhập Dữ liệu Tiến độ",
+      "en": "Import Progress Data"
+    },
+    "resetSection": {
+      "vi": "Xóa & Đặt lại Tiến độ",
+      "en": "Reset Learning Progress"
+    },
+    "resetDesc": {
+      "vi": "Hành động này sẽ xóa toàn bộ lịch sử thi, thẻ flashcard đã đánh giá và ghi chú cá nhân. Hãy cẩn trọng!",
+      "en": "This will clear all exam attempts, flashcard ratings, and personal notes. Use with caution!"
+    },
+    "resetButton": {
+      "vi": "Xóa toàn bộ Tiến độ",
+      "en": "Reset All Progress"
+    },
+    "confirmReset": {
+      "vi": "Bạn có chắc chắn muốn xóa toàn bộ tiến độ học tập không? Thao tác này không thể hoàn tác.",
+      "en": "Are you sure you want to reset all learning progress? This action cannot be undone."
+    }
+  },
+  "common": {
+    "source": {
+      "vi": "Nguồn:",
+      "en": "Source:"
+    },
+    "page": {
+      "vi": "Trang",
+      "en": "Page"
+    },
+    "close": {
+      "vi": "Đóng",
+      "en": "Close"
+    },
+    "back": {
+      "vi": "Quay lại",
+      "en": "Back"
+    },
+    "loading": {
+      "vi": "Đang tải dữ liệu...",
+      "en": "Loading data..."
+    },
+    "noData": {
+      "vi": "Không có dữ liệu phù hợp.",
+      "en": "No matching data found."
+    }
+  },
+  "footer": {
+    "project": {
+      "vi": "CRM Learning & Practice Hub",
+      "en": "CRM Learning & Practice Hub"
+    },
+    "author": {
+      "vi": "Tác giả: Nguyễn Đăng Cẩm Tú (Hazel)",
+      "en": "Author: Nguyễn Đăng Cẩm Tú (Hazel)"
+    },
+    "purpose": {
+      "vi": "Dự án học tập và luyện tập song ngữ về Quản trị Quan hệ Khách hàng.",
+      "en": "An independent bilingual learning and practice project for Customer Relationship Management."
+    }
+  }
+}

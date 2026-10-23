@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRM Bilingual Learning & Practice Hub</title>
+  <link rel="stylesheet" href="src/styles/app.css">
+</head>
+<body>
+  <!-- Global Application Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-section">
+        <div class="brand-badge">CRM</div>
+        <div>
+          <div class="brand-title" data-i18n="appTitle">CRM Learning & Practice Hub</div>
+          <div class="brand-subtitle" data-i18n="appSubtitle">Hệ thống Học tập & Luyện thi CRM Song ngữ Chuẩn mực</div>
+          <div class="brand-author" data-i18n="header.author">Được phát triển bởi Nguyễn Đăng Cẩm Tú (Hazel)</div>
+        </div>
+      </div>
+
+      <div class="header-controls">
+        <div class="source-pill" style="display: none; @media(min-width: 600px){display: inline-flex;}" data-i18n="header.sourceGrounded">
+          📖 100% Căn cứ Giáo trình Gốc
+        </div>
+
+        <!-- Prominent Global Language Toggle -->
+        <div class="lang-toggle-group">
+          <button type="button" class="lang-btn active" data-lang="vi" onclick="window.CRM_APP.setLanguage('vi')">
+            Tiếng Việt
+          </button>
+          <button type="button" class="lang-btn" data-lang="en" onclick="window.CRM_APP.setLanguage('en')">
+            English
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Application Layout -->
+  <div class="app-layout">
+    <!-- Sidebar Navigation -->
+    <nav class="app-nav" aria-label="Main Navigation">
+      <button class="nav-item active" data-tab="dashboard" onclick="window.CRM_APP.navigate('dashboard')">
+        <span class="icon">📊</span> <span data-i18n-nav="dashboard">Bảng Điều khiển</span>
+      </button>
+      <button class="nav-item" data-tab="library" onclick="window.CRM_APP.navigate('library')">
+        <span class="icon">📚</span> <span data-i18n-nav="library">Thư viện Tri thức</span>
+      </button>
+      <button class="nav-item" data-tab="glossary" onclick="window.CRM_APP.navigate('glossary')">
+        <span class="icon">📖</span> <span data-i18n-nav="glossary">Thuật ngữ Anh - Việt</span>
+      </button>
+      <button class="nav-item" data-tab="flashcards" onclick="window.CRM_APP.navigate('flashcards')">
+        <span class="icon">🎴</span> <span data-i18n-nav="flashcards">Thẻ Ghi nhớ</span>
+      </button>
+      <button class="nav-item" data-tab="exams" onclick="window.CRM_APP.navigate('exams')">
+        <span class="icon">📝</span> <span data-i18n-nav="exams">10 Đề thi Chuẩn hóa</span>
+      </button>
+      <button class="nav-item" data-tab="practice" onclick="window.CRM_APP.navigate('practice')">
+        <span class="icon">🎲</span> <span data-i18n-nav="practice">Luyện tập Ngẫu nhiên</span>
+      </button>
+      <button class="nav-item" data-tab="cases" onclick="window.CRM_APP.navigate('cases')">
+        <span class="icon">🏢</span> <span data-i18n-nav="cases">Nghiên cứu Tình huống</span>
+      </button>
+      <button class="nav-item" data-tab="progress" onclick="window.CRM_APP.navigate('progress')">
+        <span class="icon">📈</span> <span data-i18n-nav="progress">Tiến độ Học tập</span>
+      </button>
+      <button class="nav-item" data-tab="settings" onclick="window.CRM_APP.navigate('settings')">
+        <span class="icon">⚙️</span> <span data-i18n-nav="settings">Cài đặt & Dữ liệu</span>
+      </button>
+    </nav>
+
+    <!-- Main Dynamic Content Workspace -->
+    <main id="main-content" class="app-content">
+      <div class="view-card">
+        <p data-i18n="common.loading">Đang tải ứng dụng...</p>
+      </div>
+    </main>
+  </div>
+
+  <!-- Application Footer -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <span class="footer-badge">CRM</span>
+          <span class="footer-title" data-i18n="footer.project">CRM Learning & Practice Hub</span>
+        </div>
+        <div class="footer-author" data-i18n="footer.author">
+          Tác giả: Nguyễn Đăng Cẩm Tú (Hazel)
+        </div>
+      </div>
+      <div class="footer-purpose" data-i18n="footer.purpose">
+        Dự án học tập và luyện tập song ngữ về Quản trị Quan hệ Khách hàng.
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="src/data-store.js"></script>
+  <script src="src/app.js"></script>
+</body>
+</html>

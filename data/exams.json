@@ -1,0 +1,409 @@
+[
+  {
+    "id": "EXAM-01",
+    "exam_number": 1,
+    "title": {
+      "vi": "Đề thi 01: Nền tảng & Định hướng Chiến lược CRM",
+      "en": "Exam 01: CRM Foundations & Strategic Orientation"
+    },
+    "description": {
+      "vi": "Kiểm tra nhận thức toàn diện về các chiều kích của CRM, sự chuyển dịch từ Marketing Giao dịch sang Marketing Mối quan hệ, Giá trị Vòng đời Khách hàng (CLV) và các thành phần hữu hình.",
+      "en": "Comprehensive assessment on CRM dimensions, the shift from Transactional to Relationship Marketing, Customer Lifetime Value (CLV), and tangible components."
+    },
+    "target_domain": "Foundations & Strategy",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 1-3",
+      "Kostojohn et al. Ch. 1"
+    ],
+    "question_ids": [
+      "q-01-01",
+      "q-01-02",
+      "q-01-03",
+      "q-01-04",
+      "q-01-05",
+      "q-01-06",
+      "q-01-07",
+      "q-01-08",
+      "q-01-09",
+      "q-01-10",
+      "q-01-11",
+      "q-01-12",
+      "q-01-13",
+      "q-01-14",
+      "q-01-15",
+      "q-01-16",
+      "q-01-17",
+      "q-01-18",
+      "q-01-19",
+      "q-01-20"
+    ]
+  },
+  {
+    "id": "EXAM-02",
+    "exam_number": 2,
+    "title": {
+      "vi": "Đề thi 02: Tổ chức, Văn hóa & Quản trị Dự án CRM",
+      "en": "Exam 02: Organizational Alignment, Culture & Governance"
+    },
+    "description": {
+      "vi": "Đánh giá kiến thức về bộ ba Con người - Quy trình - Công nghệ, cơ cấu Ban Chỉ đạo, Đại sứ phòng ban, xóa bỏ ốc đảo phòng ban và quản trị thay đổi.",
+      "en": "Evaluates People-Process-Technology triad, Steering Committee governance, Departmental Champions, silo dismantling, and change management."
+    },
+    "target_domain": "Organization & Governance",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Kostojohn et al. Ch. 2",
+      "Baran & Galka Ch. 4"
+    ],
+    "question_ids": [
+      "q-02-01",
+      "q-02-02",
+      "q-02-03",
+      "q-02-04",
+      "q-02-05",
+      "q-02-06",
+      "q-02-07",
+      "q-02-08",
+      "q-02-09",
+      "q-02-10",
+      "q-02-11",
+      "q-02-12",
+      "q-02-13",
+      "q-02-14",
+      "q-02-15",
+      "q-02-16",
+      "q-02-17",
+      "q-02-18",
+      "q-02-19",
+      "q-02-20"
+    ]
+  },
+  {
+    "id": "EXAM-03",
+    "exam_number": 3,
+    "title": {
+      "vi": "Đề thi 03: Kiến trúc Dữ liệu Khách hàng & Phân tích",
+      "en": "Exam 03: Customer Data Architecture & Analytics"
+    },
+    "description": {
+      "vi": "Kiểm tra chuyên sâu về Chân dung khách hàng 360 độ (SCV), vệ sinh dữ liệu, kho dữ liệu (Data Warehouse), phân đoạn khách hàng và phân tích RFM.",
+      "en": "In-depth testing on Single Customer View (SCV), data hygiene, data warehousing, behavioral segmentation, and RFM analytics."
+    },
+    "target_domain": "Data & Analytics",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 5, 7",
+      "Tesco Case Study"
+    ],
+    "question_ids": [
+      "q-03-01",
+      "q-03-02",
+      "q-03-03",
+      "q-03-04",
+      "q-03-05",
+      "q-03-06",
+      "q-03-07",
+      "q-03-08",
+      "q-03-09",
+      "q-03-10",
+      "q-03-11",
+      "q-03-12",
+      "q-03-13",
+      "q-03-14",
+      "q-03-15",
+      "q-03-16",
+      "q-03-17",
+      "q-03-18",
+      "q-03-19",
+      "q-03-20"
+    ]
+  },
+  {
+    "id": "EXAM-04",
+    "exam_number": 4,
+    "title": {
+      "vi": "Đề thi 04: Nền tảng Công nghệ & Hạ tầng CRM",
+      "en": "Exam 04: CRM Technology Platforms & Infrastructure"
+    },
+    "description": {
+      "vi": "Đánh giá hiểu biết về Cloud/SaaS vs On-Premises, môi trường Dev/Test/Production, quản lý mã nguồn và kiến trúc tích hợp API.",
+      "en": "Assesses Cloud/SaaS vs On-Premises trade-offs, multi-tier environments (Dev/Test/Prod), source control, and API integrations."
+    },
+    "target_domain": "Technology & Architecture",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 6",
+      "Kostojohn et al. Ch. 4"
+    ],
+    "question_ids": [
+      "q-04-01",
+      "q-04-02",
+      "q-04-03",
+      "q-04-04",
+      "q-04-05",
+      "q-04-06",
+      "q-04-07",
+      "q-04-08",
+      "q-04-09",
+      "q-04-10",
+      "q-04-11",
+      "q-04-12",
+      "q-04-13",
+      "q-04-14",
+      "q-04-15",
+      "q-04-16",
+      "q-04-17",
+      "q-04-18",
+      "q-04-19",
+      "q-04-20"
+    ]
+  },
+  {
+    "id": "EXAM-05",
+    "exam_number": 5,
+    "title": {
+      "vi": "Đề thi 05: Thiết kế Lộ trình & Lập kế hoạch Triển khai",
+      "en": "Exam 05: Roadmap Design & Implementation Planning"
+    },
+    "description": {
+      "vi": "Phân tích phương pháp tiếp cận theo giai đoạn (phased approach), ma trận giá trị vs độ phức tạp, phương pháp Waterfall vs Agile và quản lý ngân sách.",
+      "en": "Analyzes phased implementation roadmaps, value vs. complexity matrices, Waterfall vs. Agile methodologies, and project budgeting."
+    },
+    "target_domain": "Roadmap & Planning",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Kostojohn et al. Ch. 3, 5"
+    ],
+    "question_ids": [
+      "q-05-01",
+      "q-05-02",
+      "q-05-03",
+      "q-05-04",
+      "q-05-05",
+      "q-05-06",
+      "q-05-07",
+      "q-05-08",
+      "q-05-09",
+      "q-05-10",
+      "q-05-11",
+      "q-05-12",
+      "q-05-13",
+      "q-05-14",
+      "q-05-15",
+      "q-05-16",
+      "q-05-17",
+      "q-05-18",
+      "q-05-19",
+      "q-05-20"
+    ]
+  },
+  {
+    "id": "EXAM-06",
+    "exam_number": 6,
+    "title": {
+      "vi": "Đề thi 06: Thực thi Triển khai, Kiểm thử & Đưa vào Vận hành",
+      "en": "Exam 06: CRM Execution, Testing & System Launch"
+    },
+    "description": {
+      "vi": "Kiểm tra chi tiết về thiết kế chức năng, chuyển đổi dữ liệu (data migration), các cấp độ kiểm thử (Unit, System, UAT, Performance) và kế hoạch Go-Live.",
+      "en": "Tests functional design, data cleansing & migration, testing tiers (Unit, System, UAT, Performance), and go-live cutover playbooks."
+    },
+    "target_domain": "Execution & Testing",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Kostojohn et al. Ch. 6"
+    ],
+    "question_ids": [
+      "q-06-01",
+      "q-06-02",
+      "q-06-03",
+      "q-06-04",
+      "q-06-05",
+      "q-06-06",
+      "q-06-07",
+      "q-06-08",
+      "q-06-09",
+      "q-06-10",
+      "q-06-11",
+      "q-06-12",
+      "q-06-13",
+      "q-06-14",
+      "q-06-15",
+      "q-06-16",
+      "q-06-17",
+      "q-06-18",
+      "q-06-19",
+      "q-06-20"
+    ]
+  },
+  {
+    "id": "EXAM-07",
+    "exam_number": 7,
+    "title": {
+      "vi": "Đề thi 07: Kinh tế học về Sự Hài lòng, Lòng Trung thành & Giữ chân",
+      "en": "Exam 07: Satisfaction, Loyalty & Retention Economics"
+    },
+    "description": {
+      "vi": "Nắm vững chuỗi lợi nhuận dịch vụ, đo lường CSAT/NPS, trung thành hành vi vs thái độ, kinh tế học giữ chân và chiến lược giành lại khách hàng (win-back).",
+      "en": "Mastering the service-profit chain, CSAT/NPS metrics, behavioral vs. attitudinal loyalty, retention economics, and customer win-back."
+    },
+    "target_domain": "Loyalty & Retention",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 9, 10"
+    ],
+    "question_ids": [
+      "q-07-01",
+      "q-07-02",
+      "q-07-03",
+      "q-07-04",
+      "q-07-05",
+      "q-07-06",
+      "q-07-07",
+      "q-07-08",
+      "q-07-09",
+      "q-07-10",
+      "q-07-11",
+      "q-07-12",
+      "q-07-13",
+      "q-07-14",
+      "q-07-15",
+      "q-07-16",
+      "q-07-17",
+      "q-07-18",
+      "q-07-19",
+      "q-07-20"
+    ]
+  },
+  {
+    "id": "EXAM-08",
+    "exam_number": 8,
+    "title": {
+      "vi": "Đề thi 08: CRM Doanh nghiệp với Doanh nghiệp (B2B) & Đối tác",
+      "en": "Exam 08: Business-to-Business (B2B) CRM & Partnerships"
+    },
+    "description": {
+      "vi": "Đặc thù CRM trong môi trường B2B: Trung tâm mua sắm (Buying Centers), Quản lý tài khoản trọng yếu (KAM), chu kỳ bán hàng dài và hợp đồng quan hệ.",
+      "en": "Specifics of B2B CRM: Buying Centers, Key Account Management (KAM), extended sales cycles, and relational contracting."
+    },
+    "target_domain": "B2B CRM",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 8",
+      "GAFA / Platform Cases"
+    ],
+    "question_ids": [
+      "q-08-01",
+      "q-08-02",
+      "q-08-03",
+      "q-08-04",
+      "q-08-05",
+      "q-08-06",
+      "q-08-07",
+      "q-08-08",
+      "q-08-09",
+      "q-08-10",
+      "q-08-11",
+      "q-08-12",
+      "q-08-13",
+      "q-08-14",
+      "q-08-15",
+      "q-08-16",
+      "q-08-17",
+      "q-08-18",
+      "q-08-19",
+      "q-08-20"
+    ]
+  },
+  {
+    "id": "EXAM-09",
+    "exam_number": 9,
+    "title": {
+      "vi": "Đề thi 09: Trải nghiệm Đa kênh, Social CRM & Xu hướng Mới",
+      "en": "Exam 09: Omnichannel, Social CRM & Emerging Trends"
+    },
+    "description": {
+      "vi": "Trải nghiệm Phygital kết hợp online/offline, lắng nghe mạng xã hội (Social Listening), trí tuệ nhân tạo (AI) và tự động hóa trải nghiệm khách hàng.",
+      "en": "Phygital omnichannel integration, social listening & SCRM, conversational AI, and personalized customer journey orchestration."
+    },
+    "target_domain": "Omnichannel & SCRM",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 13, 14",
+      "Disney / Nike Cases"
+    ],
+    "question_ids": [
+      "q-09-01",
+      "q-09-02",
+      "q-09-03",
+      "q-09-04",
+      "q-09-05",
+      "q-09-06",
+      "q-09-07",
+      "q-09-08",
+      "q-09-09",
+      "q-09-10",
+      "q-09-11",
+      "q-09-12",
+      "q-09-13",
+      "q-09-14",
+      "q-09-15",
+      "q-09-16",
+      "q-09-17",
+      "q-09-18",
+      "q-09-19",
+      "q-09-20"
+    ]
+  },
+  {
+    "id": "EXAM-10",
+    "exam_number": 10,
+    "title": {
+      "vi": "Đề thi 10: Đo lường Hiệu quả, Đạo đức, Bảo mật & Tiến hóa CRM",
+      "en": "Exam 10: Metrics, Privacy, Ethics & Maintenance"
+    },
+    "description": {
+      "vi": "Tính toán CLV/CAC/ROCI, tuân thủ quyền riêng tư dữ liệu (GDPR/quy định), đạo đức thuật toán, và quy trình bảo trì, nâng cấp CRM sau Go-Live.",
+      "en": "Quantitative CLV/CAC/ROCI formulas, data privacy regulations (GDPR), ethical governance, and post-go-live maintenance and evolution."
+    },
+    "target_domain": "Metrics, Privacy & Evolution",
+    "question_count": 20,
+    "time_limit_minutes": 30,
+    "primary_sources": [
+      "Baran & Galka Ch. 11, 12",
+      "Kostojohn et al. Ch. 7"
+    ],
+    "question_ids": [
+      "q-10-01",
+      "q-10-02",
+      "q-10-03",
+      "q-10-04",
+      "q-10-05",
+      "q-10-06",
+      "q-10-07",
+      "q-10-08",
+      "q-10-09",
+      "q-10-10",
+      "q-10-11",
+      "q-10-12",
+      "q-10-13",
+      "q-10-14",
+      "q-10-15",
+      "q-10-16",
+      "q-10-17",
+      "q-10-18",
+      "q-10-19",
+      "q-10-20"
+    ]
+  }
+]

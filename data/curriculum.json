@@ -1,0 +1,1844 @@
+[
+  {
+    "id": "mod-baran-ch01",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part I",
+    "part_title": {
+      "vi": "Phần I: Lý thuyết và Sự phát triển của CRM",
+      "en": "Part I: CRM Theory and Development"
+    },
+    "chapter_num": 1,
+    "title": {
+      "vi": "Chương 1: Giới thiệu về Quản trị Quan hệ Khách hàng (CRM)",
+      "en": "Chapter 1: Introduction to Customer Relationship Management"
+    },
+    "pdf_page_start": 8,
+    "book_page": 1,
+    "learning_objectives": {
+      "vi": [
+        "Hiểu rõ bản chất đa chiều của CRM: Chiến lược, Tác nghiệp, Phân tích và Hợp tác.",
+        "Phân biệt rạch ròi giữa Marketing Giao dịch (Transactional) và Marketing Mối quan hệ (Relational).",
+        "Nắm vững các thành phần hữu hình cấu thành hệ thống CRM hiện đại và Trung tâm Tương tác Khách hàng (CEC).",
+        "Phân tích các cấu trúc kinh doanh then chốt gắn liền với CRM: Giá trị vòng đời khách hàng (CLV), Giá trị tài sản khách hàng (Customer Equity)."
+      ],
+      "en": [
+        "Understand the multi-dimensional nature of CRM: Strategic, Operational, Analytical, and Collaborative.",
+        "Distinguish sharply between Transactional Marketing and Relationship Marketing.",
+        "Master the tangible components of modern CRM systems and Customer Engagement Centers (CEC).",
+        "Analyze key business constructs tied to CRM: Customer Lifetime Value (CLV) and Customer Equity."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Strategic CRM",
+        "name": {
+          "vi": "CRM Chiến lược",
+          "en": "Strategic CRM"
+        },
+        "definition": {
+          "vi": "Triết lý kinh doanh đặt khách hàng làm trung tâm nhằm thu hút và giữ chân các khách hàng có giá trị sinh lời cao nhất.",
+          "en": "A core customer-centric business strategy aimed at winning and keeping profitable customers."
+        }
+      },
+      {
+        "term": "Operational CRM",
+        "name": {
+          "vi": "CRM Tác nghiệp",
+          "en": "Operational CRM"
+        },
+        "definition": {
+          "vi": "Tự động hóa các quy trình tiếp xúc trực tiếp với khách hàng (front-office) bao gồm bán hàng (SFA), tiếp thị và dịch vụ khách hàng.",
+          "en": "Automation of customer-facing front-office processes including sales force automation (SFA), marketing, and customer service."
+        }
+      },
+      {
+        "term": "Analytical CRM",
+        "name": {
+          "vi": "CRM Phân tích",
+          "en": "Analytical CRM"
+        },
+        "definition": {
+          "vi": "Khai phá và phân tích dữ liệu hành vi của khách hàng để tối ưu hóa quyết định kinh doanh và cá nhân hóa trải nghiệm.",
+          "en": "Systematic analysis of customer data to optimize business decisions and personalize customer interactions."
+        }
+      },
+      {
+        "term": "Collaborative CRM",
+        "name": {
+          "vi": "CRM Hợp tác",
+          "en": "Collaborative CRM"
+        },
+        "definition": {
+          "vi": "Đồng bộ hóa dữ liệu và kênh giao tiếp giữa các phòng ban nội bộ và các đối tác trong chuỗi giá trị nhằm phục vụ khách hàng liền mạch.",
+          "en": "Synchronization of communication channels and data across departments and value-chain partners for seamless customer service."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 1.1 Khái niệm và Các chiều kích của CRM\nCRM không đơn thuần là một phần mềm công nghệ, mà là sự tích hợp giữa chiến lược kinh doanh, văn hóa doanh nghiệp hướng về khách hàng và nền tảng dữ liệu số. Baran & Galka chỉ ra rằng CRM toàn diện bao gồm 4 chiều kích: Chiến lược (định hướng nguồn lực vào nhóm khách hàng mang lại giá trị cao nhất), Tác nghiệp (tự động hóa tiếp xúc tại điểm chạm), Phân tích (trích xuất tri thức từ kho dữ liệu) và Hợp tác (chia sẻ thông tin xuyên suốt tổ chức và chuỗi cung ứng).\n\n### 1.2 Chuyển dịch từ Marketing Giao dịch sang Marketing Mối quan hệ\n- **Marketing Giao dịch:** Tập trung vào từng thương vụ bán hàng đơn lẻ, mục tiêu ngắn hạn, chiêu thị đại trà, ít quan tâm đến dịch vụ sau bán và chỉ số giữ chân.\n- **Marketing Mối quan hệ (Cốt lõi CRM):** Tập trung vào việc xây dựng mối quan hệ tương hỗ bền vững, đo lường bằng Giá trị Vòng đời Khách hàng (CLV), cá nhân hóa thông điệp và tối ưu hóa chi phí giữ chân khách hàng (thường thấp hơn nhiều so với chi phí tìm kiếm khách hàng mới).\n\n### 1.3 Trung tâm Tương tác Khách hàng (CEC - Customer Engagement Center)\nSự tiến hóa từ Call Center truyền thống (chỉ tiếp nhận cuộc gọi thoại một chiều) lên Contact Center đa kênh, và nay là Customer Engagement Center (CEC). CEC tích hợp thoại, email, chat, mạng xã hội, ứng dụng di động vào một màn hình duy nhất cho nhân viên dịch vụ (Single Desktop View), giúp nhận diện lịch sử tương tác của khách hàng theo thời gian thực.",
+      "en": "### 1.1 Definition and Dimensions of CRM\nCRM is not merely a software application, but an integration of business strategy, customer-centric organizational culture, and digital data infrastructure. Baran & Galka identify four core dimensions of comprehensive CRM: Strategic (directing resources toward high-value customers), Operational (front-office automation), Analytical (extracting actionable intelligence from data warehouses), and Collaborative (sharing customer insights across departments and supply-chain partners).\n\n### 1.2 Paradigm Shift from Transactional to Relationship Marketing\n- **Transactional Marketing:** Focuses on discrete sales, short-term horizons, mass promotional pushes, minimal post-purchase service, and acquisition over retention.\n- **Relationship Marketing (CRM Foundation):** Focuses on continuous mutual value creation, measured by Customer Lifetime Value (CLV), personalized interactions, and optimizing retention economics (which costs substantially less than new customer acquisition).\n\n### 1.3 Customer Engagement Centers (CEC)\nThe evolution from traditional single-channel call centers into multichannel contact centers, and modern Customer Engagement Centers (CEC). CEC orchestrates voice, email, web chat, social media, and mobile apps into a unified agent desktop, providing real-time visibility into complete customer interaction history."
+    },
+    "key_takeaways": {
+      "vi": [
+        "CRM là chiến lược kinh doanh tổng thể, công nghệ chỉ là công cụ hỗ trợ hiện thực hóa chiến lược.",
+        "Chi phí giữ chân một khách hàng hiện tại thường chỉ bằng 1/5 đến 1/7 chi phí thu hút một khách hàng mới.",
+        "CRM hiệu quả đòi hỏi sự phối hợp đồng bộ giữa Chiến lược, Tác nghiệp, Phân tích và Hợp tác."
+      ],
+      "en": [
+        "CRM is an overarching business strategy; software and technology are merely enablers.",
+        "Retaining an existing customer typically costs one-fifth to one-seventh of acquiring a new one.",
+        "Effective CRM demands synchronized harmony across Strategic, Operational, Analytical, and Collaborative dimensions."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b01-01",
+        "question": {
+          "vi": "Phân tích 4 chiều kích của CRM (Chiến lược, Tác nghiệp, Phân tích, Hợp tác). Một doanh nghiệp chỉ mua phần mềm CRM tác nghiệp mà thiếu định hướng chiến lược thì sẽ gặp rủi ro gì?",
+          "en": "Analyze the 4 dimensions of CRM (Strategic, Operational, Analytical, Collaborative). What risks does a firm face if it implements operational CRM software without strategic orientation?"
+        },
+        "model_answer": {
+          "vi": "Nếu chỉ cài đặt phần mềm tác nghiệp mà thiếu chiến lược khách hàng, doanh nghiệp sẽ rơi vào bẫy 'tự động hóa quy trình kém hiệu quả'. Nhân viên có thể ghi nhận dữ liệu nhưng ban lãnh đạo không biết phân bổ nguồn lực vào khách hàng sinh lời cao, dẫn đến lãng phí chi phí đầu tư CNTT và tỷ lệ rời bỏ khách hàng không giảm.",
+          "en": "Without strategic orientation, the company falls into the trap of 'automating inefficient processes.' Staff record interactions without clear guidance on prioritizing profitable customer tiers, resulting in wasted IT expenditure and unreduced customer churn."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 1",
+      "pages": "8-47 (Book pp. 1-38)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch02",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part I",
+    "part_title": {
+      "vi": "Phần I: Lý thuyết và Sự phát triển của CRM",
+      "en": "Part I: CRM Theory and Development"
+    },
+    "chapter_num": 2,
+    "title": {
+      "vi": "Chương 2: Lịch sử và Sự Phát triển của CRM",
+      "en": "Chapter 2: The History and Development of CRM"
+    },
+    "pdf_page_start": 48,
+    "book_page": 39,
+    "learning_objectives": {
+      "vi": [
+        "Theo dõi nguồn gốc lịch sử của CRM từ Marketing trực tiếp (Direct Marketing) đến Tiếp thị cơ sở dữ liệu (Database Marketing).",
+        "Hiểu rõ sự ra đời của Tự động hóa Lực lượng Bán hàng (Sales Force Automation - SFA) trong thập niên 1990.",
+        "Phân tích làn sóng e-CRM vào đầu những năm 2000 và sự trỗi dậy của điện toán đám mây (Cloud CRM).",
+        "Rút ra các bài học đắt giá từ tỷ lệ thất bại cao của các dự án CRM thời kỳ đầu."
+      ],
+      "en": [
+        "Trace the historical roots of CRM from Direct Marketing to Database Marketing.",
+        "Understand the genesis of Sales Force Automation (SFA) during the 1990s.",
+        "Analyze the e-CRM wave of the early 2000s and the rise of Cloud-based CRM solutions.",
+        "Extract critical lessons from the high failure rates of early-generation CRM implementations."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Database Marketing",
+        "name": {
+          "vi": "Tiếp thị Cơ sở Dữ liệu",
+          "en": "Database Marketing"
+        },
+        "definition": {
+          "vi": "Hình thức tiếp thị sử dụng cơ sở dữ liệu khách hàng để phân tích hành vi và gửi các thông điệp tiếp thị cá nhân hóa.",
+          "en": "A form of marketing using databases of customers to analyze behavior and generate targeted, personalized communications."
+        }
+      },
+      {
+        "term": "Sales Force Automation (SFA)",
+        "name": {
+          "vi": "Tự động hóa Lực lượng Bán hàng (SFA)",
+          "en": "Sales Force Automation (SFA)"
+        },
+        "definition": {
+          "vi": "Phần mềm hỗ trợ nhân viên bán hàng quản lý phễu bán hàng (pipeline), lịch hẹn, liên hệ và báo giá.",
+          "en": "Software designed to streamline sales activities including pipeline management, appointments, contacts, and quote generation."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 2.1 Các giai đoạn Tiến hóa của CRM\n1. **Kỷ nguyên Marketing Trực tiếp & Cơ sở Dữ liệu (Thập niên 1970–1980):** Doanh nghiệp bắt đầu thu thập danh sách khách hàng gửi thư trực tiếp (direct mail). Việc ứng dụng máy tính lớn (mainframe) giúp lưu trữ lịch sử giao dịch và mã bưu chính để phân đoạn khách hàng thô sơ.\n2. **Kỷ nguyên Tự động hóa Bán hàng - SFA (Thập niên 1990):** Sự xuất hiện của các phần mềm quản lý liên hệ (contact management như ACT!) và hệ thống ERP của SAP, Baan, Oracle. Các công ty nhận thấy nhân viên kinh doanh dành quá nhiều thời gian cho việc hành chính giấy tờ nên đã đầu tư vào SFA để theo dõi cơ hội kinh doanh (opportunity tracking).\n3. **Kỷ nguyên CRM Doanh nghiệp & Sự bùng nổ Dot-com (1995–2002):** Siebel Systems trở thành biểu tượng của phần mềm Enterprise CRM On-Premises. Tuy nhiên, giai đoạn này chứng kiến tỷ lệ thất bại lên tới 50-70% do doanh nghiệp đầu tư hàng triệu USD vào phần mềm mà không chuẩn hóa quy trình, thiếu sự chấp nhận của người dùng (user adoption) và dữ liệu bị phân mảnh.\n4. **Kỷ nguyên Điện toán Đám mây & SaaS (2000–Hiện nay):** Sự ra đời của Salesforce (1999) mở ra mô hình CRM đa người thuê trên đám mây (Multi-tenant Cloud), giúp giảm mạnh chi phí đầu tư ban đầu (CAPEX) thành chi phí vận hành định kỳ (OPEX), mở rộng khả năng tiếp cận CRM cho cả doanh nghiệp vừa và nhỏ.",
+      "en": "### 2.1 The Evolutionary Eras of CRM\n1. **Direct & Database Marketing Era (1970s–1980s):** Initial collection of customer lists for direct mail campaigns. Mainframe computers enabled transactional storage and postal code segmentation.\n2. **Sales Force Automation Era (1990s):** Emergence of digital contact managers (e.g. ACT!) and ERP systems. Businesses sought to liberate sales reps from administrative paperwork through digital pipeline and opportunity tracking.\n3. **Enterprise CRM Boom & Dot-com Turmoil (1995–2002):** Siebel Systems pioneered large-scale On-Premises CRM. However, failure rates reached 50–70% because enterprises poured millions into technology without process standardization, executive governance, or front-line user adoption.\n4. **Cloud & SaaS Era (2000s–Present):** Pioneered by Salesforce (1999), multi-tenant cloud architectures converted prohibitive capital expenditures (CAPEX) into predictable operational subscriptions (OPEX), democratizing enterprise-grade CRM for organizations of all scales."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Lịch sử chứng minh công nghệ CRM chỉ thành công khi đi kèm với sự chấp thuận của người dùng cuối.",
+        "Điện toán đám mây (Cloud/SaaS) đã chuyển đổi căn bản mô hình chi phí triển khai CRM từ CAPEX sang OPEX."
+      ],
+      "en": [
+        "History demonstrates that CRM technology fails without end-user adoption and process clarity.",
+        "Cloud/SaaS fundamentally restructured CRM cost models from heavy CAPEX to flexible OPEX."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b02-01",
+        "question": {
+          "vi": "Tại sao các dự án CRM On-Premises trong thập niên 1990 lại có tỷ lệ thất bại rất cao? Mô hình SaaS đã giải quyết các bất cập đó như thế nào?",
+          "en": "Why did early On-Premises CRM projects in the 1990s suffer high failure rates? How did the SaaS model address those shortcomings?"
+        },
+        "model_answer": {
+          "vi": "Các dự án 1990s thất bại do chi phí bản quyền và hạ tầng máy chủ quá lớn, thời gian triển khai kéo dài 1-2 năm, phần mềm quá phức tạp khiến nhân viên bán hàng từ chối nhập dữ liệu. SaaS giải quyết bằng cách triển khai nhanh qua trình duyệt, cập nhật tính năng liên tục, trả phí theo người dùng thực tế và giao diện thân thiện hơn.",
+          "en": "1990s implementations failed due to immense upfront server/licensing capital, 12-24 month deployment cycles, and bloated interfaces that prompted salesperson revolt. SaaS resolved this with instant browser access, continuous automated upgrades, pay-as-you-go user seats, and intuitive UX."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 2",
+      "pages": "48-80 (Book pp. 39-70)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch03",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part I",
+    "part_title": {
+      "vi": "Phần I: Lý thuyết và Sự phát triển của CRM",
+      "en": "Part I: CRM Theory and Development"
+    },
+    "chapter_num": 3,
+    "title": {
+      "vi": "Chương 3: Marketing Quan hệ và Nền tảng Lý thuyết của CRM",
+      "en": "Chapter 3: Relationship Marketing and CRM"
+    },
+    "pdf_page_start": 81,
+    "book_page": 71,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững các lý thuyết nền tảng: Lý thuyết Cam kết - Tin cậy (Commitment-Trust Theory của Morgan & Hunt).",
+        "Phân tích cơ chế chuyển đổi chi phí (Switching Costs) và các rào cản rời bỏ.",
+        "Hiểu rõ 3 cấp độ liên kết mối quan hệ: Liên kết Tài chính, Liên kết Xã hội và Liên kết Cấu trúc.",
+        "Đánh giá tính chuẩn tắc trong quan hệ (Relational Norms) và nguyên lý công bằng (Equity Theory)."
+      ],
+      "en": [
+        "Master theoretical foundations: Morgan & Hunt's Commitment-Trust Theory.",
+        "Analyze switching costs mechanisms and structural barriers to defection.",
+        "Understand the 3 levels of relationship bonding: Financial, Social, and Structural.",
+        "Evaluate relational norms and equity theory in customer retention."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Commitment-Trust Theory",
+        "name": {
+          "vi": "Lý thuyết Cam kết - Tin cậy",
+          "en": "Commitment-Trust Theory"
+        },
+        "definition": {
+          "vi": "Mô hình lý thuyết khẳng định rằng Niềm tin và Sự cam kết là hai biến số trung gian quan trọng nhất dẫn đến sự thành công của mối quan hệ khách hàng.",
+          "en": "Theoretical model establishing that trust and commitment are the primary mediating variables driving relationship marketing success."
+        }
+      },
+      {
+        "term": "Structural Bonding",
+        "name": {
+          "vi": "Liên kết Cấu trúc",
+          "en": "Structural Bonding"
+        },
+        "definition": {
+          "vi": "Mối quan hệ gắn kết thông qua việc tích hợp sâu rộng các quy trình, hệ thống công nghệ hoặc thiết bị mà khó có thể chuyển sang nhà cung cấp khác.",
+          "en": "Bonds formed by integrating technological systems, joint workflows, or dedicated equipment that create high switching costs."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 3.1 Lý thuyết Cam kết - Tin cậy (Morgan & Hunt, 1994)\nBaran & Galka nhấn mạnh rằng mối quan hệ khách hàng không thể tồn tại bền vững chỉ bằng các ưu đãi giảm giá ngắn hạn. Niềm tin (Trust) xuất hiện khi khách hàng tin vào độ tin cậy và sự chính trực của doanh nghiệp. Cam kết (Commitment) là niềm tin rằng mối quan hệ hiện tại quan trọng đến mức đáng để bỏ nỗ lực tối đa nhằm duy trì nó vô thời hạn.\n\n### 3.2 Ba Cấp độ Gắn kết Mối quan hệ (Berry & Parasuraman)\n1. **Cấp độ 1 - Gắn kết Tài chính (Financial Bonds):** Dùng giá, điểm tích lũy, chiết khấu để giữ chân khách hàng (ví dụ: thẻ khách hàng thân thiết giảm giá). Điểm yếu: Rất dễ bị đối thủ cạnh tranh sao chép bằng chính sách giá thấp hơn.\n2. **Cấp độ 2 - Gắn kết Xã hội (Social Bonds):** Xây dựng sợi dây liên kết cá nhân hóa, sự thấu hiểu, quan tâm và đối xử như đối tác quen thuộc (ví dụ: chuyên viên quản lý khách hàng ưu tiên, chúc mừng sinh nhật, sự kiện tri ân).\n3. **Cấp độ 3 - Gắn kết Cấu trúc (Structural Bonds):** Tích hợp sâu vào quy trình vận hành và hệ thống dữ liệu của khách hàng (ví dụ: hệ thống đặt hàng tự động EDI/API giữa nhà sản xuất và đại lý, ứng dụng quản lý nhà thông minh). Đây là cấp độ gắn kết bền vững nhất và tạo ra chi phí chuyển đổi (Switching Costs) cao nhất.",
+      "en": "### 3.1 Commitment-Trust Theory (Morgan & Hunt, 1994)\nBaran & Galka stress that customer relationships cannot endure on price discounts alone. Trust exists when one party has confidence in an exchange partner's reliability and integrity. Relationship commitment is an enduring desire to maintain a valued relationship.\n\n### 3.2 Three Levels of Relationship Bonds (Berry & Parasuraman)\n1. **Level 1 - Financial Bonds:** Stimulated through price incentives, reward points, and discounts. Weakness: easily duplicated by price-undercutting competitors.\n2. **Level 2 - Social Bonds:** Cultivated through interpersonal personalization, empathetic communication, and mutual appreciation (e.g., dedicated account managers, personal acknowledgments).\n3. **Level 3 - Structural Bonds:** Created by embedding joint technologies, integrated workflows, and specialized processes (e.g., direct API/EDI integrations between supply chain partners). Provides highest retention resilience and highest switching barriers."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Gắn kết tài chính là rào cản yếu nhất; gắn kết cấu trúc là rào cản bền vững nhất chống lại sự lôi kéo của đối thủ.",
+        "Niềm tin và sự cam kết là hai trụ cột bảo vệ doanh nghiệp trong những giai đoạn khủng hoảng hoặc biến động thị trường."
+      ],
+      "en": [
+        "Financial bonding is the easiest to replicate; structural bonding establishes the most durable moat against competitive churn.",
+        "Trust and commitment serve as vital shock absorbers during market crises and operational failures."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b03-01",
+        "question": {
+          "vi": "So sánh 3 cấp độ gắn kết: Tài chính, Xã hội và Cấu trúc. Tại sao một chương trình khách hàng thân thiết chỉ dựa vào tích điểm (Financial Bonds) thường thất bại trong việc tạo ra lòng trung thành thực sự?",
+          "en": "Compare Financial, Social, and Structural relationship bonds. Why do loyalty programs relying solely on points accumulation fail to generate authentic attitudinal loyalty?"
+        },
+        "model_answer": {
+          "vi": "Chương trình chỉ tích điểm tạo ra 'lòng trung thành giả tạo' (spurious loyalty) dựa trên tính vụ lợi. Khách hàng sẵn sàng chuyển sang đối thủ ngay khi đối thủ đưa ra mức chiết khấu hấp dẫn hơn. Ngược lại, gắn kết xã hội tạo cảm xúc và gắn kết cấu trúc tạo rào cản kỹ thuật khiến chi phí chuyển đổi quá cao.",
+          "en": "Points-only programs create spurious transactional loyalty driven by opportunistic self-interest. Customers defect immediately when a rival offers steeper discounts. In contrast, social bonding fosters emotional attachment, while structural bonding creates prohibitive switching barriers."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 3",
+      "pages": "81-112 (Book pp. 71-101)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch04",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part I",
+    "part_title": {
+      "vi": "Phần I: Lý thuyết và Sự phát triển của CRM",
+      "en": "Part I: CRM Theory and Development"
+    },
+    "chapter_num": 4,
+    "title": {
+      "vi": "Chương 4: Tổ chức Doanh nghiệp và Định hướng Khách hàng",
+      "en": "Chapter 4: Organization and CRM"
+    },
+    "pdf_page_start": 113,
+    "book_page": 102,
+    "learning_objectives": {
+      "vi": [
+        "Phân tích sự khác biệt giữa cấu trúc tổ chức định hướng sản phẩm và định hướng khách hàng.",
+        "Giải quyết mâu thuẫn 'silo phòng ban' cản trở dòng luân chuyển thông tin khách hàng.",
+        "Xây dựng văn hóa lấy khách hàng làm trung tâm (Customer-Centric Culture) và cơ chế đãi ngộ phù hợp.",
+        "Áp dụng nguyên tắc quản trị thay đổi (Change Management) khi triển khai CRM trong tổ chức."
+      ],
+      "en": [
+        "Analyze structural differences between product-oriented and customer-oriented organizational designs.",
+        "Resolve departmental silos that obstruct cross-functional customer data flow.",
+        "Foster a customer-centric culture aligned with employee incentive systems.",
+        "Apply change management principles during organizational CRM adoption."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Customer-Centric Organization",
+        "name": {
+          "vi": "Tổ chức Lấy Khách hàng làm Trung tâm",
+          "en": "Customer-Centric Organization"
+        },
+        "definition": {
+          "vi": "Mô hình tổ chức cấu trúc các phòng ban, chỉ số đo lường hiệu quả (KPI) và quy trình xoay quanh từng phân khúc khách hàng thay vì từng dòng sản phẩm.",
+          "en": "An organizational model where departments, KPIs, and operating processes are structured around customer segments rather than product silos."
+        }
+      },
+      {
+        "term": "Departmental Silos",
+        "name": {
+          "vi": "Ốc đảo Phòng ban (Silos)",
+          "en": "Departmental Silos"
+        },
+        "definition": {
+          "vi": "Tình trạng các bộ phận nội bộ (Marketing, Bán hàng, Dịch vụ, Kế toán) nắm giữ dữ liệu riêng rẽ và không chia sẻ cho nhau, làm phân mảnh trải nghiệm khách hàng.",
+          "en": "The isolated compartmentalization of data and workflows among sales, marketing, and service units, fragmenting customer experience."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 4.1 Tái cấu trúc Tổ chức theo Định hướng Khách hàng\nPhần lớn các doanh nghiệp truyền thống được xây dựng theo cấu trúc 'Định hướng Sản phẩm' (Product-Centric), trong đó các giám đốc sản phẩm chỉ quan tâm đến doanh số của sản phẩm mình quản lý mà không biết khách hàng đang mua những sản phẩm nào khác của công ty. Để triển khai CRM thành công, doanh nghiệp phải chuyển dịch sang cấu trúc 'Định hướng Khách hàng' (Customer-Centric), bổ nhiệm các Giám đốc Phân khúc Khách hàng (Customer Segment Managers) có trách nhiệm tối đa hóa tổng giá trị khách hàng trên toàn bộ dải sản phẩm.\n\n### 4.2 Xóa bỏ Ốc đảo Dữ liệu (Breaking Silos)\nKhi khách hàng liên hệ với bộ phận hỗ trợ kỹ thuật, nếu nhân viên dịch vụ không biết được đơn hàng đang được xử lý bên bộ phận bán hàng, khách hàng sẽ cảm thấy bực bội vì phải lặp lại thông tin nhiều lần. CRM hợp tác giải quyết vấn đề này bằng cách thiết lập Chân dung Khách hàng Hợp nhất (360-Degree Single Customer View) dùng chung cho tất cả các phòng ban.\n\n### 4.3 Đãi ngộ và Quản trị Thay đổi\nNhân viên bán hàng thường có xu hướng giấu kín thông tin liên hệ và nhật ký giao dịch vì xem đó là 'tài sản cá nhân' để đảm bảo vị thế. Doanh nghiệp phải tái thiết lập hệ thống KPI và hoa hồng: không chỉ thưởng cho doanh số ký kết mà còn thưởng cho việc chia sẻ dữ liệu chính xác và mức độ hài lòng lâu dài của khách hàng.",
+      "en": "### 4.1 Re-engineering Toward a Customer-Centric Organization\nTraditional organizations follow product-centric hierarchies where product managers optimize isolated SKU revenues, oblivious to cross-category customer spend. Successful CRM mandates a customer-centric realignment: appointing Customer Segment Managers tasked with maximizing customer lifetime value across the entire brand portfolio.\n\n### 4.2 Breaking Down Departmental Silos\nFragmented systems force customers to repeat grievances across sales, billing, and technical support. Collaborative CRM establishes a unified 360-Degree Single Customer View accessible across all corporate touchpoints.\n\n### 4.3 Compensation Alignment and Change Management\nSales representatives frequently hoard client contact records as proprietary personal leverage. Executive leadership must restructure compensation frameworks to reward accurate database hygiene, collaborative cross-selling, and net customer retention."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Cấu trúc sản phẩm khiến tổ chức bị phân mảnh; cấu trúc khách hàng gắn kết tổ chức quanh giá trị vòng đời khách hàng.",
+        "CRM sẽ thất bại nếu hệ thống chỉ tiêu đánh giá (KPI) của nhân viên vẫn chỉ tập trung vào chỉ số giao dịch ngắn hạn."
+      ],
+      "en": [
+        "Product-centric architectures fragment companies; customer-centric alignment unites the firm around customer lifetime value.",
+        "CRM adoption fails if employee incentives remain strictly anchored to short-term transaction volumes."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b04-01",
+        "question": {
+          "vi": "Ốc đảo phòng ban (Silos) gây tổn hại như thế nào đến trải nghiệm khách hàng? Lãnh đạo cần làm gì để vượt qua rào cản văn hóa khi triển khai CRM?",
+          "en": "How do departmental silos impair the customer experience? What leadership interventions are required to overcome cultural resistance during CRM adoption?"
+        },
+        "model_answer": {
+          "vi": "Silos làm phân mảnh dữ liệu, khiến khách hàng nhận thông điệp mâu thuẫn từ tiếp thị và bị nhân viên dịch vụ bỏ rơi. Để vượt qua rào cản, lãnh đạo phải thay đổi cơ chế khen thưởng gắn liền với việc cập nhật dữ liệu CRM và đích thân nêu gương sử dụng hệ thống.",
+          "en": "Silos fragment customer knowledge, subjecting clients to conflicting marketing solicitations and disjointed service handoffs. Leaders must align compensation with CRM data hygiene and champion system utilization by example."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 4",
+      "pages": "113-139 (Book pp. 102-127)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch05",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part II",
+    "part_title": {
+      "vi": "Phần II: Quản trị Dữ liệu và Công nghệ",
+      "en": "Part II: Data Management and Technology"
+    },
+    "chapter_num": 5,
+    "title": {
+      "vi": "Chương 5: CRM và Quản trị Dữ liệu Khách hàng",
+      "en": "Chapter 5: CRM and Data Management"
+    },
+    "pdf_page_start": 140,
+    "book_page": 128,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững các phương pháp thu thập dữ liệu sơ cấp và thứ cấp tại các điểm chạm khách hàng.",
+        "Giải quyết bài toán tích hợp dữ liệu khách hàng (Customer Data Integration - CDI).",
+        "Hiểu rõ khái niệm Hộ gia đình hóa (Householding) và khử trùng lặp dữ liệu (Deduplication).",
+        "Xây dựng góc nhìn khách hàng hợp nhất (Single Customer View - SCV) xuyên suốt tổ chức."
+      ],
+      "en": [
+        "Master primary and secondary data capture methods across customer touchpoints.",
+        "Solve the Customer Data Integration (CDI) challenge across fragmented legacy systems.",
+        "Understand Householding concepts, entity resolution, and data deduplication.",
+        "Build an accurate Single Customer View (SCV) across enterprise silos."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Customer Data Integration (CDI)",
+        "name": {
+          "vi": "Tích hợp Dữ liệu Khách hàng (CDI)",
+          "en": "Customer Data Integration (CDI)"
+        },
+        "definition": {
+          "vi": "Quy trình hợp nhất, làm sạch và đồng bộ dữ liệu khách hàng từ nhiều nguồn tiếp xúc phân mảnh thành một bản ghi chuẩn hóa duy nhất.",
+          "en": "The technical process of consolidating, cleansing, and synchronizing customer records from disparate operational silos into a single master identity."
+        }
+      },
+      {
+        "term": "Householding",
+        "name": {
+          "vi": "Hộ gia đình hóa (Householding)",
+          "en": "Householding"
+        },
+        "definition": {
+          "vi": "Kỹ thuật gom nhóm các cá nhân cùng chung sống tại một địa chỉ thực tế hoặc cùng một đơn vị kinh tế để tránh gửi thông điệp tiếp thị trùng lặp và tối ưu hóa ngân sách.",
+          "en": "The analytical practice of linking individual customer records residing at the same physical address or economic unit to prevent redundant marketing solicitations."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 5.1 Quản trị Dữ liệu - Động cơ của CRM\nDữ liệu là tài sản cốt lõi thúc đẩy mọi quyết định trong CRM. Nếu dữ liệu bị sai lệch, phân mảnh hoặc thiếu cập nhật (hiện tượng 'Rác vào, rác ra' - Garbage In, Garbage Out), mọi nỗ lực tự động hóa và phân tích đều sẽ thất bại.\n\n### 5.2 Thách thức Tích hợp Dữ liệu Khách hàng (CDI)\nDoanh nghiệp thường vận hành nhiều hệ thống riêng lẻ: phần mềm bán hàng tại cửa hàng (POS), trang thương mại điện tử, tổng đài chăm sóc khách hàng, và phần mềm kế toán. Cùng một khách hàng có thể xuất hiện với tên gọi 'Nguyen Van A' ở POS nhưng lại là 'A. Nguyen' trên website. CDI thực hiện 5 bước cốt lõi:\n1. *Thu thập dữ liệu (Ingestion):* Gom dữ liệu từ mọi điểm chạm.\n2. *Chuẩn hóa (Standardization):* Định dạng lại số điện thoại, địa chỉ, email.\n3. *Khử trùng lặp (Deduplication / Matching):* Áp dụng thuật toán so khớp mờ (fuzzy matching) để xác định các bản ghi trùng lặp.\n4. *Hộ gia đình hóa (Householding):* Gom nhóm các thành viên trong gia đình.\n5. *Hợp nhất thành Bản ghi Vàng (Golden Record):* Tạo ra Chân dung Khách hàng Hợp nhất (SCV).\n\n### 5.3 Nguồn Dữ liệu Sơ cấp vs. Thứ cấp\n- **Dữ liệu Sơ cấp:** Do doanh nghiệp trực tiếp thu thập qua giao dịch, đăng ký thành viên, tương tác ứng dụng.\n- **Dữ liệu Thứ cấp:** Mua từ các nhà môi giới dữ liệu (data brokers) như Nielsen, Experian để bổ sung nhân khẩu học, thu nhập ước tính và sở thích lối sống.",
+      "en": "### 5.1 Data Management as the Engine of CRM\nData is the foundational fuel of CRM strategy. Dirty, fragmented, or obsolete data produces the 'Garbage In, Garbage Out' dilemma, paralyzing analytical insights and operational execution.\n\n### 5.2 The Customer Data Integration (CDI) Challenge\nEnterprises inherently run siloed architectures: in-store POS terminals, e-commerce web storefronts, call center logs, and ERP accounting systems. A single customer may appear with subtle variations across touchpoints. CDI executes a five-stage harmonization discipline:\n1. *Ingestion:* Aggregating raw feeds from all transactional and digital touchpoints.\n2. *Standardization:* Parsing postal addresses, phone numbers, and names into unified formats.\n3. *Matching & Deduplication:* Employing deterministic and probabilistic fuzzy matching algorithms to reconcile duplicate records.\n4. *Householding:* Clustered aggregation of individuals within the same household.\n5. *Golden Record Generation:* Producing an authoritative Single Customer View (SCV).\n\n### 5.3 Primary vs. Secondary Customer Data\n- **Primary Data:** Proprietary first-party data captured directly through purchases, warranty registrations, and digital app usage.\n- **Secondary Data:** Third-party data syndicated from brokers (e.g., Acxiom, Experian) to append credit indicators, lifestyle segmentation, and household income estimates."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Tích hợp dữ liệu khách hàng (CDI) là bước kỹ thuật bắt buộc để xóa bỏ ốc đảo thông tin.",
+        "Householding giúp doanh nghiệp tiết kiệm hàng triệu USD chi phí gửi thư tiếp thị và tránh gây khó chịu cho khách hàng."
+      ],
+      "en": [
+        "Customer Data Integration (CDI) is the essential architectural prerequisite for eliminating data silos.",
+        "Householding optimizes marketing expenditure and shields consumers from annoying duplicate solicitations."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b05-01",
+        "question": {
+          "vi": "Trình bày 5 bước trong quy trình Tích hợp Dữ liệu Khách hàng (CDI). Tại sao việc tạo ra 'Bản ghi Vàng' (Golden Record) lại quyết định chất lượng dịch vụ khách hàng?",
+          "en": "Detail the 5 steps of the Customer Data Integration (CDI) process. Why is creating a 'Golden Record' decisive for customer service excellence?"
+        },
+        "model_answer": {
+          "vi": "5 bước gồm: Thu thập, Chuẩn hóa, Khử trùng lặp, Hộ gia đình hóa và Hợp nhất Bản ghi Vàng. Bản ghi Vàng hợp nhất mọi lịch sử mua sắm và sự cố, giúp nhân viên phục vụ khách hàng tức thì mà không yêu cầu khách hàng phải lặp lại thông tin.",
+          "en": "The 5 steps are Ingestion, Standardization, Matching/Deduplication, Householding, and Golden Record synthesis. The Golden Record equips front-line agents with complete context, eliminating repetitive customer questioning."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 5",
+      "pages": "140-179 (Book pp. 128-166)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch06",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part II",
+    "part_title": {
+      "vi": "Phần II: Quản trị Dữ liệu và Công nghệ",
+      "en": "Part II: Data Management and Technology"
+    },
+    "chapter_num": 6,
+    "title": {
+      "vi": "Chương 6: Công nghệ và Nền tảng Dữ liệu CRM",
+      "en": "Chapter 6: Technology and Data Platforms"
+    },
+    "pdf_page_start": 180,
+    "book_page": 167,
+    "learning_objectives": {
+      "vi": [
+        "Phân tích kiến trúc tổng thể của hệ thống CNTT hỗ trợ CRM.",
+        "Hiểu rõ sự khác biệt và vai trò phối hợp giữa Kho Dữ liệu (Data Warehouse - DW), Kho Lưu trữ Dữ liệu Vận hành (ODS), và Data Mart.",
+        "Đánh giá Ma trận Gartner Magic Quadrant trong việc lựa chọn nhà cung cấp giải pháp CRM.",
+        "Nắm vững các phương thức tích hợp hệ thống qua API, Web Services và Middleware."
+      ],
+      "en": [
+        "Analyze enterprise IT architecture supporting modern CRM ecosystems.",
+        "Distinguish the roles of Data Warehouses (DW), Operational Data Stores (ODS), and Data Marts.",
+        "Apply Gartner Magic Quadrants to evaluate CRM platform vendor competencies.",
+        "Master integration mechanisms including APIs, Web Services, and Enterprise Service Buses (ESB)."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Operational Data Store (ODS)",
+        "name": {
+          "vi": "Kho Dữ liệu Vận hành (ODS)",
+          "en": "Operational Data Store (ODS)"
+        },
+        "definition": {
+          "vi": "Cơ sở dữ liệu trung gian lưu trữ dữ liệu tác nghiệp thời gian thực (hoặc gần thực) phục vụ các hoạt động hàng ngày của nhân viên mặt tiền.",
+          "en": "An interim operational database providing real-time snapshot data for front-office transaction processing and immediate query resolution."
+        }
+      },
+      {
+        "term": "Data Warehouse (DW)",
+        "name": {
+          "vi": "Kho Dữ liệu Doanh nghiệp (Data Warehouse)",
+          "en": "Enterprise Data Warehouse (EDW)"
+        },
+        "definition": {
+          "vi": "Hệ thống lưu trữ dữ liệu lịch sử tổng hợp quy mô lớn được tối ưu hóa cho việc truy vấn phân tích, báo cáo quản trị và khai phá dữ liệu (OLAP).",
+          "en": "A centralized repository of historical, aggregated enterprise data optimized for analytical reporting, business intelligence, and data mining (OLAP)."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 6.1 Kiến trúc Nền tảng Công nghệ CRM\nMột hệ thống CRM hoàn chỉnh không hoạt động độc lập mà nằm trong một hệ sinh thái kiến trúc dữ liệu gồm 3 tầng cơ sở dữ liệu chính:\n1. **Cơ sở dữ liệu Tác nghiệp (OLTP / ODS):** Xử lý các giao dịch tức thời (đặt hàng, cập nhật vé hỗ trợ). Dữ liệu thay đổi liên tục từng giây, ưu tiên tốc độ đọc/ghi đơn lẻ.\n2. **Kho Dữ liệu Doanh nghiệp (Enterprise Data Warehouse - EDW):** Định kỳ (hàng đêm/hàng tuần), dữ liệu từ các hệ thống tác nghiệp được trích xuất, chuyển đổi và nạp (ETL) vào EDW. Dữ liệu ở đây là bất biến (read-only) và có tính lịch sử nhiều năm.\n3. **Data Mart:** Là các phân vùng kho dữ liệu chuyên biệt phục vụ riêng cho một phòng ban (ví dụ: Marketing Data Mart để chạy chiến dịch email, Sales Data Mart để tính hoa hồng).\n\n### 6.2 Đánh giá Nhà cung cấp qua Gartner Magic Quadrant\nBaran & Galka giới thiệu phương pháp phân loại nhà cung cấp của Gartner dựa trên 2 trục:\n- *Khả năng Thực thi (Ability to Execute):* Năng lực tài chính, mạng lưới hỗ trợ, khả năng mở rộng sản phẩm.\n- *Tầm nhìn Chiến lược (Completeness of Vision):* Khả năng đón đầu xu hướng công nghệ (Cloud, AI, di động).\nBốn góc phần tư gồm: Leaders (Dẫn đầu), Challengers (Thách thức), Visionaries (Tầm nhìn), và Niche Players (Thị trường ngách).",
+      "en": "### 6.1 CRM Technological Architecture & Data Hierarchy\nAn enterprise CRM does not function as an island, but anchors a tri-tiered database architecture:\n1. **Operational Databases (OLTP / ODS):** Real-time transactional stores handling high-throughput read/write operations (e.g. active cart checkouts, ticket updates).\n2. **Enterprise Data Warehouse (EDW):** Historical repository populated via periodic Extract-Transform-Load (ETL) pipelines. Read-only and structured for deep longitudinal query analysis (OLAP).\n3. **Data Marts:** Departmental analytical subsets tailored to specific business domains (e.g., Marketing Campaign Marts, Sales Commission Marts).\n\n### 6.2 Vendor Selection via Gartner's Magic Quadrant\nBaran & Galka examine Gartner's two-axis market categorization:\n- *Ability to Execute:* Financial viability, support ecosystem, product scalability.\n- *Completeness of Vision:* Innovation roadmaps, cloud alignment, AI capabilities.\nFour quadrants: Leaders, Challengers, Visionaries, and Niche Players."
+    },
+    "key_takeaways": {
+      "vi": [
+        "ODS phục vụ tác nghiệp thời gian thực; Data Warehouse phục vụ phân tích chiến lược dài hạn.",
+        "Ma trận Gartner giúp doanh nghiệp chọn nhà cung cấp phù hợp với quy mô và mức độ trưởng thành công nghệ."
+      ],
+      "en": [
+        "ODS powers instant operational queries; EDW powers strategic longitudinal analytics.",
+        "Gartner Magic Quadrants guide platform selection matched to corporate architectural maturity."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b06-01",
+        "question": {
+          "vi": "Phân biệt vai trò của ODS và Data Warehouse trong hệ thống CRM. Tại sao không nên chạy các báo cáo phân tích phức tạp trực tiếp trên cơ sở dữ liệu tác nghiệp (OLTP)?",
+          "en": "Distinguish the roles of an ODS and a Data Warehouse in CRM. Why should complex analytical queries never be run directly on operational OLTP databases?"
+        },
+        "model_answer": {
+          "vi": "Chạy truy vấn phân tích nặng trên hệ thống OLTP sẽ làm khóa bảng dữ liệu (table locking), làm nghẽn hệ thống xử lý giao dịch bán hàng tại cửa hàng. ODS chỉ giữ dữ liệu tức thời phục vụ giao dịch; Data Warehouse được thiết kế chuyên biệt để xử lý truy vấn phân tích phức tạp mà không ảnh hưởng đến tác nghiệp.",
+          "en": "Running heavy analytical queries on OLTP transactional engines locks tables and degrades front-line POS throughput. ODS supports real-time tactical tasks; EDWs are decoupled and indexed specifically for intense multi-dimensional queries."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 6",
+      "pages": "180-207 (Book pp. 167-193)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch07",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part II",
+    "part_title": {
+      "vi": "Phần II: Quản trị Dữ liệu và Công nghệ",
+      "en": "Part II: Data Management and Technology"
+    },
+    "chapter_num": 7,
+    "title": {
+      "vi": "Chương 7: Phát triển Cơ sở Dữ liệu & Dữ liệu Khách hàng",
+      "en": "Chapter 7: Database and Customer Data Development"
+    },
+    "pdf_page_start": 208,
+    "book_page": 194,
+    "learning_objectives": {
+      "vi": [
+        "Hiểu rõ thiết kế mô hình dữ liệu quan hệ (Relational Database) và cấu trúc sơ đồ hình sao (Star Schema).",
+        "Nắm vững các kỹ thuật kiểm soát chất lượng dữ liệu (Data Quality Management).",
+        "Phân tích vòng đời phát triển cơ sở dữ liệu khách hàng từ thu thập đến khai thác.",
+        "Tuân thủ các nguyên tắc bảo mật và phân quyền truy cập dữ liệu nhạy cảm."
+      ],
+      "en": [
+        "Understand relational database models and dimensional star-schema designs for CRM.",
+        "Master enterprise Data Quality Management (DQM) controls.",
+        "Analyze the customer database lifecycle from acquisition to deprecation.",
+        "Enforce security protocols and role-based access controls for PII data."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Star Schema",
+        "name": {
+          "vi": "Sơ đồ Hình sao (Star Schema)",
+          "en": "Star Schema"
+        },
+        "definition": {
+          "vi": "Mô hình cấu trúc dữ liệu đa chiều gồm một bảng sự kiện trung tâm (Fact Table) chứa các chỉ số đo lường, liên kết với các bảng chiều (Dimension Tables) chứa thuộc tính khách hàng, thời gian, sản phẩm.",
+          "en": "A dimensional data warehouse architecture consisting of a central Fact Table holding quantitative metrics surrounded by Dimension Tables describing context."
+        }
+      },
+      {
+        "term": "Data Hygiene",
+        "name": {
+          "vi": "Vệ sinh Dữ liệu (Data Hygiene)",
+          "en": "Data Hygiene"
+        },
+        "definition": {
+          "vi": "Các quy trình định kỳ nhằm rà soát, sửa lỗi chính tả, chuẩn hóa cú pháp, loại bỏ bản ghi rác và cập nhật thông tin địa chỉ khách hàng.",
+          "en": "Periodic data-cleansing routines to identify typos, standardize formats, eliminate obsolete records, and update moving addresses."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 7.1 Xây dựng Cơ sở Dữ liệu Khách hàng\nCơ sở dữ liệu khách hàng là 'trái tim' của CRM phân tích. Baran & Galka phân tích hai mô hình lưu trữ chủ đạo:\n- **Mô hình Quan hệ (Relational Model):** Sử dụng các khóa chính (Primary Key) và khóa ngoại (Foreign Key) để chuẩn hóa dữ liệu (3NF), tránh dư thừa dữ liệu.\n- **Mô hình Đa chiều (Dimensional Model / Star Schema):** Tối ưu cho việc truy vấn kinh doanh. Ví dụ: Bảng Fact ghi nhận doanh số giao dịch, được bao quanh bởi các Dimension: Thời gian (Date), Khách hàng (Customer), Kênh bán hàng (Channel), và Sản phẩm (Product).\n\n### 7.2 Vệ sinh Dữ liệu (Data Hygiene) và Suy thoái Dữ liệu (Data Decay)\nMỗi năm, trung bình khoảng 15-20% dữ liệu khách hàng bị 'chết' hoặc lỗi thời do khách hàng chuyển nhà, đổi số điện thoại, đổi việc làm hoặc qua đời. Nếu không có quy trình bảo dưỡng dữ liệu thường xuyên, doanh nghiệp sẽ lãng phí ngân sách tiếp thị và gửi thông điệp đến sai đối tượng.",
+      "en": "### 7.1 Customer Database Architecture\nThe customer database is the intellectual heart of analytical CRM. Baran & Galka examine two dominant structures:\n- **Relational Normalized Models (3NF):** Designed with Primary and Foreign Keys to eradicate transactional redundancy.\n- **Dimensional Models (Star Schema):** Optimized for high-speed business intelligence. A central Fact Table (transaction dollars, units sold) is encircled by Dimension Tables (Customer, Time, Geography, Product).\n\n### 7.2 Data Decay & Hygiene Routines\nCustomer databases degrade naturally at a rate of 15–20% annually due to residential relocations, career changes, email abandoned accounts, and mortality. Without automated hygiene schedules (e.g. National Change of Address - NCOA matching), corporate marketing waste compounds rapidly."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Suy thoái dữ liệu là quy luật tự nhiên (15-20%/năm); duy trì vệ sinh dữ liệu là nhiệm vụ định kỳ bắt buộc.",
+        "Sơ đồ hình sao (Star Schema) là cấu trúc tối ưu cho việc phân tích dữ liệu đa chiều trong CRM."
+      ],
+      "en": [
+        "Data decays at 15–20% annually; routine data hygiene is mandatory to preserve database efficacy.",
+        "Star Schema dimensional modeling enables rapid, intuitive multi-dimensional slice-and-dice analytics."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b07-01",
+        "question": {
+          "vi": "Hiện tượng suy thoái dữ liệu (Data Decay) là gì? Doanh nghiệp cần triển khai các biện pháp kỹ thuật nào để kiểm soát chất lượng dữ liệu?",
+          "en": "What is Data Decay? What technical controls must an enterprise implement to maintain data quality?"
+        },
+        "model_answer": {
+          "vi": "Data Decay là hiện tượng thông tin khách hàng bị lỗi thời theo thời gian. Doanh nghiệp cần triển khai: xác thực dữ liệu ngay tại điểm nhập liệu (form validation), đối chiếu định kỳ với cơ sở dữ liệu thay đổi địa chỉ quốc gia, và tự động gửi email xác nhận thông tin định kỳ.",
+          "en": "Data decay is the progressive obsolescence of customer records. Firms combat it through front-end input validation, regular NCOA registry verification, and automated profile re-engagement workflows."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 7",
+      "pages": "208-238 (Book pp. 194-223)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch08",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part III",
+    "part_title": {
+      "vi": "Phần III: Chiến lược Tiếp thị",
+      "en": "Part III: Marketing Strategy"
+    },
+    "chapter_num": 8,
+    "title": {
+      "vi": "Chương 8: Quản trị Quan hệ Khách hàng Doanh nghiệp (B2B CRM)",
+      "en": "Chapter 8: Business-to-Business CRM"
+    },
+    "pdf_page_start": 239,
+    "book_page": 224,
+    "learning_objectives": {
+      "vi": [
+        "Phân tích các đặc trưng cốt lõi của thị trường B2B so với B2C tác động đến chiến lược CRM.",
+        "Hiểu rõ cấu trúc và vai trò của Trung tâm Mua hàng (Buying Center / DMU).",
+        "Nắm vững phương pháp Quản lý Tài khoản Trọng yếu (Key Account Management - KAM).",
+        "Áp dụng Quản trị Quan hệ Đối tác (Partner Relationship Management - PRM) trong mạng lưới chuyển giao giá trị."
+      ],
+      "en": [
+        "Analyze structural B2B market characteristics impacting CRM compared to consumer B2C.",
+        "Understand the composition and dynamics of the organizational Buying Center (DMU).",
+        "Master Key Account Management (KAM) methodologies and joint value creation.",
+        "Deploy Partner Relationship Management (PRM) across value delivery networks."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Buying Center (DMU)",
+        "name": {
+          "vi": "Trung tâm Mua hàng (Buying Center / DMU)",
+          "en": "Buying Center (DMU)"
+        },
+        "definition": {
+          "vi": "Nhóm tất cả các cá nhân trong tổ chức tham gia vào quá trình ra quyết định mua sắm, bao gồm: Người khởi xướng (Initiator), Người sử dụng (User), Người ảnh hưởng (Influencer), Người quyết định (Decider), Người phê duyệt (Approver), Người mua (Buyer) và Người gác cổng (Gatekeeper).",
+          "en": "The informal cross-functional committee participating in procurement decisions: Initiators, Users, Influencers, Deciders, Approvers, Buyers, and Gatekeepers."
+        }
+      },
+      {
+        "term": "Key Account Management (KAM)",
+        "name": {
+          "vi": "Quản lý Tài khoản Trọng yếu (KAM)",
+          "en": "Key Account Management (KAM)"
+        },
+        "definition": {
+          "vi": "Chiến lược hợp tác chuyên sâu dành riêng cho nhóm khách hàng doanh nghiệp chiến lược đóng góp phần lớn doanh thu hoặc lợi nhuận của tổ chức.",
+          "en": "A strategic partnership approach dedicated to serving high-priority corporate accounts that generate the vast majority of enterprise value."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 8.1 Đặc thù B2B CRM\nKhác với B2C nơi một cá nhân thường tự đưa ra quyết định mua sắm nhanh chóng, giao dịch B2B có các đặc điểm riêng biệt:\n1. *Quy mô khách hàng ít nhưng giá trị từng hợp đồng rất lớn (Nguyên lý Pareto 80/20).* Thất thoát một khách hàng lớn có thể đe dọa sự tồn vong của doanh nghiệp.\n2. *Chu kỳ bán hàng kéo dài:* Thường từ 3 tháng đến 2 năm, đòi hỏi CRM phải theo dõi lịch sử tương tác qua nhiều giai đoạn thương thảo.\n3. *Quyết định mua sắm đa người (Buying Center):* Nhân viên bán hàng B2B không chỉ tiếp xúc với một người mua mà phải quản lý mối quan hệ với 6-10 bên liên quan khác nhau trong Trung tâm Mua hàng.\n\n### 8.2 Quản lý Tài khoản Trọng yếu (KAM)\nKAM đòi hỏi doanh nghiệp phải chuyển đổi từ tư cách 'nhà cung cấp thông thường' thành 'đối tác chiến lược tin cậy'. Đội ngũ KAM gồm nhiều chuyên gia liên phòng ban (Kỹ thuật, Tài chính, Chuỗi cung ứng, Chăm sóc khách hàng) phối hợp làm việc trực tiếp với đội ngũ tương ứng bên phía khách hàng.\n\n### 8.3 Quản trị Quan hệ Đối tác (PRM)\nTrong các ngành bán lẻ, công nghệ hoặc sản xuất, doanh nghiệp bán hàng qua mạng lưới đại lý và nhà phân phối trung gian. PRM cung cấp cổng thông tin đối tác (Partner Portal) giúp đăng ký cơ hội (lead registration), quản lý quỹ hỗ trợ tiếp thị (MDF - Market Development Funds) và tránh xung đột kênh bán.",
+      "en": "### 8.1 Distinctive Dimensions of B2B CRM\nUnlike B2C where individual buyers make spontaneous, emotionally charged purchases, B2B commerce exhibits unique structural realities:\n1. *Concentrated Customer Base with Immense Stakes (Pareto 80/20):* Losing a single key account can cripple corporate viability.\n2. *Protracted Sales Cycles:* Typically 3 to 24 months, requiring rigorous stage-gate tracking in CRM pipeline models.\n3. *Complex Multi-Stakeholder Buying Centers:* Sales reps must navigate 6 to 10 distinct influencers, gatekeepers, and economic decision-makers within client organizations.\n\n### 8.2 Key Account Management (KAM) Methodologies\nKAM elevates transactional vendor engagements into collaborative value-creation partnerships. Dedicated multi-disciplinary account teams (solutions architects, finance, logistics) interface directly with client counterparts to co-innovate customized solutions.\n\n### 8.3 Partner Relationship Management (PRM)\nWhen distributing products through indirect channel partners, dealers, or value-added resellers (VARs), PRM platforms provide deal registration, collaborative quoting, co-op marketing fund (MDF) allocations, and channel conflict governance."
+    },
+    "key_takeaways": {
+      "vi": [
+        "B2B CRM tập trung vào việc quản lý mối quan hệ đa bên liên quan trong Trung tâm Mua hàng thay vì một người mua cá nhân.",
+        "PRM và KAM là hai vũ khí cốt lõi để duy trì và mở rộng doanh thu gián tiếp qua mạng lưới đối tác."
+      ],
+      "en": [
+        "B2B CRM navigates multi-stakeholder organizational dynamics rather than isolated individual consumers.",
+        "KAM and PRM are vital strategic capabilities for managing high-value direct relationships and complex indirect channel networks."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b08-01",
+        "question": {
+          "vi": "Hãy liệt kê các vai trò trong một Trung tâm Mua hàng (Buying Center) B2B. Tại sao nhân viên bán hàng chỉ thuyết phục 'Người sử dụng' (User) là chưa đủ để chốt hợp đồng?",
+          "en": "Enumerate the roles in a B2B Buying Center. Why is convincing the 'User' alone insufficient to close an enterprise deal?"
+        },
+        "model_answer": {
+          "vi": "Các vai trò gồm: Người khởi xướng, Người sử dụng, Người ảnh hưởng, Người quyết định, Người phê duyệt, Người mua và Người gác cổng. Người sử dụng có thể rất thích sản phẩm nhưng họ không có thẩm quyền ký duyệt ngân sách (vai trò của Decider/Approver) và có thể bị rào cản bởi Người gác cổng hoặc Người mua chuyên nghiệp muốn ép giá.",
+          "en": "Roles comprise Initiators, Users, Influencers, Deciders, Approvers, Buyers, and Gatekeepers. While Users validate day-to-day utility, they lack budgetary sign-off authority (held by Deciders/Approvers) and can be blocked by Gatekeepers or procurement Buyers demanding cost concessions."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 8",
+      "pages": "239-269 (Book pp. 224-253)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch09",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part III",
+    "part_title": {
+      "vi": "Phần III: Chiến lược Tiếp thị",
+      "en": "Part III: Marketing Strategy"
+    },
+    "chapter_num": 9,
+    "title": {
+      "vi": "Chương 9: Chuỗi Lợi nhuận Khách hàng - Doanh nghiệp: Sự hài lòng, Lòng trung thành và Lợi nhuận",
+      "en": "Chapter 9: Understanding the Customer–Company Profit Chain: Satisfaction, Loyalty, Retention, and Profits"
+    },
+    "pdf_page_start": 270,
+    "book_page": 254,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững cơ chế vận hành của Chuỗi Giá trị Dịch vụ - Lợi nhuận (Service-Profit Chain).",
+        "Phân biệt rạch ròi giữa Trung thành Hành vi (Behavioral Loyalty) và Trung thành Thái độ (Attitudinal Loyalty).",
+        "Đo lường sự hài lòng qua CSAT, CES (Customer Effort Score) và NPS (Net Promoter Score).",
+        "Hiểu rõ mối quan hệ phi tuyến tính giữa mức độ hài lòng và tỷ lệ giữ chân khách hàng."
+      ],
+      "en": [
+        "Master the causal mechanics of Heskett's Service-Profit Chain framework.",
+        "Sharply distinguish Behavioral Loyalty from Attitudinal Loyalty.",
+        "Measure customer perception via CSAT, Customer Effort Score (CES), and Net Promoter Score (NPS).",
+        "Analyze the non-linear relationship between customer satisfaction and retention."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Service-Profit Chain",
+        "name": {
+          "vi": "Chuỗi Dịch vụ - Lợi nhuận",
+          "en": "Service-Profit Chain"
+        },
+        "definition": {
+          "vi": "Mô hình lý thuyết thiết lập mối quan hệ nhân quả: Chất lượng dịch vụ nội bộ → Sự hài lòng của nhân viên → Năng suất & giá trị dịch vụ tạo ra → Sự hài lòng của khách hàng → Lòng trung thành của khách hàng → Tăng trưởng doanh thu & Lợi nhuận.",
+          "en": "A framework establishing direct causality: Internal service quality drives employee satisfaction, which fuels service value, driving customer satisfaction and loyalty, yielding revenue growth and profitability."
+        }
+      },
+      {
+        "term": "Attitudinal vs. Behavioral Loyalty",
+        "name": {
+          "vi": "Trung thành Thái độ vs. Trung thành Hành vi",
+          "en": "Attitudinal vs. Behavioral Loyalty"
+        },
+        "definition": {
+          "vi": "Trung thành hành vi là việc khách hàng tiếp tục mua lặp lại (có thể do thói quen hoặc không có lựa chọn khác); Trung thành thái độ là sự gắn kết cảm xúc, niềm tin sâu sắc và sẵn sàng giới thiệu doanh nghiệp cho người khác.",
+          "en": "Behavioral loyalty is repeat purchasing habit (potentially spurious); Attitudinal loyalty reflects deep emotional commitment, psychological attachment, and active brand advocacy."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 9.1 Mô hình Chuỗi Dịch vụ - Lợi nhuận (Service-Profit Chain)\nBaran & Galka phân tích mô hình kinh điển của Heskett et al.: Doanh nghiệp không thể có được khách hàng hài lòng nếu nhân viên trực tiếp phục vụ đang bất mãn và kiệt sức. Sự gắn kết của nhân viên nội bộ tạo ra chất lượng dịch vụ vượt trội, từ đó làm gia tăng sự hài lòng và lòng trung thành của khách hàng.\n\n### 9.2 Mối quan hệ Phi Tuyến tính giữa Hài lòng và Giữ chân\nNhiều nhà quản lý lầm tưởng rằng chỉ cần khách hàng 'hài lòng' là họ sẽ ở lại. Nghiên cứu của Jones & Sasser chỉ ra rằng:\n- Khách hàng 'hoàn toàn hài lòng' (Completely Satisfied - Điểm 5/5) có tỷ lệ quay lại cao gấp 6 lần so với khách hàng chỉ 'hài lòng' (Satisfied - Điểm 4/5).\n- Khách hàng ở mức điểm 4/5 thực chất là nhóm rất dễ bị đối thủ lôi kéo (Vùng Đào tẩu - Zone of Defection).\n\n### 9.3 Đo lường Trải nghiệm: CSAT, CES và NPS\n1. *CSAT (Customer Satisfaction Score):* Đo lường sự hài lòng tức thời sau một giao dịch cụ thể.\n2. *CES (Customer Effort Score):* Đo lường mức độ dễ dàng/thuận tiện khi khách hàng giải quyết sự cố ('Công ty đã giúp tôi xử lý vấn đề dễ dàng đến mức nào?'). Nỗ lực khách hàng bỏ ra càng thấp thì lòng trung thành càng cao.\n3. *NPS (Net Promoter Score):* Đo lường khả năng giới thiệu thương hiệu (% Promoters - % Detractors).",
+      "en": "### 9.1 The Service-Profit Chain Framework\nBaran & Galka dissect Heskett's framework: sustainable external customer loyalty cannot be engineered if internal front-line personnel are alienated or demoralized. Internal service quality underpins employee productivity, driving superior perceived customer value and retention.\n\n### 9.2 The Non-Linear Satisfaction-to-Retention Curve\nExecutives frequently assume that 'satisfied' customers remain loyal. Empirical findings from Jones & Sasser demonstrate a steep drop-off:\n- 'Completely Satisfied' customers (Score 5/5, Apostles) are up to 6 times more loyal than merely 'Satisfied' customers (Score 4/5).\n- Level 4/5 customers reside in the vulnerable 'Zone of Defection'—they harbor no overt hostility, but will readily switch when a rival offers minor inducements.\n\n### 9.3 CX Measurement Matrix: CSAT, CES, and NPS\n1. *CSAT (Customer Satisfaction):* Evaluates immediate short-term transaction sentiment.\n2. *CES (Customer Effort Score):* Measures friction minimization ('How easy was it to get your issue resolved?'). Minimizing customer effort is the single strongest predictor of repeat loyalty.\n3. *NPS (Net Promoter Score):* Gauges relational advocacy (% Promoters minus % Detractors)."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Khách hàng ở mức 'Hài lòng vừa phải' (4/5) vẫn có tỷ lệ đào tẩu rất cao; mục tiêu của CRM phải là 'Hoàn toàn Hài lòng' (5/5).",
+        "Giảm bớt nỗ lực và sự phiền toái cho khách hàng (CES) là yếu tố dự báo lòng trung thành chính xác nhất."
+      ],
+      "en": [
+        "Merely satisfied customers (4/5) defect at alarming rates; CRM must aim for complete customer delight (5/5).",
+        "Friction reduction (measured by Customer Effort Score) is the most potent behavioral driver of repeat business."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b09-01",
+        "question": {
+          "vi": "Tại sao khách hàng chấm điểm hài lòng 4/5 (Hài lòng) vẫn dễ dàng rời bỏ doanh nghiệp sang đối thủ? Khái niệm 'Tông đồ' (Apostles) và 'Kẻ khủng bố' (Terrorists) trong CRM có ý nghĩa gì?",
+          "en": "Why do customers rating 4/5 (Satisfied) readily defect to competitors? What do the terms 'Apostles' and 'Terrorists' represent in CRM theory?"
+        },
+        "model_answer": {
+          "vi": "Khách hàng 4/5 không gặp sự cố nghiêm trọng nhưng chưa có sự gắn kết cảm xúc mạnh mẽ, nên sẵn sàng chuyển đổi khi đối thủ giảm giá. 'Tông đồ' là những khách hàng cực kỳ hài lòng (5/5) chủ động đi quảng bá thương hiệu cho người khác; 'Kẻ khủng bố' là những người cực kỳ bất mãn (1/5) tích cực lan truyền thông tin tiêu cực hủy hoại uy tín công ty.",
+          "en": "Score 4/5 customers experienced acceptable service but lack emotional conviction, leaving them susceptible to competitor promotions. 'Apostles' are completely delighted fans (5/5) who actively recruit peers; 'Terrorists' are deeply aggrieved defectors (1/5) who broadcast destructive negative word-of-mouth."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 9",
+      "pages": "270-295 (Book pp. 254-278)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch10",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part III",
+    "part_title": {
+      "vi": "Phần III: Chiến lược Tiếp thị",
+      "en": "Part III: Marketing Strategy"
+    },
+    "chapter_num": 10,
+    "title": {
+      "vi": "Chương 10: Vòng lặp Chiến lược CRM: Thu hút, Giữ chân và Giành lại Khách hàng",
+      "en": "Chapter 10: The CRM Strategy Cycle: Acquisition, Retention, and Win-Back"
+    },
+    "pdf_page_start": 296,
+    "book_page": 279,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững 3 giai đoạn của Vòng lặp Chiến lược CRM: Thu hút (Acquisition), Giữ chân (Retention) và Giành lại (Win-Back).",
+        "Phân tích các chiến thuật bán thêm (Up-selling), bán chéo (Cross-selling) và nâng cấp giá trị.",
+        "Thiết lập hệ thống cảnh báo sớm dấu hiệu rời bỏ của khách hàng (Early Churn Detection).",
+        "Xây dựng chiến lược giành lại khách hàng (Win-Back) dựa trên phân tích chi phí - lợi ích."
+      ],
+      "en": [
+        "Master the three phases of the CRM Strategic Cycle: Acquisition, Retention, and Win-Back.",
+        "Deploy systematic Up-selling, Cross-selling, and Customer Migration strategies.",
+        "Architect Early Churn Warning systems using behavioral trigger analytics.",
+        "Design evidence-based Win-Back campaigns grounded in customer lifetime profitability."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Cross-Selling & Up-Selling",
+        "name": {
+          "vi": "Bán chéo & Bán thêm",
+          "en": "Cross-Selling & Up-Selling"
+        },
+        "definition": {
+          "vi": "Bán chéo là việc khuyến khích khách hàng mua thêm các sản phẩm bổ trợ từ danh mục khác; Bán thêm là việc thuyết phục khách hàng nâng cấp lên phiên bản sản phẩm cao cấp hơn với biên lợi nhuận lớn hơn.",
+          "en": "Cross-selling stimulates purchases of complementary offerings across categories; Up-selling encourages customers to trade up to premium, higher-margin tiers."
+        }
+      },
+      {
+        "term": "Customer Win-Back",
+        "name": {
+          "vi": "Giành lại Khách hàng Đào tẩu (Win-Back)",
+          "en": "Customer Win-Back"
+        },
+        "definition": {
+          "vi": "Chiến dịch tiếp thị có chủ đích nhằm thu hút trở lại những khách hàng có giá trị cao đã ngừng giao dịch, dựa trên việc khắc phục nguyên nhân gốc rễ khiến họ rời bỏ.",
+          "en": "Targeted marketing interventions to re-engage lapsed high-value customers by diagnosing and remedying the root causes of their defection."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 10.1 Vòng lặp Chiến lược CRM (The CRM Strategy Cycle)\nChiến lược CRM vận hành theo một chu trình khép kín gồm 3 giai đoạn tương hỗ:\n1. **Giai đoạn Thu hút (Customer Acquisition):** Không phải thu hút bất kỳ ai, mà là thu hút 'khách hàng phù hợp' (Right Customers) có tiềm năng sinh lời cao, bằng cách sử dụng hồ sơ khách hàng mẫu (lookalike modeling).\n2. **Giai đoạn Giữ chân & Phát triển (Customer Retention & Development):** Sau khi khách hàng gia nhập, doanh nghiệp tăng cường mức độ gắn kết bằng quy trình đón tiếp chu đáo (Onboarding), bán chéo và bán thêm để gia tăng 'tỷ phần trong ví' (Share of Wallet).\n3. **Giai đoạn Giành lại (Win-Back):** Khi khách hàng có dấu hiệu rời bỏ hoặc đã chuyển sang đối thủ, doanh nghiệp kích hoạt quy trình thu hồi.\n\n### 10.2 Quản trị Đào tẩu và Cảnh báo Sớm (Churn Management)\nKhách hàng hiếm khi rời bỏ đột ngột mà luôn để lại 'dấu vết hành vi': tần suất đăng nhập giảm, số lượng giao dịch giảm dần, thời gian thanh toán chậm lại, hoặc gửi khiếu nại chưa được giải quyết thỏa đáng. Hệ thống CRM tự động phát hiện các dấu hiệu này để gửi ưu đãi can thiệp kịp thời.\n\n### 10.3 Kinh tế học của Chiến lược Giành lại (Win-Back Economics)\nKhách hàng cũ từng giao dịch có tỷ lệ chuyển đổi khi tái tiếp thị cao gấp 3-4 lần so với một người hoàn toàn xa lạ, vì họ đã quen thuộc với sản phẩm của công ty. Tuy nhiên, doanh nghiệp chỉ nên giành lại những khách hàng có lợi nhuận (profitable defectors), và kiên quyết 'buông bỏ' những khách hàng gây lỗ kinh niên.",
+      "en": "### 10.1 The Tri-Partite CRM Strategy Cycle\nCRM strategy unfolds in a continuous closed loop across three interdependent phases:\n1. **Customer Acquisition:** Targeting the 'Right Customers' with attractive projected CLV, leveraging lookalike predictive models from the best current customers.\n2. **Customer Retention & Development:** Driving deeper relationship penetration via structured onboarding workflows, cross-selling, and up-selling to maximize Share of Wallet (SOW).\n3. **Customer Win-Back:** Structured diagnostic re-engagement targeting lapsed profitable accounts.\n\n### 10.2 Predictive Churn Detection\nCustomer defection is almost never an instantaneous event; it is preceded by measurable digital breadcrumbs: declining session frequency, falling basket size, delayed invoice settlement, or unaddressed ticket escalations. Modern CRM flags these early warning signals for proactive retention interventions.\n\n### 10.3 The Economics of Win-Back\nLapsed customers represent valuable assets: they possess demonstrated product familiarity and convert at 3 to 4 times the rate of cold prospects. However, win-back investments must be rationed: companies must only reclaim profitable defectors while allowing chronic loss-makers to migrate away."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Chiến lược thu hút khách hàng chỉ có ý nghĩa khi doanh nghiệp thu hút đúng đối tượng có tiềm năng gắn bó lâu dài.",
+        "Khách hàng cũ từng đào tẩu có tỷ lệ chuyển đổi cao hơn nhiều so với khách hàng mới, nhưng chỉ nên giành lại nhóm khách hàng sinh lời."
+      ],
+      "en": [
+        "Acquisition strategy succeeds only when calibrated to bring in high-LTV profiles capable of being retained.",
+        "Lapsed customers convert significantly better than cold prospects, but win-back efforts must be strictly filtered by lifetime profitability."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b10-01",
+        "question": {
+          "vi": "Trình bày các dấu hiệu cảnh báo sớm khách hàng có nguy cơ rời bỏ (Early Churn Indicators). Doanh nghiệp có nên nỗ lực giành lại tất cả các khách hàng đã rời bỏ hay không? Tại sao?",
+          "en": "Outline early churn warning indicators in CRM. Should a firm attempt to win back every single lapsed customer? Why or why not?"
+        },
+        "model_answer": {
+          "vi": "Dấu hiệu gồm: tần suất mua giảm, giảm sử dụng tính năng, số lượng phàn nàn tăng, thời gian phản hồi kéo dài. Doanh nghiệp KHÔNG nên giành lại tất cả khách hàng, mà chỉ giành lại nhóm khách hàng có giá trị sinh lời ròng (CLV > Chi phí giành lại). Việc cố giành lại nhóm khách hàng liên tục đòi hỏi chiết khấu vô lý hoặc chi phí phục vụ quá cao sẽ làm tổn hại lợi nhuận của công ty.",
+          "en": "Indicators include drop in visit frequency, shrinking transaction volumes, and unresolved grievances. A firm should NOT win back everyone—only customers with positive net projected CLV. Attempting to reclaim chronically unprofitable or abusive accounts destroys enterprise margins."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 10",
+      "pages": "296-316 (Book pp. 279-298)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch11",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part III",
+    "part_title": {
+      "vi": "Phần III: Chiến lược Tiếp thị",
+      "en": "Part III: Marketing Strategy"
+    },
+    "chapter_num": 11,
+    "title": {
+      "vi": "Chương 11: Các Khía cạnh Quyền Riêng tư và Đạo đức trong CRM",
+      "en": "Chapter 11: Privacy and Ethics Considerations"
+    },
+    "pdf_page_start": 317,
+    "book_page": 299,
+    "learning_objectives": {
+      "vi": [
+        "Phân tích xung đột giữa nhu cầu cá nhân hóa sâu sắc của CRM và quyền riêng tư cá nhân của người tiêu dùng.",
+        "Nắm vững các khung pháp lý quốc tế về bảo vệ dữ liệu (GDPR, CCPA) và các nguyên tắc đạo đức cốt lõi.",
+        "Phân biệt giữa mô hình Chọn tham gia (Opt-In) và Từ chối tham gia (Opt-Out).",
+        "Thiết lập cơ chế Quản trị Dữ liệu Đạo đức (Ethical Data Governance) để ngăn ngừa xói mòn niềm tin."
+      ],
+      "en": [
+        "Analyze the tension between CRM's personalization mandates and consumer data privacy rights.",
+        "Master global regulatory privacy frameworks (GDPR, CCPA) and ethical data principles.",
+        "Distinguish explicit Opt-In consent models from passive Opt-Out regimes.",
+        "Establish ethical data governance safeguards to prevent consumer trust erosion."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Opt-In vs. Opt-Out",
+        "name": {
+          "vi": "Chọn Tham gia (Opt-In) vs. Từ chối (Opt-Out)",
+          "en": "Opt-In vs. Opt-Out"
+        },
+        "definition": {
+          "vi": "Opt-In yêu cầu sự đồng ý rõ ràng, chủ động của khách hàng trước khi thu thập hoặc sử dụng dữ liệu; Opt-Out cho phép doanh nghiệp tự động thu thập cho đến khi khách hàng chủ động từ chối.",
+          "en": "Opt-In mandates explicit affirmative prior consent before data capture; Opt-Out permits default harvesting until the consumer takes action to revoke permission."
+        }
+      },
+      {
+        "term": "Privacy by Design",
+        "name": {
+          "vi": "Thiết kế Bảo mật Quyền Riêng tư (Privacy by Design)",
+          "en": "Privacy by Design"
+        },
+        "definition": {
+          "vi": "Nguyên tắc kỹ thuật yêu cầu tích hợp tính năng bảo vệ quyền riêng tư và ẩn danh dữ liệu vào ngay từ giai đoạn thiết kế ban đầu của hệ thống CRM chứ không phải bổ sung sau.",
+          "en": "The architectural practice of embedding privacy protections and pseudonymization directly into the foundational design of CRM software."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 11.1 Nghịch lý Quyền Riêng tư trong CRM (The Privacy Paradox)\nMột mặt, khách hàng mong muốn được phục vụ cá nhân hóa và thấu hiểu nhu cầu; mặt khác, họ cảm thấy bất an và bị xâm phạm khi phát hiện doanh nghiệp âm thầm theo dõi mọi hành vi trực tuyến và vị trí địa lý của mình.\n\n### 11.2 Các Khung Pháp lý Bảo vệ Dữ liệu Toàn cầu\n- **GDPR (Quy định Chung về Bảo vệ Dữ liệu của Châu Âu):** Đặt ra tiêu chuẩn khắt khe nhất thế giới: quyền được lãng quên (Right to be Forgotten), quyền truy cập dữ liệu, yêu cầu sự đồng ý rõ ràng (Explicit Opt-In) và mức phạt lên tới 4% doanh thu toàn cầu.\n- **CCPA (Đạo luật Quyền riêng tư của California):** Cho phép người tiêu dùng biết dữ liệu nào đang được bán và quyền yêu cầu không bán dữ liệu của mình (Do Not Sell My Info).\n\n### 11.3 Xây dựng Niềm tin qua Sự Minh bạch (Transparency)\nBaran & Galka khẳng định rằng dữ liệu là một 'khoản vay tín chấp' mà khách hàng trao cho doanh nghiệp. Khi doanh nghiệp sử dụng dữ liệu mập mờ, chia sẻ cho bên thứ ba mà không xin phép (như vụ bê bối Cambridge Analytica của Facebook), hậu quả sẽ là sự tẩy chay tức thì và phá hủy hoàn toàn thương hiệu.",
+      "en": "### 11.1 The CRM Privacy Paradox\nConsumers demand frictionless, tailored personalization while simultaneously expressing mounting alarm over opaque surveillance capitalism and ubiquitous behavioral tracking.\n\n### 11.2 Global Regulatory Frameworks\n- **GDPR (European General Data Protection Regulation):** Establishes the worldwide gold standard: Right to Erasure ('Right to be Forgotten'), data portability, strict explicit Opt-In mandates, and penalties reaching 4% of global turnover.\n- **CCPA (California Consumer Privacy Act):** Guarantees transparency regarding commercial data brokers and establishes the statutory right to opt out of personal data monetization.\n\n### 11.3 Sustaining Trust Through Ethical Governance\nBaran & Galka argue that personal data is a loan of trust from the customer. When enterprises harvest data surreptitiously or traffic in covert secondary broker distribution (e.g., Cambridge Analytica), the ensuing scandal unleashes catastrophic brand erosion and regulatory fines."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Niềm tin về quyền riêng tư là tài sản mong manh nhất; mất niềm tin đồng nghĩa với việc mất toàn bộ mối quan hệ khách hàng.",
+        "Mô hình Opt-In chủ động và nguyên tắc 'Privacy by Design' là yêu cầu bắt buộc của các hệ thống CRM hiện đại."
+      ],
+      "en": [
+        "Consumer privacy trust is fragile; once breached, the underlying relational contract dissolves permanently.",
+        "Affirmative Opt-In consent and Privacy-by-Design architectures are mandatory standards for modern enterprise CRM."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b11-01",
+        "question": {
+          "vi": "Phân biệt cơ chế Opt-In và Opt-Out trong thu thập dữ liệu khách hàng. Tại sao GDPR lại bắt buộc áp dụng cơ chế Opt-In đối với dữ liệu cá nhân?",
+          "en": "Differentiate Opt-In from Opt-Out data collection regimes. Why does GDPR mandate explicit Opt-In for personal data processing?"
+        },
+        "model_answer": {
+          "vi": "Opt-In đòi hỏi khách hàng phải chủ động đồng ý trước (ví dụ: tự tay tích vào ô xác nhận); Opt-Out là mặc định thu thập và khách hàng phải tìm cách hủy nếu không muốn. GDPR bắt buộc Opt-In để trả lại quyền tự quyết dữ liệu cho người tiêu dùng và ngăn chặn doanh nghiệp lạm dụng các ô tích chọn sẵn.",
+          "en": "Opt-In requires affirmative prior action (e.g. un-prechecked tick boxes); Opt-Out presumes consent until the user manually navigates opt-out friction. GDPR mandates Opt-In to enforce genuine informed consent and eliminate deceptive dark patterns."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 11",
+      "pages": "317-350 (Book pp. 299-332)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch12",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part IV",
+    "part_title": {
+      "vi": "Phần IV: Đánh giá Hiệu quả CRM",
+      "en": "Part IV: CRM Evaluation"
+    },
+    "chapter_num": 12,
+    "title": {
+      "vi": "Chương 12: Đo lường Hiệu quả & Công cụ Đánh giá Chương trình CRM",
+      "en": "Chapter 12: CRM Program Measurement and Tools"
+    },
+    "pdf_page_start": 352,
+    "book_page": 333,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững các công thức định lượng: Giá trị Vòng đời Khách hàng (CLV), Chi phí Thu hút Khách hàng (CAC), và Tỷ lệ Thu hồi Đầu tư Khách hàng (ROCI).",
+        "Hiểu rõ Mô hình 3E của Doanh nghiệp: Hiệu quả (Effectiveness), Hiệu suất (Efficiency), và Đóng góp Kinh tế (Employee Engagement/Economics).",
+        "Thiết lập Tháp Đo lường CRM (CRM Measurement Hierarchy) và Bảng điểm Cân bằng (CRM Balanced Scorecard).",
+        "Áp dụng phân tích Kohort (Cohort Analysis) để theo dõi chất lượng các lứa khách hàng theo thời gian."
+      ],
+      "en": [
+        "Master quantitative formulations: Customer Lifetime Value (CLV), Customer Acquisition Cost (CAC), and Return on Customer Investment (ROCI).",
+        "Understand the corporate 3E Evaluation Framework: Effectiveness, Efficiency, and Economics.",
+        "Construct the CRM Measurement Hierarchy and executive CRM Balanced Scorecards.",
+        "Apply longitudinal Cohort Analysis to track vintage customer retention over time."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "CLV Formula",
+        "name": {
+          "vi": "Công thức Tính Giá trị Vòng đời Khách hàng (CLV)",
+          "en": "CLV Formulation"
+        },
+        "definition": {
+          "vi": "Mô hình tính toán: CLV = ∑ [ (M_t * r_t) / (1 + d)^t ] - CAC, trong đó M_t là biên lợi nhuận kỳ t, r_t là tỷ lệ giữ chân kỳ t, d là tỷ lệ chiết khấu, và CAC là chi phí thu hút ban đầu.",
+          "en": "Mathematical equation: CLV = ∑ [ (Margin_t * Retention_t) / (1 + DiscountRate)^t ] minus CAC."
+        }
+      },
+      {
+        "term": "Return on Customer Investment (ROCI)",
+        "name": {
+          "vi": "Tỷ suất Sinh lời trên Đầu tư Khách hàng (ROCI)",
+          "en": "Return on Customer Investment (ROCI)"
+        },
+        "definition": {
+          "vi": "Tỷ số tài chính đo lường mức độ gia tăng lợi nhuận thu được so với tổng chi phí bỏ ra để phục vụ, chăm sóc và duy trì nhóm khách hàng đó.",
+          "en": "A financial ratio measuring incremental profit generated relative to the specific capital invested in servicing and retaining that customer cohort."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 12.1 Tháp Đo lường Hiệu quả CRM (CRM Measurement Hierarchy)\nBaran & Galka xây dựng hệ thống đo lường 3 tầng:\n1. **Tầng Tác nghiệp (Operational Level):** Đo lường năng suất hàng ngày (số cuộc gọi trung bình, thời gian xử lý khiếu nại - AHT, số lượng cơ hội được tạo mới).\n2. **Tầng Quan hệ Khách hàng (Customer Level):** Đo lường mức độ gắn kết và cảm nhận (chỉ số hài lòng CSAT, NPS, tỷ lệ duy trì hợp đồng r, tỷ lệ rời bỏ churn rate).\n3. **Tầng Chiến lược & Tài chính (Executive / Financial Level):** Đo lường tác động kinh tế vĩ mô (Tăng trưởng Giá trị Tài sản Khách hàng - Customer Equity, CLV trung bình, ROCI, Tỷ lệ chi phí thu hút / giá trị trọn đời CAC:CLV).\n\n### 12.2 Tỷ lệ Vàng CAC:CLV\nTrong kinh doanh hiện đại, một hệ thống CRM hoạt động hiệu quả khi tỷ lệ CLV / CAC đạt tối thiểu **3:1** trở lên. Nếu tỷ lệ này là 1:1, doanh nghiệp đang đốt tiền không hiệu quả; nếu vượt quá 5:1, doanh nghiệp có thể đang chi tiêu quá ít cho việc mở rộng thị phần.",
+      "en": "### 12.1 The CRM Measurement Hierarchy\nBaran & Galka establish a tri-level performance measurement framework:\n1. **Operational Level:** Daily activity metrics (Average Handling Time - AHT, lead velocity, calls per representative).\n2. **Customer Relationship Level:** Relational health indicators (CSAT, Net Promoter Score, retention rate r, annualized churn rate).\n3. **Executive Financial Level:** Strategic balance-sheet measures (Aggregate Customer Equity, Net Present Value CLV, ROCI, and the CAC:CLV ratio).\n\n### 12.2 The Strategic CAC:CLV Golden Ratio\nIn enterprise operations, a healthy CRM engine maintains a lifetime value to acquisition cost ratio (CLV:CAC) of at least **3:1**. A 1:1 ratio indicates catastrophic margin destruction; a ratio exceeding 5:1 indicates under-investment in growth acquisition."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Đo lường CRM phải kết nối từ chỉ số tác nghiệp cơ sở lên đến chỉ số tài chính của ban điều hành.",
+        "Tỷ lệ CLV:CAC từ 3:1 trở lên là thước đo chuẩn mực cho một mô hình CRM tăng trưởng bền vững."
+      ],
+      "en": [
+        "CRM metrics must establish rigorous line-of-sight from front-line operational SLAs to executive balance-sheet equity.",
+        "A CLV:CAC ratio of 3:1 or higher represents the empirical benchmark of a sustainable CRM growth engine."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b12-01",
+        "question": {
+          "vi": "Giải thích ý nghĩa của tỷ lệ CLV:CAC. Nếu một doanh nghiệp có tỷ lệ CLV:CAC là 1:1 hoặc 0.8:1 thì doanh nghiệp đó đang gặp phải vấn đề chiến lược gì?",
+          "en": "Explain the significance of the CLV:CAC ratio. If an enterprise exhibits a CLV:CAC ratio of 1:1 or 0.8:1, what fundamental strategic flaw exists?"
+        },
+        "model_answer": {
+          "vi": "Tỷ lệ CLV:CAC phản ánh mức độ sinh lời trên mỗi đồng chi phí bỏ ra để mua khách hàng. Tỷ lệ 1:1 hoặc 0.8:1 nghĩa là chi phí thu hút khách hàng bằng hoặc lớn hơn tổng lợi nhuận khách hàng mang lại trong cả cuộc đời. Doanh nghiệp đang bị lỗ ròng trên mỗi khách hàng mới và sẽ kiệt quệ tài chính nếu tiếp tục mở rộng quy mô mà không tăng giá bán hoặc giảm chi phí thu hút.",
+          "en": "The CLV:CAC ratio measures return on acquisition capital. A 1:1 or 0.8:1 ratio means the business spends as much or more to acquire customers than they will ever return in gross profit. Scaling under these conditions accelerates insolvency unless acquisition costs are slashed or retention expansion dramatically increases."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 12",
+      "pages": "352-397 (Book pp. 333-377)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch13",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part V",
+    "part_title": {
+      "vi": "Phần V: Những Chân trời Mới của CRM",
+      "en": "Part V: CRM New Horizons"
+    },
+    "chapter_num": 13,
+    "title": {
+      "vi": "Chương 13: Mạng Xã hội và Social CRM (SCRM)",
+      "en": "Chapter 13: Social Networking and CRM"
+    },
+    "pdf_page_start": 398,
+    "book_page": 378,
+    "learning_objectives": {
+      "vi": [
+        "Hiểu rõ sự dịch chuyển từ CRM Truyền thống sang Social CRM (SCRM).",
+        "Áp dụng công cụ Lắng nghe Mạng xã hội (Social Listening) và Phân tích Sắc thái Cảm xúc (Sentiment Analysis).",
+        "Quản lý khủng hoảng truyền thông trực tuyến và bài học 'United Breaks Guitars'.",
+        "Xây dựng cộng đồng thương hiệu đồng sáng tạo giá trị (Co-Creation Communities)."
+      ],
+      "en": [
+        "Understand the paradigm shift from Traditional CRM to Social CRM (SCRM).",
+        "Deploy Social Listening tools and natural language Sentiment Analysis.",
+        "Navigate viral brand crises and analyze the seminal 'United Breaks Guitars' case.",
+        "Build collaborative co-creation brand communities."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Social CRM (SCRM)",
+        "name": {
+          "vi": "Social CRM (SCRM)",
+          "en": "Social CRM (SCRM)"
+        },
+        "definition": {
+          "vi": "Triết lý và công nghệ tích hợp các kênh truyền thông xã hội vào hệ thống CRM nhằm lắng nghe, tham gia đối thoại hai chiều và giải quyết sự cố của khách hàng trong không gian công cộng.",
+          "en": "The strategic integration of social media channels into CRM to listen, engage in bidirectional dialogues, and resolve customer issues in public social spaces."
+        }
+      },
+      {
+        "term": "Social Listening",
+        "name": {
+          "vi": "Lắng nghe Mạng Xã hội (Social Listening)",
+          "en": "Social Listening"
+        },
+        "definition": {
+          "vi": "Quá trình tự động quét, theo dõi và phân tích các bài đăng, bình luận trên mạng xã hội liên quan đến thương hiệu để phát hiện sớm các khủng hoảng tiềm ẩn.",
+          "en": "Automated crawling and semantic monitoring of digital social conversations mentioning brand terms to detect sentiment shifts and nascent PR crises."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 13.1 Từ CRM Truyền thống sang Social CRM\nTrong CRM truyền thống, doanh nghiệp nắm quyền kiểm soát kênh giao tiếp (thoại, email, trực tiếp tại cửa hàng). Khách hàng phàn nàn một-đối-một trong vòng bí mật. Trong kỷ nguyên mạng xã hội (Social CRM), cán cân quyền lực đã đảo chiều hoàn toàn: khách hàng nói chuyện với nhau (Peer-to-Peer), và một lời phàn nàn công khai có thể lan truyền theo cấp số nhân.\n\n### 13.2 Bài học 'United Breaks Guitars'\nBaran & Galka nhắc lại trường hợp kinh điển của nhạc sĩ Dave Carroll khi cây đàn guitar của anh bị nhân viên United Airlines làm hỏng. Sau nhiều tháng bị tổng đài từ chối bồi thường, anh đã sáng tác bài hát 'United Breaks Guitars' tải lên YouTube, thu hút hàng triệu lượt xem và khiến giá cổ phiếu của hãng bay bốc hơi hàng chục triệu USD trong vài ngày. Đây là minh chứng rõ nét cho thấy một cá nhân có thể 'bắt giữ thương hiệu làm con tin' nếu doanh nghiệp thiếu hệ thống Social CRM phản hồi nhanh nhạy.",
+      "en": "### 13.1 Shifting Power Dynamics: Traditional CRM to Social CRM\nUnder traditional CRM, corporations maintained an asymmetric monopoly on communication channels (toll-free lines, direct mail). Aggrieved customers complained in private one-on-one silos. Social CRM represents an inversion of power: consumers communicate horizontally (Peer-to-Peer), and a single unsatisfied customer can ignite viral public outrage.\n\n### 13.2 The 'United Breaks Guitars' Paradigm\nBaran & Galka examine the seminal case of musician Dave Carroll, whose instrument was destroyed by United Airlines ground handlers. Stonewalled by bureaucratic call center scripts for nine months, Carroll published a humorous YouTube music video that accumulated millions of views, inflicting tens of millions of dollars in market cap damage within days. The incident proved that in the Social CRM era, unresponsive customer support poses an existential brand hazard."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Trong kỷ nguyên Social CRM, dịch vụ khách hàng không còn là cuộc đối thoại riêng tư mà là buổi trình diễn công khai.",
+        "Lắng nghe mạng xã hội là công cụ phòng vệ sống còn để dập tắt khủng hoảng từ lúc mới manh nha."
+      ],
+      "en": [
+        "In Social CRM, customer support is no longer a private exchange, but a public performance.",
+        "Social listening is an indispensable defensive sensor to intercept customer grievances before viral escalation."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b13-01",
+        "question": {
+          "vi": "Social CRM khác với CRM truyền thống ở những điểm căn bản nào? Vụ việc 'United Breaks Guitars' mang lại bài học gì cho các nhà quản trị dịch vụ khách hàng?",
+          "en": "How does Social CRM fundamentally differ from Traditional CRM? What lessons does 'United Breaks Guitars' impart to customer service executives?"
+        },
+        "model_answer": {
+          "vi": "Khác biệt lớn nhất: CRM truyền thống là giao tiếp 1-1 khép kín do công ty kiểm soát; Social CRM là tương tác công khai đa chiều do khách hàng dẫn dắt. Bài học từ United Airlines: Không được dùng quy trình máy móc để chối bỏ trách nhiệm với khách hàng, và phải giải quyết khiếu nại ngay từ điểm chạm đầu tiên trước khi nó biến thành khủng hoảng truyền thông.",
+          "en": "Traditional CRM is closed, asymmetric, and firm-controlled; Social CRM is transparent, networked, and consumer-led. The United lesson: bureaucratic script-following inflames customer fury, and complaints must be empowered with rapid first-contact resolution before they metastasize into viral PR disasters."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 13",
+      "pages": "398-430 (Book pp. 378-409)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-baran-ch14",
+    "book_id": "TB-BARAN-2017",
+    "book_title": "Customer Relationship Management (Baran & Galka 2017)",
+    "part_num": "Part V",
+    "part_title": {
+      "vi": "Phần V: Những Chân trời Mới của CRM",
+      "en": "Part V: CRM New Horizons"
+    },
+    "chapter_num": 14,
+    "title": {
+      "vi": "Chương 14: Xu hướng, Thách thức và Cơ hội Mới của CRM",
+      "en": "Chapter 14: CRM Trends, Challenges, and Opportunities"
+    },
+    "pdf_page_start": 431,
+    "book_page": 410,
+    "learning_objectives": {
+      "vi": [
+        "Khám phá các xu hướng công nghệ tiên phong: Trí tuệ Nhân tạo (AI), Học máy (Machine Learning), và Internet Vạn vật (IoT) trong CRM.",
+        "Hiểu rõ khái niệm Phygital - sự xóa nhòa ranh giới giữa trải nghiệm thực tế và kỹ thuật số.",
+        "Giải quyết thách thức quản trị dữ liệu lớn (Big Data: Volume, Velocity, Variety).",
+        "Định hình tương lai của Quản trị Trải nghiệm Khách hàng (Customer Experience Management - CEM/CX)."
+      ],
+      "en": [
+        "Explore vanguard technological frontiers: Artificial Intelligence (AI), Machine Learning, and IoT in CRM.",
+        "Understand Phygital convergence—blurring boundaries between physical and digital touchpoints.",
+        "Solve Big Data velocity, volume, and variety governance challenges in customer analytics.",
+        "Anticipate the evolution from transactional CRM to predictive Customer Experience Management (CXM)."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Phygital Experience",
+        "name": {
+          "vi": "Trải nghiệm Phygital (Vật lý - Kỹ thuật số)",
+          "en": "Phygital Experience"
+        },
+        "definition": {
+          "vi": "Sự kết hợp liền mạch giữa không gian vật lý (Physical) và công nghệ số (Digital) nhằm mang lại trải nghiệm tiện lợi, trực quan và không ma sát cho người tiêu dùng.",
+          "en": "The seamless fusion of physical retail environments with digital capabilities (mobile apps, IoT sensors, AR) to deliver frictionless consumer journeys."
+        }
+      },
+      {
+        "term": "Predictive CRM & AI",
+        "name": {
+          "vi": "CRM Dự đoán & Trí tuệ Nhân tạo",
+          "en": "Predictive CRM & AI"
+        },
+        "definition": {
+          "vi": "Ứng dụng các thuật toán máy học để tự động dự báo nhu cầu tiếp theo của khách hàng (Next Best Action) và tự động hóa tương tác qua trợ lý ảo thông minh.",
+          "en": "Deploying machine learning models to anticipate customer intent, recommend Next Best Actions, and automate conversational service interactions."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 14.1 Làn sóng Trí tuệ Nhân tạo & Tự động hóa Thông minh\nCRM tương lai chuyển dịch từ việc 'ghi nhận lịch sử' sang 'dự đoán tương lai'. Nhờ các thuật toán học máy, CRM có thể gợi ý cho nhân viên bán hàng: 'Hôm nay nên gọi điện cho khách hàng nào, chào bán sản phẩm gì, và với mức giá nào thì xác suất thành công cao nhất' (Next Best Action / Next Best Offer).\n\n### 14.2 Xu hướng Phygital và IoT\nSự bùng nổ của các thiết bị thông minh kết nối mạng (Internet of Things - IoT) cho phép sản phẩm tự động giao tiếp với CRM. Ví dụ: Máy giặt thông minh tự phát hiện lỗi linh kiện và tự động gửi yêu cầu bảo dưỡng về hệ thống CRM của nhà sản xuất trước khi khách hàng nhận ra sự cố.\n\n### 14.3 Từ CRM sang CEM/CX (Customer Experience Management)\nCông nghệ CRM không còn bị đóng khung trong phòng kinh doanh hay marketing mà trở thành nền tảng thiết kế toàn bộ Hành trình Khách hàng (Customer Journey Mapping), từ lúc khách hàng nảy sinh nhận thức cho đến mọi điểm chạm hậu mãi.",
+      "en": "### 14.1 Artificial Intelligence and Predictive Next-Best-Action\nCRM is undergoing an epochal transformation from descriptive record-keeping into predictive behavioral anticipation. Machine learning engines ingest real-time contextual signals to prompt sales agents with dynamic 'Next Best Actions' and calibrated pricing models.\n\n### 14.2 The Phygital Frontier and IoT Integration\nThe explosion of Internet of Things (IoT) sensors enables physical assets to communicate autonomously with CRM backends. Connected appliances diagnose component wear and automatically generate proactive dispatch tickets before the consumer experiences a breakdown.\n\n### 14.3 Evolution from CRM to Holistic CXM\nCRM has expanded beyond sales automation into enterprise-wide Customer Experience Management (CXM), orchestrating every micro-moment across omni-channel customer journey lifecycles."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Tương lai của CRM là chuyển từ phản ứng thụ động sang chủ động dự báo bằng AI và IoT.",
+        "Phygital là chìa khóa để các nhà bán lẻ truyền thống đánh bại các đối thủ thương mại điện tử thuần túy."
+      ],
+      "en": [
+        "The frontier of CRM lies in transitioning from reactive logging to autonomous, AI-driven predictive intervention.",
+        "Phygital convergence enables brick-and-mortar operators to outmaneuver pure-play digital commerce."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-b14-01",
+        "question": {
+          "vi": "Trình bày khái niệm 'Trải nghiệm Phygital' và 'Hành động Tối ưu Tiếp theo' (Next Best Action) trong CRM hiện đại. Cho ví dụ thực tế.",
+          "en": "Explain 'Phygital Experience' and 'Next Best Action' in contemporary CRM. Provide real-world examples."
+        },
+        "model_answer": {
+          "vi": "Phygital là kết hợp vật lý và số (ví dụ: Nike House of Innovation cho phép quét giày trong cửa hàng để nhận kích cỡ mang đến phòng thử đồ qua app). Next Best Action là thuật toán AI gợi ý bước đi tiếp theo (ví dụ: hệ thống CRM của ngân hàng phát hiện khách hàng vừa bán nhà và tự động nhắc chuyên viên tư vấn gọi điện đề xuất gói gửi tiết kiệm sinh lời cao).",
+          "en": "Phygital merges physical with digital (e.g. Nike House of Innovation where shoppers scan footwear via app for instant fitting room delivery). Next Best Action is an AI prompt (e.g. a bank CRM detects a mortgage settlement and prompts the advisor to offer wealth management solutions)."
+        }
+      }
+    ],
+    "source": {
+      "document": "Customer Relationship Management (Baran & Galka 2017)",
+      "chapter": "Chapter 14",
+      "pages": "431-451 (Book pp. 410-430)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch01",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "chapter_num": 1,
+    "title": {
+      "vi": "Chương 1: Giới thiệu & Các Nguồn Giá trị Cốt lõi của CRM",
+      "en": "Chapter 1: Introduction & Sources of CRM Value"
+    },
+    "pdf_page_start": 14,
+    "book_page": 1,
+    "learning_objectives": {
+      "vi": [
+        "Định nghĩa CRM từ góc độ thực tiễn của nhà tư vấn triển khai.",
+        "Khám phá 4 nguồn giá trị kinh doanh cốt lõi do CRM tạo ra.",
+        "Hiểu rõ tầm quan trọng sống còn của Văn hóa Định hướng Dữ liệu (Data-Driven Culture).",
+        "Phân tích vai trò và trách nhiệm của Người bảo trợ Cấp cao (Executive Sponsor)."
+      ],
+      "en": [
+        "Define CRM from the practitioner's implementation perspective.",
+        "Explore the 4 primary sources of business value generated by CRM.",
+        "Understand the critical prerequisite of a Data-Driven Culture.",
+        "Analyze the indispensable responsibilities of the Executive Sponsor."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Data-Driven Learning Organization",
+        "name": {
+          "vi": "Tổ chức Học tập Định hướng Dữ liệu",
+          "en": "Data-Driven Learning Organization"
+        },
+        "definition": {
+          "vi": "Tổ chức ra quyết định kinh doanh dựa trên bằng chứng dữ liệu thực tế thay vì cảm tính hoặc suy đoán chủ quan.",
+          "en": "An organization that grounds business decisions in verified empirical data rather than instinct or subjective guesswork."
+        }
+      },
+      {
+        "term": "Executive Sponsor",
+        "name": {
+          "vi": "Người Bảo trợ Cấp cao",
+          "en": "Executive Sponsor"
+        },
+        "definition": {
+          "vi": "Lãnh đạo cấp cao nhất (CEO, COO, VP) chịu trách nhiệm cam kết nguồn lực, tháo gỡ rào cản chính trị nội bộ và thúc đẩy sự chấp nhận CRM.",
+          "en": "The senior executive who champions the CRM vision, secures funding, resolves political hurdles, and mandates adoption."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 1.1 Định nghĩa CRM theo Kostojohn et al.\nTrong bối cảnh áp lực cạnh tranh khốc liệt và sản phẩm ngày càng bị 'hàng hóa hóa' (commoditization), trải nghiệm khách hàng trở thành yếu tố khác biệt hóa duy nhất. Khách hàng ngày càng hiểu biết hơn, đòi hỏi cao hơn và ít trung thành hơn. Để chiến thắng, doanh nghiệp phải đưa ra các quyết định 'đúng đắn hơn và nhanh chóng hơn' dựa trên thông tin chính xác.\n\n### 1.2 Bốn Nguồn Giá trị Lớn của CRM\n1. **Hỗ trợ Tổ chức Học tập Định hướng Dữ liệu:** CRM biến dữ liệu giao dịch tản mác thành tri thức có cấu trúc, giúp tổ chức nhìn thấy xu hướng tiêu dùng và bài học kinh nghiệm.\n2. **Loại bỏ Sự lãng phí và Nâng cao Năng suất Nhân viên:** Tự động hóa các tác vụ lặp đi lặp lại (soạn hợp đồng mẫu, gửi email nhắc việc, cập nhật trạng thái đơn hàng), giúp nhân viên tập trung vào các hoạt động tạo giá trị cao.\n3. **Cung cấp Trải nghiệm Khách hàng Vượt trội:** Khách hàng được phục vụ nhanh chóng, chính xác tại mọi điểm chạm mà không cần phải nhắc lại lịch sử yêu cầu của mình.\n4. **Cung cấp Dữ liệu Đầu vào cho các Quyết định Chiến lược:** Hỗ trợ dự báo doanh số (sales forecasting), quản lý chỉ tiêu kinh doanh (sales management), lập kế hoạch phát triển sản phẩm mới và bố trí nhân sự chăm sóc khách hàng dựa trên dự báo khối lượng cuộc gọi.",
+      "en": "### 1.1 Defining CRM in Contemporary Markets\nAs market competition commoditizes core products, customer experience becomes the defining competitive frontier. Modern customers are increasingly sophisticated, demanding, and fickle. Winning firms must make better decisions faster, powered by real-time intelligence.\n\n### 1.2 The Four Sources of CRM Business Value\n1. **Supporting a Data-Driven, Learning Organization:** Transforms raw operational touchpoints into systemic organizational knowledge.\n2. **Wringing out Inefficiencies and Increasing Productivity:** Automates repetitive administrative chores (follow-ups, quote templates, status reporting), freeing personnel for high-value advisory interactions.\n3. **Providing a Superior Customer Experience:** Seamless, personalized service delivery across every operational channel without frustrating redundancies.\n4. **Informing Strategic Business Decisions:** Delivers empirical data for sales forecasting, territory management, product lifecycle roadmaps, and customer support staffing models."
+    },
+    "key_takeaways": {
+      "vi": [
+        "CRM cung cấp giá trị bằng cách vừa cắt giảm chi phí vận hành lãng phí, vừa gia tăng doanh thu nhờ trải nghiệm khách hàng vượt trội.",
+        "Thiếu Người bảo trợ Cấp cao tích cực là nguyên nhân số một khiến dự án CRM bị chìm xuồng."
+      ],
+      "en": [
+        "CRM drives value simultaneously by eliminating administrative waste and elevating customer lifetime revenues.",
+        "The absence of an active, committed Executive Sponsor is the primary predictor of CRM project demise."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f01-01",
+        "question": {
+          "vi": "Liệt kê 4 nguồn giá trị của CRM theo Kostojohn et al. Tại sao việc chỉ xem CRM là công cụ tăng năng suất bán hàng là một góc nhìn hạn hẹp?",
+          "en": "List the 4 sources of CRM value according to Kostojohn et al. Why is viewing CRM solely as a sales productivity tool dangerously narrow?"
+        },
+        "model_answer": {
+          "vi": "Bốn nguồn giá trị gồm: Hỗ trợ tổ chức học tập định hướng dữ liệu, loại bỏ lãng phí nâng cao năng suất, mang lại trải nghiệm khách hàng tốt hơn, và cung cấp dữ liệu định hướng quyết định kinh doanh. Nếu chỉ coi CRM là công cụ cho đội ngũ bán hàng, doanh nghiệp sẽ bỏ lỡ giá trị dự báo chiến lược, cải tiến sản phẩm và liên kết dịch vụ khách hàng.",
+          "en": "The 4 sources are: Data-driven learning, operational efficiency, superior customer experience, and strategic decision support. Confining CRM to sales automation forfeits its broader value in enterprise forecasting, product innovation, and cross-functional service orchestration."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 1",
+      "pages": "14-23 (Book pp. 1-10)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch02",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "chapter_num": 2,
+    "title": {
+      "vi": "Chương 2: Các Thành phần Quyết định Thành công của CRM",
+      "en": "Chapter 2: Components of CRM Success"
+    },
+    "pdf_page_start": 24,
+    "book_page": 11,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững bộ ba cấu thành thành công của CRM: Con người (People), Quy trình (Process), và Công nghệ (Technology).",
+        "Thiết lập cơ cấu quản trị dự án CRM: Ban Chỉ đạo (Steering Committee), Đội Triển khai, và Các Đại sứ Phòng ban (Champions).",
+        "Phân biệt 3 nhóm quy trình then chốt: Quy trình Vận hành, Quy trình Bảo trì, và Quy trình Nâng cấp.",
+        "Nhận diện các cạm bẫy triển khai phổ biến và các biện pháp phòng ngừa rủi ro."
+      ],
+      "en": [
+        "Master the foundational triad of CRM success: People, Process, and Technology.",
+        "Architect robust project governance: Steering Committee, Implementation Team, and Departmental Champions.",
+        "Distinguish the 3 core process streams: Operational, Maintenance, and Enhancement processes.",
+        "Identify common implementation pitfalls and deploy mitigation strategies."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Steering Committee",
+        "name": {
+          "vi": "Ban Chỉ đạo Dự án (Steering Committee)",
+          "en": "Steering Committee"
+        },
+        "definition": {
+          "vi": "Nhóm đại diện lãnh đạo liên phòng ban chịu trách nhiệm định hướng chiến lược, giải quyết mâu thuẫn phạm vi và phân bổ ngân sách cho hệ thống CRM.",
+          "en": "A cross-functional leadership body governing strategic priorities, scope disputes, and resource allocation for the CRM platform."
+        }
+      },
+      {
+        "term": "Departmental Champions",
+        "name": {
+          "vi": "Đại sứ CRM Phòng ban (Champions)",
+          "en": "Departmental Champions"
+        },
+        "definition": {
+          "vi": "Những nhân sự nòng cốt tại các phòng ban được tôn trọng về chuyên môn, có nhiệm vụ truyền cảm hứng và hướng dẫn đồng nghiệp sử dụng CRM.",
+          "en": "Respected front-line subject matter experts who advocate for the system, mentor peers, and channel user feedback to the core team."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 2.1 Bộ ba 'Con người, Quy trình, Công nghệ' (People, Process, Technology)\nKostojohn et al. (2011, tr. 11) xác định Bốn Trụ Cột của Thành Công CRM: Con người (People), Quy trình (Process), Công nghệ (Technology), và Kỳ vọng (Expectations). Trong khi quy tắc kinh nghiệm phổ biến trong giới tư vấn thường cho rằng '80% thành công nằm ở Con người & Quy trình và chỉ 20% là Công nghệ', các tác giả nhấn mạnh rằng cả 4 trụ cột đều có tính chất sống còn và công nghệ chỉ phát huy giá trị khi kỳ vọng của con người và quy trình vận hành được thiết kế chuẩn mực.\n\n### 2.2 Trụ cột Con người (People Governance)\n- **Executive Sponsor:** Cung cấp thẩm quyền và ngân sách tối cao.\n- **Steering Committee:** Họp định kỳ hàng tháng/hàng quý để xét duyệt các yêu cầu thay đổi (change requests) và giữ vững phạm vi dự án.\n- **Implementation Team:** Gồm Quản lý Dự án (PM), Kiến trúc sư Giải pháp (Solution Architect), Chuyên viên Phân tích Nghiệp vụ (BA) và Đội ngũ Kỹ thuật.\n- **Departmental Champions:** 'Cầu nối vàng' giúp giảm bớt sự phản đối của nhân viên cơ sở và thu thập phản hồi thực tế.\n- **CRM Administration Team:** Quản trị viên hệ thống phụ trách cấp quyền, bảo trì dữ liệu và cấu hình giao diện.\n\n### 2.3 Trụ cột Quy trình (Process)\nKhông thể số hóa một quy trình đang bị lỗi. Doanh nghiệp phải chuẩn hóa 3 nhóm quy trình:\n1. *Quy trình Tác nghiệp (Operational Processes):* Quy trình từ khách hàng tiềm năng đến ký hợp đồng (Lead-to-Opportunity-to-Cash), quy trình xử lý khiếu nại (Ticket SLA).\n2. *Quy trình Bảo trì (Maintenance Processes):* Xử lý lỗi, quản trị quyền truy cập, sao lưu dữ liệu dự phòng.\n3. *Quy trình Nâng cấp (Enhancement Processes):* Tiếp nhận ý kiến người dùng, đánh giá mức độ ưu tiên và phát triển phiên bản mới theo chu kỳ định kỳ.",
+      "en": "### 2.1 The 'People, Process, Technology' Triad\nKostojohn et al. (2011, p. 11) formally establish Four Pillars of CRM Success: People, Process, Technology, and Expectations. While popular consulting folklore frequently cites an '80% People-Process / 20% Technology' rule of thumb, the authors emphasize that all four pillars are mutually indispensable and that technology fails whenever human expectations and operational processes are misaligned.\n\n### 2.2 People & Governance Architecture\n- **Executive Sponsor:** Provides ultimate executive legitimacy and funding defense.\n- **Steering Committee:** Cross-functional leadership body meeting on a disciplined cadence to arbitrate scope changes and ensure business alignment.\n- **Implementation Team:** Project Manager, Solution Architect, Business Analysts, and Technical Integration Developers.\n- **Departmental Champions:** Trusted front-line champions who overcome peer inertia, mentor end-users, and filter product feedback.\n- **CRM Administration Team:** System admins handling role-based security, data cleansing, and configuration changes.\n\n### 2.3 Process Discipline\nAutomating a flawed process merely accelerates dysfunction. Organizations must formalize:\n1. *Operational Processes:* Lead-to-Opportunity lifecycles, service escalation SLAs, and quoting rules.\n2. *Maintenance Processes:* Bug triage, user provisioning, database indexing, and automated backups.\n3. *Enhancement Processes:* Structured backlog intake, ROI prioritization, and release management cadences."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Cài đặt phần mềm hiện đại vào một quy trình lộn xộn sẽ chỉ tạo ra một sự lộn xộn tự động hóa đắt tiền.",
+        "Ban Chỉ đạo liên phòng ban là rào chắn cần thiết để ngăn chặn tình trạng phình to phạm vi dự án (Scope Creep)."
+      ],
+      "en": [
+        "Deploying advanced software onto broken processes merely creates expensive, automated chaos.",
+        "A cross-functional Steering Committee is the vital bulwark against fatal scope creep."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f02-01",
+        "question": {
+          "vi": "Tại sao việc thành lập Ban Chỉ đạo (Steering Committee) và mạng lưới Đại sứ Phòng ban (Champions) lại quyết định sự sống còn của một dự án CRM?",
+          "en": "Why are the establishment of a Steering Committee and a network of Departmental Champions critical to CRM project survival?"
+        },
+        "model_answer": {
+          "vi": "Ban Chỉ đạo đảm bảo sự đồng thuận giữa các phòng ban và ngăn chặn xung đột về tài nguyên. Mạng lưới Đại sứ phòng ban xóa bỏ tâm lý ngại thay đổi của nhân viên cơ sở và giúp hệ thống gắn chặt với nhu cầu công việc thực tế hàng ngày.",
+          "en": "The Steering Committee enforces cross-departmental alignment and resolves resource conflicts at the executive level. Departmental Champions neutralize front-line resistance and ensure system design reflects real-world workflow realities."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 2",
+      "pages": "24-60 (Book pp. 11-46)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch03",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "chapter_num": 3,
+    "title": {
+      "vi": "Chương 3: Xây dựng Lộ trình CRM (Building a CRM Roadmap)",
+      "en": "Chapter 3: Building a CRM Roadmap"
+    },
+    "pdf_page_start": 61,
+    "book_page": 47,
+    "learning_objectives": {
+      "vi": [
+        "Giải thích lý do tại sao phương pháp tiếp cận theo giai đoạn (Phased Approach) luôn vượt trội so với cách tiếp cận 'Big Bang'.",
+        "Nắm vững quy trình 5 bước xây dựng lộ trình CRM từ 1 đến 3 năm.",
+        "Áp dụng ma trận Ưu tiên Giá trị vs. Độ phức tạp (Value vs. Complexity Matrix).",
+        "Điều chỉnh và thích ứng lộ trình khi doanh nghiệp gặp biến động chiến lược giữa chặng đường."
+      ],
+      "en": [
+        "Explain why a Phased Approach systematically outperforms high-risk 'Big Bang' deployments.",
+        "Master the 5-step process for developing a rolling 1- to 3-year CRM roadmap.",
+        "Apply the Value vs. Complexity Prioritization Matrix to sequence initiative releases.",
+        "Adapt and recalibrate roadmaps midstream when strategic conditions pivot."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Phased Implementation Approach",
+        "name": {
+          "vi": "Cách tiếp cận Triển khai theo Giai đoạn",
+          "en": "Phased Implementation Approach"
+        },
+        "definition": {
+          "vi": "Phương pháp chia nhỏ dự án CRM tổng thể thành nhiều đợt phát hành ngắn hạn (mỗi đợt 3-6 tháng), mang lại giá trị nhanh và giảm thiểu rủi ro.",
+          "en": "A deployment strategy breaking the comprehensive CRM scope into manageable 3- to 6-month release cycles to deliver rapid ROI and mitigate risk."
+        }
+      },
+      {
+        "term": "Value vs. Complexity Matrix",
+        "name": {
+          "vi": "Ma trận Giá trị vs. Độ phức tạp",
+          "en": "Value vs. Complexity Matrix"
+        },
+        "definition": {
+          "vi": "Công cụ phân loại các tính năng CRM dựa trên giá trị kinh doanh mang lại và mức độ khó khăn kỹ thuật để ưu tiên các 'thắng lợi nhanh' (Quick Wins).",
+          "en": "A strategic prioritization framework plotting CRM initiatives by business value against implementation complexity to capture 'Quick Wins'."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 3.1 Tại sao phải Tiếp cận theo Giai đoạn (Phased Approach)?\nKostojohn et al. cảnh báo về cám dỗ chết người của việc cố gắng hiện thực hóa toàn bộ tầm nhìn CRM chỉ trong một đợt phát hành duy nhất (cách tiếp cận 'Big Bang'). Big Bang đòi hỏi thời gian triển khai 12-18 tháng mà không mang lại kết quả thực tế nào trong thời gian đó, khiến lãnh đạo mất kiên nhẫn và nhân viên nản lòng.\n\n### 3.2 Lợi thế của Lộ trình theo Giai đoạn\n1. *Thu hồi vốn đầu tư nhanh (Faster ROI):* Mỗi giai đoạn (3-6 tháng) đưa vào hoạt động một nhóm tính năng cốt lõi (ví dụ: Giai đoạn 1 triển khai SFA; Giai đoạn 2 triển khai Customer Service; Giai đoạn 3 tích hợp Marketing Automation).\n2. *Học hỏi và Tinh chỉnh:* Tổ chức rút kinh nghiệm từ phản hồi thực tế của người dùng ở Giai đoạn 1 để cải thiện thiết kế cho các giai đoạn tiếp theo.\n3. *Giảm thiểu rủi ro gián đoạn:* Không làm đảo lộn toàn bộ hoạt động kinh doanh cùng một lúc.\n\n### 3.3 Ma trận Ưu tiên Giá trị vs. Độ phức tạp\n- **Nhóm 1 - Giá trị Cao, Độ phức tạp Thấp (Quick Wins):** Ưu tiên triển khai ngay trong Giai đoạn 1 để tạo động lực và chứng minh hiệu quả.\n- **Nhóm 2 - Giá trị Cao, Độ phức tạp Cao (Strategic Bets):** Lên kế hoạch kỹ lưỡng, chia nhỏ thành các cấu phần để triển khai ở Giai đoạn 2 và 3.\n- **Nhóm 3 - Giá trị Thấp, Độ phức tạp Thấp (Low Hanging Fruit):** Triển khai khi có thời gian nhàn rỗi.\n- **Nhóm 4 - Giá trị Thấp, Độ phức tạp Cao (Money Pits):** Loại bỏ hoàn toàn khỏi phạm vi dự án.",
+      "en": "### 3.1 The Flaw of the 'Big Bang' Approach\nKostojohn et al. caution against the seductive urge to implement an entire enterprise CRM vision in a monolithic 'Big Bang' rollout. Big Bangs require 12–18 months of development without interim business value, breeding executive cynicism and user fatigue.\n\n### 3.2 Virtues of the Phased CRM Roadmap\n1. *Rapid Value Realization:* 3- to 6-month release increments deploy tangible capabilities (e.g., Phase 1: Core SFA; Phase 2: Customer Service Desk; Phase 3: Omnichannel Marketing Automation).\n2. *Adaptive Learning Feedback:* User adoption feedback from Phase 1 directly informs Phase 2 UI configurations and data models.\n3. *Risk Mitigation:* Isolates organizational disruption to specific operational groups.\n\n### 3.3 The Value vs. Complexity Prioritization Matrix\n- **Quadrant 1 - High Value, Low Complexity (Quick Wins):** Fast-tracked in Phase 1 to build organizational momentum.\n- **Quadrant 2 - High Value, High Complexity (Strategic Investments):** Broken down and scheduled for Phase 2/3.\n- **Quadrant 3 - Low Value, Low Complexity (Fill-ins):** Opportunistic backlog candidates.\n- **Quadrant 4 - Low Value, High Complexity (Money Pits):** Ruthlessly purged from the roadmap."
+    },
+    "key_takeaways": {
+      "vi": [
+        "'Big Bang' là công thức dẫn đến thất bại; Lộ trình theo giai đoạn (Phased Roadmap) là chuẩn mực thành công.",
+        "Luôn bắt đầu bằng các sáng kiến Giá trị Cao - Độ phức tạp Thấp để tạo 'chiến thắng nhanh'."
+      ],
+      "en": [
+        "'Big Bang' is a recipe for disaster; a Phased Roadmap is the proven blueprint for enterprise CRM success.",
+        "Prioritize High-Value / Low-Complexity 'Quick Wins' first to galvanize enterprise adoption."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f03-01",
+        "question": {
+          "vi": "So sánh cách tiếp cận Phased Approach và Big Bang Approach trong triển khai CRM. Làm thế nào để áp dụng ma trận Giá trị vs. Độ phức tạp để chọn tính năng cho Giai đoạn 1?",
+          "en": "Compare the Phased Approach and the Big Bang Approach in CRM rollouts. How should the Value vs. Complexity matrix be applied to select Phase 1 scope?"
+        },
+        "model_answer": {
+          "vi": "Phased Approach triển khai từng đợt ngắn 3-6 tháng giúp thu hồi vốn nhanh và giảm rủi ro; Big Bang kéo dài hơn 1 năm và dễ thất bại. Áp dụng ma trận: Giai đoạn 1 phải chọn các tính năng thuộc góc 'Giá trị cao - Độ phức tạp thấp' (ví dụ: quản lý danh bạ và phễu cơ hội cơ bản) để chứng minh hiệu quả tức thì cho ban lãnh đạo.",
+          "en": "Phased rollouts deliver rapid ROI every 3-6 months with iterative feedback, whereas Big Bangs accumulate massive untested risk. For Phase 1, strictly select 'High Value, Low Complexity' initiatives (e.g. core lead tracking) to prove immediate ROI and win executive buy-in."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 3",
+      "pages": "61-76 (Book pp. 47-62)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch04",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "chapter_num": 4,
+    "title": {
+      "vi": "Chương 4: Đánh giá Phần mềm & Lựa chọn Nhà tư vấn",
+      "en": "Chapter 4: Evaluating Software and Consultants"
+    },
+    "pdf_page_start": 77,
+    "book_page": 63,
+    "learning_objectives": {
+      "vi": [
+        "Phân tích cấu trúc thị trường phần mềm CRM theo phân khúc: Enterprise, Mid-Market và Small Business.",
+        "So sánh toàn diện giữa mô hình Điện toán đám mây (Cloud/SaaS) và Cài đặt tại chỗ (On-Premises).",
+        "Thiết lập quy trình mời thầu (RFP) và chấm điểm giải pháp khách quan.",
+        "Nhận diện các tiêu chí cốt lõi khi lựa chọn đối tác tư vấn triển khai và phòng tránh bẫy chi phí."
+      ],
+      "en": [
+        "Segment the CRM software market into Enterprise, Mid-Market, and Small Business tiers.",
+        "Execute a comprehensive trade-off analysis between Cloud/SaaS and On-Premises architectures.",
+        "Structure Request for Proposal (RFP) processes and objective vendor scorecards.",
+        "Establish consultant selection criteria and avoid contractual budget traps."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Total Cost of Ownership (TCO)",
+        "name": {
+          "vi": "Tổng Chi phí Sở hữu (TCO)",
+          "en": "Total Cost of Ownership (TCO)"
+        },
+        "definition": {
+          "vi": "Toàn bộ chi phí phát sinh trong suốt vòng đời sử dụng hệ thống CRM, bao gồm bản quyền phần mềm, hạ tầng phần cứng, phí tư vấn triển khai, bảo trì, đào tạo và nâng cấp.",
+          "en": "The holistic sum of all direct and indirect expenses incurred across the CRM lifecycle, including licensing, infrastructure, consulting, maintenance, and training."
+        }
+      },
+      {
+        "term": "Time-and-Materials vs. Fixed-Fee",
+        "name": {
+          "vi": "Hợp đồng Theo Thời gian & Vật liệu vs. Trọn gói",
+          "en": "Time-and-Materials vs. Fixed-Fee"
+        },
+        "definition": {
+          "vi": "Hai mô hình hợp đồng tư vấn: Time-and-Materials tính phí theo số giờ công thực tế phát sinh; Fixed-Fee ấn định tổng chi phí cố định cho một phạm vi xác định.",
+          "en": "Consulting engagement models: Time-and-Materials bills actual hours expended; Fixed-Fee sets an absolute price cap for tightly bounded deliverables."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 4.1 Phân khúc Thị trường Phần mềm CRM\nKostojohn et al. chia thị trường CRM thành 3 phân khúc chính:\n1. *Enterprise Tier (Doanh nghiệp Lớn):* Các hệ thống như SAP CRM, Oracle Siebel, Salesforce Enterprise. Ưu điểm: Tùy biến cực kỳ sâu rộng, xử lý hàng triệu bản ghi phức tạp. Nhược điểm: Chi phí bản quyền và tư vấn khổng lồ, thời gian triển khai dài.\n2. *Mid-Market Tier (Doanh nghiệp Vừa):* Microsoft Dynamics CRM, Salesforce Professional, SugarCRM. Ưu điểm: Linh hoạt, dễ tích hợp với hệ sinh thái Microsoft/văn phòng, chi phí hợp lý.\n3. *Small Business Tier (Doanh nghiệp Nhỏ):* Các giải pháp chuyên biệt, triển khai nhanh, cấu hình đơn giản.\n\n### 4.2 Đánh giá Cloud/SaaS vs. On-Premises\n- **Cloud/SaaS:** Không cần mua máy chủ, cập nhật tính năng tự động, chi phí trả theo tháng/năm (OPEX). Phù hợp với đa số doanh nghiệp hiện đại.\n- **On-Premises:** Dữ liệu nằm hoàn toàn trong trung tâm dữ liệu nội bộ. Thường được các ngân hàng hoặc cơ quan chính phủ có quy định bảo mật gắt gao lựa chọn, nhưng đòi hỏi đội ngũ IT chuyên trách bảo trì phần cứng và sao lưu.\n\n### 4.3 Cạm bẫy khi Thuê Nhà Tư vấn Triển khai\nPhần lớn hợp đồng tư vấn CRM được ký theo dạng **Time-and-Materials (T&M)** vì phạm vi ban đầu không thể chi tiết 100%. Rủi ro lớn nhất là đối tác tư vấn cố tình báo giá thấp (underbidding) để thắng thầu, sau đó liên tục phát sinh chi phí phát triển thêm (change orders). Doanh nghiệp cần thẩm định kỹ lịch sử thực hiện ngân sách (budget performance) của đối tác trong các dự án quá khứ.",
+      "en": "### 4.1 CRM Software Market Segmentation\nKostojohn et al. stratify the vendor ecosystem into three tiers:\n1. *Enterprise Tier:* SAP, Oracle Siebel, Salesforce Enterprise. Strengths: near-infinite extensibility, multi-currency/multi-org scalability. Weaknesses: staggering TCO, protracted deployment cycles.\n2. *Mid-Market Tier:* Microsoft Dynamics CRM, Salesforce Professional. Strengths: balance of agility, deep desktop integration, and reasonable TCO.\n3. *Small Business Tier:* Lightweight contact managers with minimal customization overhead.\n\n### 4.2 Architectural Trade-Offs: Cloud vs. On-Premises\n- **Cloud/SaaS:** Low initial barriers, rapid provisioning, outsourced DR/backups, predictable OPEX.\n- **On-Premises:** Total governance over physical data sovereignty, preferred by defense or heavily regulated banking institutions, but burdened with ongoing IT maintenance and hardware refresh cycles.\n\n### 4.3 Mitigating Consulting Partner Risks\nMost enterprise CRM consulting engagements operate under **Time-and-Materials (T&M)** because initial requirements cannot be fully locked down. The chief pitfall is vendor underbidding—low-balling initial estimates to secure the contract, followed by an explosion of change orders. Buyers must audit a prospective partner's historical budget performance on comparable projects."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Lựa chọn phần mềm phải dựa trên Tổng Chi phí Sở hữu (TCO) trong 3-5 năm chứ không chỉ nhìn vào phí bản quyền năm đầu.",
+        "Hợp đồng Time-and-Materials đòi hỏi khách hàng phải kiểm soát chặt chẽ tiến độ và thẩm định năng lực thực tế của đối tác tư vấn."
+      ],
+      "en": [
+        "Software selection must evaluate multi-year Total Cost of Ownership (TCO), not merely Year 1 subscription license fees.",
+        "Time-and-Materials contracts mandate vigilant scope governance and historical budget performance vetting."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f04-01",
+        "question": {
+          "vi": "Phân tích ưu và nhược điểm của mô hình Cloud/SaaS so với On-Premises. Doanh nghiệp cần lưu ý những bẫy chi phí nào khi ký hợp đồng tư vấn triển khai dạng Time-and-Materials?",
+          "en": "Analyze the pros and cons of Cloud/SaaS vs. On-Premises. What cost pitfalls must firms watch for when entering Time-and-Materials consulting contracts?"
+        },
+        "model_answer": {
+          "vi": "Cloud/SaaS triển khai nhanh, không tốn chi phí phần cứng nhưng tốn phí thuê bao lâu dài. On-Premises kiểm soát dữ liệu tuyệt đối nhưng chi phí vận hành máy chủ rất đắt. Trong hợp đồng Time-and-Materials, bẫy lớn nhất là nhà tư vấn báo giá thấp để trúng thầu rồi sau đó kéo dài thời gian làm việc để thu thêm tiền. Doanh nghiệp cần đặt ra các mốc nghiệm thu (milestones) và kiểm soát chặt chẽ biên bản chấm công.",
+          "en": "Cloud/SaaS eliminates hardware CAPEX but incurs indefinite subscription OPEX. On-Premises gives sovereign data control but requires costly in-house infrastructure. In T&M contracts, the prime danger is vendor underbidding followed by billable hour inflation. Clients must institute strict milestone gates and time-tracking audits."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 4",
+      "pages": "77-104 (Book pp. 63-90)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch05",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "chapter_num": 5,
+    "title": {
+      "vi": "Chương 5: Lập Kế hoạch Triển khai Dự án CRM Ban đầu",
+      "en": "Chapter 5: Planning the Initial CRM Implementation"
+    },
+    "pdf_page_start": 105,
+    "book_page": 91,
+    "learning_objectives": {
+      "vi": [
+        "Thiết lập cấu trúc quản trị dự án CRM chuyên nghiệp (Project Governance Framework).",
+        "So sánh phương pháp quản lý dự án Thác nước (Waterfall) và Linh hoạt (Agile) trong bối cảnh CRM.",
+        "Xác định và kiểm soát phạm vi dự án (Scoping & Work Breakdown Structure).",
+        "Lập ngân sách dự án, quản trị rủi ro và xây dựng kế hoạch truyền thông nội bộ."
+      ],
+      "en": [
+        "Establish an enterprise CRM Project Governance Framework.",
+        "Evaluate Waterfall vs. Agile implementation methodologies for CRM systems.",
+        "Define and defend project scope boundaries via Work Breakdown Structures (WBS).",
+        "Manage project budgeting, contingency reserves, and internal communication plans."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "Project Scope Creep",
+        "name": {
+          "vi": "Phình to Phạm vi Dự án (Scope Creep)",
+          "en": "Scope Creep"
+        },
+        "definition": {
+          "vi": "Hiện tượng các yêu cầu tính năng mới liên tục được bổ sung vào dự án mà không có sự điều chỉnh tương ứng về ngân sách, thời gian hoặc tài nguyên.",
+          "en": "The uncontrolled growth or addition of new project features without proportional adjustments to budget, time, or technical resources."
+        }
+      },
+      {
+        "term": "Agile vs. Waterfall in CRM",
+        "name": {
+          "vi": "Agile vs. Thác nước trong Triển khai CRM",
+          "en": "Agile vs. Waterfall in CRM"
+        },
+        "definition": {
+          "vi": "Thác nước lập kế hoạch tuần tự khắt khe từ đầu đến cuối; Agile chia nhỏ thành các chu kỳ chạy nước rút (sprints 2-4 tuần) cho phép người dùng trải nghiệm và phản hồi liên tục.",
+          "en": "Waterfall enforces linear, stage-gated sequences; Agile deploys 2- to 4-week iterative sprints enabling continuous user validation and configuration flexibility."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 5.1 Lập Kế hoạch Dự án CRM - Nền móng Quyết định\nKostojohn et al. nhấn mạnh: 'Nếu bạn thất bại trong việc lập kế hoạch, bạn đang lên kế hoạch cho sự thất bại'. Một kế hoạch triển khai CRM phải làm rõ 4 câu hỏi cơ bản: Chúng ta đang xây dựng cái gì? Ai sẽ làm? Mất bao lâu? Và tốn bao nhiêu chi phí?\n\n### 5.2 Lựa chọn Phương pháp Luận: Waterfall vs. Agile\n- **Phương pháp Thác nước (Waterfall):** Yêu cầu chốt 100% tài liệu phân tích nghiệp vụ (BRD) trước khi lập trình. Phù hợp với các dự án có phạm vi cố định, ít thay đổi và yêu cầu kiểm toán nghiêm ngặt.\n- **Phương pháp Linh hoạt (Agile):** Chia dự án thành các đợt chạy nước rút (Sprints). Người dùng được nhìn thấy giao diện và dùng thử sau mỗi 2-3 tuần. Phù hợp với CRM vì người dùng chỉ thực sự hiểu họ cần gì khi được trực tiếp thao tác trên màn hình.\n- **Mô hình Lai (Hybrid):** Lập kế hoạch tổng thể theo Waterfall nhưng thiết kế và phát triển chi tiết theo Agile.\n\n### 5.3 Quản trị Rủi ro và Ngăn ngừa Phình to Phạm vi (Scope Creep)\nNguyên nhân hàng đầu khiến dự án CRM vượt ngân sách là do các phòng ban liên tục đòi hỏi thêm các tính năng 'đẹp mắt nhưng không thiết yếu'. Ban chỉ đạo phải thiết lập quy trình kiểm soát thay đổi (Change Control Board - CCB): mọi yêu cầu bổ sung phải được lượng hóa chi phí và hoãn sang Giai đoạn 2 nếu không nằm trong phạm vi bắt buộc của Giai đoạn 1.",
+      "en": "### 5.1 Project Planning as the Critical Foundation\nKostojohn et al. stress: rigorous planning establishes the architectural guardrails for implementation. A sound plan provides definitive clarity on scope, team allocation, timeline milestones, and capital budgets.\n\n### 5.2 Methodological Choices: Waterfall vs. Agile vs. Hybrid\n- **Waterfall:** Demands exhaustive upfront Business Requirements Documents (BRD). Beneficial for fixed-cost, rigid regulatory integrations, but vulnerable to late-stage discovery shocks.\n- **Agile:** Iterates via 2- to 4-week Sprints. Highly recommended for CRM because business users rarely articulate exact field configurations until they physically interact with prototype screens.\n- **Hybrid:** Employs Waterfall stage-gates for budget governance and architecture, while executing sprint iterations for functional configuration.\n\n### 5.3 Mitigating Scope Creep\nThe primary culprit behind CRM budget blowouts is uncontrolled scope creep—stakeholders demanding peripheral enhancements mid-flight. The project must establish a Change Control Board (CCB): non-critical requests are formally ticketed and deferred to Phase 2 backlog releases."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Phương pháp lai (Hybrid Agile) là cách tiếp cận lý tưởng nhất cho triển khai CRM hiện đại.",
+        "Quy trình kiểm soát thay đổi (Change Control) nghiêm ngặt là rào chắn bắt buộc để bảo vệ ngân sách dự án."
+      ],
+      "en": [
+        "A Hybrid Agile delivery model strikes the optimal balance between budgetary governance and user-experience flexibility.",
+        "A formal Change Control Board is mandatory to defend project budgets against fatal scope creep."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f05-01",
+        "question": {
+          "vi": "Tại sao các dự án CRM áp dụng phương pháp Agile thường có tỷ lệ chấp nhận của người dùng (User Adoption) cao hơn phương pháp Waterfall thuần túy?",
+          "en": "Why do CRM projects employing Agile methodologies routinely achieve superior user adoption compared to pure Waterfall?"
+        },
+        "model_answer": {
+          "vi": "Bởi vì trong Agile, người dùng cuối được xem các bản mẫu (prototypes) và phản hồi sau mỗi 2-3 tuần, giúp phát hiện và sửa các điểm bất hợp lý trên giao diện ngay lập tức. Trong Waterfall, người dùng phải chờ 6-12 tháng mới được thấy hệ thống, lúc đó nếu giao diện khó dùng thì chi phí sửa đổi đã quá đắt đỏ.",
+          "en": "Agile exposes end-users to functional prototypes every 2-3 weeks, enabling real-time ergonomic feedback and co-ownership. Under Waterfall, users only see the system after 6-12 months of development, by which time UI remedies are prohibitively expensive."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 5",
+      "pages": "105-141 (Book pp. 91-126)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch06",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "chapter_num": 6,
+    "title": {
+      "vi": "Chương 6: Thực thi Triển khai Dự án CRM Ban đầu",
+      "en": "Chapter 6: Executing the Initial CRM Implementation"
+    },
+    "pdf_page_start": 142,
+    "book_page": 127,
+    "learning_objectives": {
+      "vi": [
+        "Nắm vững các giai đoạn thực thi kỹ thuật: Thiết kế, Phát triển Tùy biến, Tích hợp Hệ thống.",
+        "Quản lý quy trình Chuyển đổi và Làm sạch Dữ liệu (Data Migration & Cleansing).",
+        "Tổ chức 4 cấp độ kiểm thử hệ thống: Unit Testing, System Testing, UAT, và Performance Testing.",
+        "Lập kế hoạch chuyển giao (Cutover), Đào tạo người dùng cuối và Vận hành Go-Live an toàn."
+      ],
+      "en": [
+        "Master core execution phases: Functional Design, Customization, and System Integration.",
+        "Govern Data Cleansing and Migration pipelines without corrupting production targets.",
+        "Architect 4 rigorous testing tiers: Unit Testing, System Testing, UAT, and Performance Testing.",
+        "Orchestrate cutover readiness, end-user training curricula, and Go-Live support war-rooms."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "User Acceptance Testing (UAT)",
+        "name": {
+          "vi": "Kiểm thử Chấp nhận của Người dùng (UAT)",
+          "en": "User Acceptance Testing (UAT)"
+        },
+        "definition": {
+          "vi": "Giai đoạn kiểm thử then chốt trong đó những người dùng thực tế từ các phòng ban nghiệp vụ trực tiếp thao tác các kịch bản công việc hàng ngày để xác nhận hệ thống hoạt động đúng kỳ vọng trước khi Go-Live.",
+          "en": "The definitive testing milestone where actual departmental business users execute real-world scenarios to validate that the CRM meets business requirements prior to Go-Live."
+        }
+      },
+      {
+        "term": "Data Migration Strategy",
+        "name": {
+          "vi": "Chiến lược Chuyển đổi Dữ liệu",
+          "en": "Data Migration Strategy"
+        },
+        "definition": {
+          "vi": "Quy trình trích xuất dữ liệu từ các hệ thống cũ, làm sạch, ánh xạ trường thông tin (field mapping) và nạp vào hệ thống CRM mới. Kostojohn khuyên chỉ nên di chuyển dữ liệu đang hoạt động (active data) thay vì chuyển toàn bộ dữ liệu rác lịch sử.",
+          "en": "The disciplined pipeline of extracting, cleansing, mapping, and loading legacy records into the new CRM. Authors advise strictly limiting migration to active records."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 6.1 Bẫy Phát triển Tùy biến (Custom Development)\nKostojohn et al. khuyến cáo nguyên tắc vàng: 'Cấu hình trước, Lập trình sau' (Configuration over Customization). Việc viết mã lập trình tùy biến quá nhiều (custom code) làm tăng rủi ro lỗi phần mềm và gây khó khăn cho việc nâng cấp phiên bản sau này. Chỉ viết code khi tính năng đó mang lại lợi thế cạnh tranh cốt lõi mà cấu hình có sẵn không thể đáp ứng.\n\n### 6.2 Chuyển đổi Dữ liệu (Data Migration) - Nhiệm vụ Khó khăn Nhất\nChuyển đổi dữ liệu luôn tốn nhiều thời gian và chi phí hơn dự kiến. Quy tắc quan trọng:\n- Không mang rác từ nhà cũ sang nhà mới: Lọc bỏ các khách hàng đã ngừng hoạt động hơn 5 năm.\n- Ánh xạ trường dữ liệu (Field Mapping) chi tiết từng cột giữa cơ sở dữ liệu cũ và mới.\n- Thực hiện chạy thử nghiệm chuyển đổi (Dry Runs) ít nhất 2-3 lần trước ngày chuyển giao chính thức.\n\n### 6.3 Bốn Cấp độ Kiểm thử Bắt buộc\n1. *Unit Testing:* Lập trình viên kiểm tra từng tính năng đơn lẻ.\n2. *System Integration Testing (SIT):* Kiểm tra dòng luân chuyển dữ liệu giữa CRM và ERP/Billing.\n3. *User Acceptance Testing (UAT):* Người dùng nghiệp vụ kiểm tra theo kịch bản thực tế. Đây là mốc quyết định xem hệ thống đã sẵn sàng Go-Live hay chưa.\n4. *Performance/Load Testing:* Kiểm tra khả năng chịu tải khi hàng nghìn nhân viên đăng nhập cùng lúc vào giờ cao điểm.\n\n### 6.4 Kế hoạch Chuyển giao (Cutover) & Đào tạo\nLên kế hoạch chi tiết từng giờ cho cuối tuần chuyển giao (Cutover Weekend), thiết lập phòng điều hành trực chiến (War Room) và cử các Đại sứ CRM hỗ trợ nhân viên ngay tại bàn làm việc trong 2 tuần đầu Go-Live.",
+      "en": "### 6.1 The Custom Development Dilemma\nKostojohn et al. mandate the golden maxim: 'Configure before Customize.' Heavy custom code introduces technical debt, escalates defect rates, and imperils future platform upgrades. Custom code must be quarantined exclusively for unique competitive differentiators.\n\n### 6.2 Data Migration: The Unforgiving Challenge\nData migration is notoriously underestimated in cost and schedule. Best practices:\n- Never migrate legacy debris into the new platform: prune records inactive for over 3-5 years.\n- Detailed field-level mapping dictionaries matching source columns to destination schema.\n- Execute at least 2 to 3 mock migration dry-runs to validate data integrity and benchmark run-times.\n\n### 6.3 The Four Essential Testing Tiers\n1. *Unit Testing:* Developers validate isolated modules and workflows.\n2. *System Integration Testing (SIT):* Asserts data flow integrity between CRM and back-office ERP/finance.\n3. *User Acceptance Testing (UAT):* Business users execute scripted end-to-end work tasks. Serves as the ultimate go/no-go quality gate.\n4. *Performance & Load Testing:* Asserts sub-second latency under concurrent peak-user loads.\n\n### 6.4 Cutover Orchestration and Go-Live Support\nMinute-by-minute scheduling across Cutover Weekend, an active Go-Live War Room, and elbow-to-elbow floor support provided by Departmental Champions throughout the initial 14-day operational stabilization."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Ưu tiên Cấu hình hơn Tùy biến (Configuration over Customization) để bảo vệ tính ổn định của hệ thống.",
+        "UAT là chốt chặn chất lượng quan trọng nhất; không bao giờ Go-Live nếu chưa đạt nghiệm thu UAT."
+      ],
+      "en": [
+        "Prioritize Configuration over Customization to preserve upgradeability and system resilience.",
+        "UAT is the definitive go/no-go quality gate; never launch into production without formal business user sign-off."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f06-01",
+        "question": {
+          "vi": "Tại sao Kostojohn et al. khuyên doanh nghiệp nên hạn chế di chuyển toàn bộ dữ liệu lịch sử cũ sang hệ thống CRM mới? Các bước thực hiện Data Migration an toàn là gì?",
+          "en": "Why do Kostojohn et al. recommend restricting historical data migration to the new CRM? What are the key steps for safe data migration?"
+        },
+        "model_answer": {
+          "vi": "Di chuyển toàn bộ dữ liệu cũ sẽ làm ô nhiễm hệ thống mới bằng dữ liệu rác, tốn kém chi phí lưu trữ và làm chậm hệ thống. Các bước an toàn: (1) Lọc bỏ dữ liệu chết, (2) Làm sạch dữ liệu nguồn, (3) Lập bảng ánh xạ trường thông tin, (4) Chạy thử nghiệm di chuyển (dry runs) nhiều lần, và (5) Đối chiếu kiểm toán số lượng bản ghi sau khi nạp chính thức.",
+          "en": "Migrating exhaustive history pollutes the clean CRM with obsolete duplicates, inflates storage, and slows performance. Safe steps: (1) Scope to active accounts, (2) Clean source records, (3) Detailed field mapping, (4) Multiple mock dry-runs, and (5) Systematic pre- and post-load record reconciliation audits."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 6",
+      "pages": "142-207 (Book pp. 127-192)",
+      "evidence_type": "source-derived"
+    }
+  },
+  {
+    "id": "mod-fund-ch07",
+    "book_id": "TB-KOSTOJOHN-2011",
+    "book_title": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+    "part_num": "Part II",
+    "part_title": {
+      "vi": "Phần II: Vận hành & Phát triển CRM",
+      "en": "Part II: CRM Operations and Evolution"
+    },
+    "chapter_num": 7,
+    "title": {
+      "vi": "Chương 7: Duy trì và Phát triển Hệ thống CRM (Maintaining and Evolving CRM)",
+      "en": "Chapter 7: Maintaining and Evolving CRM"
+    },
+    "pdf_page_start": 208,
+    "book_page": 193,
+    "learning_objectives": {
+      "vi": [
+        "Duy trì vai trò và nhịp họp định kỳ của Ban Chỉ đạo Dự án (Steering Committee) sau Go-Live.",
+        "Phân biệt rõ ràng giữa hoạt động Bảo trì thường nhật (Maintenance) và Hoạt động Nâng cấp (Enhancement).",
+        "Đo lường mức độ chấp nhận thực tế của người dùng (User Adoption Metrics).",
+        "Theo dõi hệ sinh thái nhà cung cấp (Vendor Ecosystem) và quản lý các đợt phát hành phiên bản tiếp theo."
+      ],
+      "en": [
+        "Sustain Steering Committee governance cadence and oversight post-launch.",
+        "Disentangle day-to-day Maintenance operations from strategic Release Enhancements.",
+        "Measure authentic User Adoption metrics to preempt system abandonment.",
+        "Monitor partner vendor ecosystems and govern multi-year roadmap evolutions."
+      ]
+    },
+    "key_concepts": [
+      {
+        "term": "User Adoption Metrics",
+        "name": {
+          "vi": "Chỉ số Chấp nhận của Người dùng (Adoption Metrics)",
+          "en": "User Adoption Metrics"
+        },
+        "definition": {
+          "vi": "Các thước đo khách quan phản ánh mức độ sử dụng CRM thực tế của nhân viên: tần suất đăng nhập hàng ngày, số bản ghi mới được tạo, tỷ lệ điền đầy đủ thông tin trường, và khối lượng giao dịch được xử lý qua hệ thống.",
+          "en": "Objective telemetry measuring actual software usage: daily active users (DAU), records created, profile completeness, and pipeline updates."
+        }
+      },
+      {
+        "term": "Maintenance vs. Enhancement",
+        "name": {
+          "vi": "Bảo trì vs. Nâng cấp Hệ thống",
+          "en": "Maintenance vs. Enhancement"
+        },
+        "definition": {
+          "vi": "Bảo trì là các hoạt động duy trì hệ thống chạy ổn định (sửa lỗi, sao lưu, hỗ trợ người dùng, cấp quyền); Nâng cấp là việc phát triển các tính năng nghiệp vụ mới giúp mở rộng năng lực kinh doanh.",
+          "en": "Maintenance ensures operational stability (bug fixes, backups, helpdesk, provisioning); Enhancement delivers new business functionality expanding enterprise capabilities."
+        }
+      }
+    ],
+    "detailed_notes": {
+      "vi": "### 7.1 Go-Live Chỉ là Điểm Khởi đầu\nNhiều tổ chức mắc sai lầm nghiêm trọng khi giải tán Ban chỉ đạo và cắt giảm nhân sự ngay sau ngày Go-Live. Kostojohn et al. nhấn mạnh: 'Go-Live không phải là vạch đích của dự án, mà là phát súng mở màn cho hành trình CRM thực sự'.\n\n### 7.2 Đo lường Sự Chấp nhận của Người dùng (User Adoption)\nNhân viên bán hàng thường tìm cách 'lách luật' (ví dụ: chỉ đăng nhập một lần vào cuối tuần để nhập đối phó vài thông tin cơ bản). Đội ngũ quản trị phải theo dõi các chỉ số đo lường thực tế:\n- Tần suất đăng nhập và thời gian hoạt động trên hệ thống.\n- Tỷ lệ các trường thông tin quan trọng bị bỏ trống.\n- Sự gia tăng đột ngột của các 'bản ghi rác'.\nLãnh đạo cần đưa việc sử dụng CRM vào tiêu chí đánh giá hiệu quả công việc chính thức (KPI).\n\n### 7.3 Quản lý Nâng cấp và Hệ sinh thái Nhà cung cấp\nMột hệ thống CRM phát triển lành mạnh phải có chu kỳ phát hành nâng cấp định kỳ (mỗi 3-6 tháng một bản phát hành mới). Đồng thời, doanh nghiệp phải liên tục theo dõi hệ sinh thái của nhà cung cấp phần mềm (AppExchange, Marketplace) để bổ sung các tiện ích mở rộng (như tổng đài ảo CTI, ký hợp đồng điện tử) thay vì tự lập trình tốn kém.",
+      "en": "### 7.1 Go-Live is the Starting Line, Not the Finish\nOrganizations frequently commit the fatal error of disbanding governance teams immediately after Go-Live. Kostojohn et al. stress: Go-Live is not the conclusion of the effort, but the birth of the active operational CRM journey.\n\n### 7.2 Auditing Real User Adoption\nSales reps notoriously attempt workarounds (e.g., logging in once weekly to dump minimal records). Administrators must monitor systemic adoption telemetry:\n- Daily Active Users (DAU) and session duration.\n- Mandatory field completeness ratios.\n- Transaction volume processed through the CRM rather than rogue spreadsheets.\nSystem utilization must be codified into formal employee performance appraisals.\n\n### 7.3 Managing Releases and the Vendor Ecosystem\nA mature CRM program establishes predictable release cycles (e.g. quarterly feature drops). Enterprises must monitor the vendor marketplace (e.g. Salesforce AppExchange, Microsoft AppSource) to license vetted plug-ins (e.g., CTI telephony, e-signatures) rather than engineering costly bespoke code."
+    },
+    "key_takeaways": {
+      "vi": [
+        "Go-Live là điểm khởi đầu; thành công bền vững phụ thuộc vào việc đo lường sự chấp nhận của người dùng và duy trì Ban chỉ đạo.",
+        "Tận dụng hệ sinh thái ứng dụng có sẵn của nhà cung cấp giúp tiết kiệm chi phí phát triển tính năng mới."
+      ],
+      "en": [
+        "Go-Live is the inception; enduring value requires relentless adoption tracking and sustained Steering Committee governance.",
+        "Leverage the vendor app marketplace ecosystem to source pre-built extensions rather than reinventing the wheel."
+      ]
+    },
+    "review_questions": [
+      {
+        "q_id": "rev-f07-01",
+        "question": {
+          "vi": "Tại sao việc duy trì Ban Chỉ đạo (Steering Committee) sau ngày Go-Live lại có tính chất quyết định đến sự tiến hóa của hệ thống CRM?",
+          "en": "Why is sustaining the Steering Committee post-Go-Live decisive for the ongoing evolution of the CRM system?"
+        },
+        "model_answer": {
+          "vi": "Sau Go-Live, người dùng sẽ gửi về hàng trăm yêu cầu thay đổi và tính năng mới. Nếu không có Ban Chỉ đạo, đội ngũ kỹ thuật sẽ bị quá tải, ngân sách bị phân tán vào các việc vụn vặt và hệ thống sẽ dần bị thoái hóa. Ban Chỉ đạo giữ vai trò 'người gác cổng' định hướng chiến lược, phân loại ưu tiên cho các đợt phát hành tiếp theo.",
+          "en": "Post-launch brings an avalanche of user enhancement requests. Without the Steering Committee acting as strategic gatekeeper, developers become overwhelmed, budgets fragment into trivial tweaks, and the platform decays. The committee evaluates business cases and prioritizes the multi-year release roadmap."
+        }
+      }
+    ],
+    "source": {
+      "document": "CRM Fundamentals (Kostojohn, Johnson & Paulen 2011)",
+      "chapter": "Chapter 7",
+      "pages": "208-235 (Book pp. 193-220)",
+      "evidence_type": "source-derived"
+    }
+  }
+]

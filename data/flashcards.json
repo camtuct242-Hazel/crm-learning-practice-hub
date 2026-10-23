@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "fc-001",
+    "topic": "CRM Foundations",
+    "chapter_id": "mod-baran-ch01",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Bốn khía cạnh (4 dimensions) cấu thành nên một chiến lược CRM toàn diện là gì?",
+      "en": "What are the four core dimensions comprising a comprehensive CRM strategy?"
+    },
+    "back": {
+      "vi": "1. CRM Chiến lược (Strategic CRM)\n2. CRM Tác nghiệp (Operational CRM)\n3. CRM Phân tích (Analytical CRM)\n4. CRM Hợp tác (Collaborative CRM)",
+      "en": "1. Strategic CRM\n2. Operational CRM\n3. Analytical CRM\n4. Collaborative CRM"
+    },
+    "hint": {
+      "vi": "Bao gồm tầm nhìn lãnh đạo, tự động hóa tại điểm chạm, khai phá dữ liệu và chia sẻ thông tin liên phòng ban.",
+      "en": "Spans leadership vision, front-office automation, data mining, and cross-departmental alignment."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "foundations",
+      "baran-ch1"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 8-15"
+    }
+  },
+  {
+    "id": "fc-002",
+    "topic": "Metrics",
+    "chapter_id": "mod-baran-ch01",
+    "card_type": "definition_to_term",
+    "front": {
+      "vi": "Thước đo giá trị hiện tại ròng của tổng dòng lợi nhuận tương lai mà một khách hàng đóng góp cho doanh nghiệp trong suốt toàn bộ mối quan hệ được gọi là gì?",
+      "en": "What is the metric representing the net present value of the future stream of profits attributed to the entire relationship with a customer?"
+    },
+    "back": {
+      "vi": "Giá trị Vòng đời Khách hàng (Customer Lifetime Value - CLV)",
+      "en": "Customer Lifetime Value (CLV)"
+    },
+    "hint": {
+      "vi": "Viết tắt là CLV hoặc LTV.",
+      "en": "Commonly abbreviated as CLV or LTV."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "metrics",
+      "clv"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 24-28"
+    }
+  },
+  {
+    "id": "fc-003",
+    "topic": "Relationship Marketing",
+    "chapter_id": "mod-baran-ch03",
+    "card_type": "compare_and_contrast",
+    "front": {
+      "vi": "So sánh 3 cấp độ gắn kết mối quan hệ: Tài chính, Xã hội và Cấu trúc. Cấp độ nào tạo ra rào cản chuyển đổi (Switching Costs) bền vững nhất?",
+      "en": "Compare the 3 levels of relationship bonding: Financial, Social, and Structural. Which creates the most durable switching barrier?"
+    },
+    "back": {
+      "vi": "- Cấp 1 (Tài chính): Điểm thưởng, giảm giá (dễ bị đối thủ sao chép nhất).\n- Cấp 2 (Xã hội): Giao tiếp cá nhân hóa, thấu hiểu cảm xúc.\n- Cấp 3 (Cấu trúc): Tích hợp hệ thống công nghệ, quy trình vận hành chung (bền vững nhất và khó chuyển đổi nhất).",
+      "en": "- Level 1 (Financial): Price discounts, reward points (easiest for rivals to duplicate).\n- Level 2 (Social): Personalization, emotional rapport.\n- Level 3 (Structural): Joint technology integration, embedded processes (most durable switching barrier)."
+    },
+    "hint": {
+      "vi": "Cấp độ 3 liên quan đến việc tích hợp kỹ thuật hoặc API/quy trình giữa hai bên.",
+      "en": "Level 3 involves deep systems or process embedding between the firm and client."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "relationship-marketing",
+      "bonds"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 88-95"
+    }
+  },
+  {
+    "id": "fc-004",
+    "topic": "Implementation & Governance",
+    "chapter_id": "mod-fund-ch02",
+    "card_type": "framework",
+    "front": {
+      "vi": "Theo Kostojohn et al. (2011), Bốn Trụ Cột Thành Công của một chương trình CRM là gì?",
+      "en": "According to Kostojohn et al. (2011), what are the Four Pillars of CRM Success?"
+    },
+    "back": {
+      "vi": "1. Con người (People): Đúng người đúng việc, phân rõ trách nhiệm.\n2. Quy trình (Process): Quy trình nội bộ và hướng ngoại được thiết kế chuẩn mực.\n3. Công nghệ (Technology): Nền tảng công cụ hỗ trợ phù hợp.\n4. Kỳ vọng (Expectations): Đặt ra kỳ vọng thực tế về kết quả, chi phí và nỗ lực cần bỏ ra.",
+      "en": "1. People: Right people in right roles with clear responsibilities.\n2. Process: Well-thought-out, well-designed internal and customer-facing workflows.\n3. Technology: The right supporting technology tools.\n4. Expectations: Setting reasonable expectations for success, effort, and cost."
+    },
+    "hint": {
+      "vi": "Tác giả nêu rõ 4 trụ cột chứ không đơn thuần chỉ có 3 yếu tố như quan niệm phổ biến.",
+      "en": "The authors define 4 pillars, explicitly adding Expectations to the classic triad."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "governance",
+      "four-pillars",
+      "kostojohn-ch2"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) p. 11"
+    }
+  },
+  {
+    "id": "fc-005",
+    "topic": "Governance",
+    "chapter_id": "mod-fund-ch02",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Vai trò chính của Ban Chỉ đạo Dự án (Steering Committee) trong triển khai CRM là gì?",
+      "en": "What is the primary role of the CRM Steering Committee during implementation?"
+    },
+    "back": {
+      "vi": "Định hướng chiến lược liên phòng ban, phê duyệt ngân sách, giải quyết xung đột chính trị nội bộ và kiểm soát ngăn chặn hiện tượng phình to phạm vi dự án (Scope Creep).",
+      "en": "Provide cross-functional governance, approve budget, arbitrate internal conflicts, and prevent fatal project scope creep."
+    },
+    "hint": {
+      "vi": "Là hội đồng lãnh đạo cấp cao họp định kỳ để ra các quyết định then chốt.",
+      "en": "A high-level executive body that meets periodically to resolve major scope decisions."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "governance",
+      "kostojohn-ch2"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 25-27"
+    }
+  },
+  {
+    "id": "fc-006",
+    "topic": "Data Management",
+    "chapter_id": "mod-baran-ch05",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Khái niệm Hộ gia đình hóa (Householding) trong quản trị dữ liệu CRM là gì và mang lại lợi ích gì?",
+      "en": "What is Householding in CRM data management and what business benefit does it deliver?"
+    },
+    "back": {
+      "vi": "Householding là kỹ thuật gom nhóm các cá nhân cùng chung sống tại một địa chỉ thực tế hoặc cùng một hộ gia đình. Lợi ích: Ngăn chặn gửi các bức thư tiếp thị hoặc danh mục sản phẩm trùng lặp, tiết kiệm hàng triệu USD chi phí in ấn/bưu chính và tránh gây khó chịu cho khách hàng.",
+      "en": "Householding links individual customer records residing at the same physical address into a unified household unit. Benefit: Prevents sending redundant marketing mailings, saving millions in print/postage while eliminating consumer annoyance."
+    },
+    "hint": {
+      "vi": "Liên quan đến việc nhận diện các thành viên trong cùng một gia đình sống chung địa chỉ.",
+      "en": "Involves clustering multiple family members sharing the same residence."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "data-management",
+      "householding"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) Ch. 5, pp. 155-160"
+    }
+  },
+  {
+    "id": "fc-007",
+    "topic": "Technology Platforms",
+    "chapter_id": "mod-baran-ch06",
+    "card_type": "compare_and_contrast",
+    "front": {
+      "vi": "Phân biệt sự khác nhau giữa Cơ sở dữ liệu Tác nghiệp (ODS/OLTP) và Kho Dữ liệu (Data Warehouse / OLAP).",
+      "en": "Distinguish between an Operational Data Store (ODS/OLTP) and a Data Warehouse (EDW/OLAP)."
+    },
+    "back": {
+      "vi": "- ODS/OLTP: Lưu trữ dữ liệu tức thời thời gian thực phục vụ nhân viên xử lý giao dịch hàng ngày (tối ưu tốc độ đọc/ghi đơn lẻ).\n- Data Warehouse/OLAP: Lưu trữ dữ liệu lịch sử tổng hợp nhiều năm phục vụ báo cáo quản trị và khai phá dữ liệu (tối ưu hóa truy vấn phân tích phức tạp đa chiều).",
+      "en": "- ODS/OLTP: Real-time transactional store powering front-line daily interactions (optimized for rapid single-row read/writes).\n- Data Warehouse/OLAP: Historical multi-year analytical repository structured for complex business intelligence and slice-and-dice data mining."
+    },
+    "hint": {
+      "vi": "Một bên phục vụ giao dịch hàng ngày; một bên phục vụ báo cáo phân tích chiến lược.",
+      "en": "One powers real-time transactions; the other powers strategic analytical reporting."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "technology",
+      "data-warehouse"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) Ch. 6, pp. 185-192"
+    }
+  },
+  {
+    "id": "fc-008",
+    "topic": "Roadmap Strategy",
+    "chapter_id": "mod-fund-ch03",
+    "card_type": "framework",
+    "front": {
+      "vi": "Tại sao Kostojohn et al. khuyến nghị triển khai CRM theo phương pháp Tiếp cận theo Giai đoạn (Phased Approach) thay vì 'Big Bang'?",
+      "en": "Why do Kostojohn et al. advocate a Phased Implementation Approach over a 'Big Bang' rollout?"
+    },
+    "back": {
+      "vi": "Big Bang kéo dài 1-2 năm không có kết quả trung gian, gây rủi ro thất bại khổng lồ. Phased Approach chia dự án thành các giai đoạn ngắn 3-6 tháng, giúp thu hồi vốn nhanh (Faster ROI), tiếp nhận phản hồi thực tế từ người dùng để cải tiến hệ thống và giảm thiểu gián đoạn kinh doanh.",
+      "en": "Big Bang deployments risk catastrophic failure by requiring 12-18 months of silent development without business value. A Phased Approach delivers rapid ROI every 3-6 months, incorporates iterative end-user feedback, and mitigates enterprise disruption."
+    },
+    "hint": {
+      "vi": "Liên quan đến tốc độ tạo ra giá trị kinh doanh và sự kiên nhẫn của ban lãnh đạo.",
+      "en": "Tied to rapid ROI realization and mitigating enterprise-wide operational risk."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "roadmap",
+      "phased-approach"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) Ch. 3, pp. 49-55"
+    }
+  },
+  {
+    "id": "fc-009",
+    "topic": "B2B CRM",
+    "chapter_id": "mod-baran-ch08",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Trung tâm Mua hàng (Buying Center / DMU) trong B2B gồm những vai trò nào?",
+      "en": "What roles constitute the organizational Buying Center (DMU) in B2B CRM?"
+    },
+    "back": {
+      "vi": "Gồm 7 vai trò:\n1. Người khởi xướng (Initiator)\n2. Người sử dụng (User)\n3. Người ảnh hưởng (Influencer)\n4. Người quyết định (Decider)\n5. Người phê duyệt (Approver)\n6. Người mua / Thu mua (Buyer)\n7. Người gác cổng (Gatekeeper)",
+      "en": "Comprises 7 roles:\n1. Initiator\n2. User\n3. Influencer\n4. Decider\n5. Approver\n6. Buyer (Procurement)\n7. Gatekeeper"
+    },
+    "hint": {
+      "vi": "Bao gồm từ người trực tiếp dùng máy đến giám đốc ký duyệt ngân sách và thư ký gác cổng.",
+      "en": "Spans actual operational users up to economic deciders and administrative gatekeepers."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "b2b",
+      "buying-center"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) Ch. 8, pp. 242-248"
+    }
+  },
+  {
+    "id": "fc-010",
+    "topic": "Metrics & Evaluation",
+    "chapter_id": "mod-baran-ch12",
+    "card_type": "framework",
+    "front": {
+      "vi": "Tỷ lệ chuẩn mực giữa Giá trị Vòng đời Khách hàng (CLV) và Chi phí Thu hút Khách hàng (CAC) là bao nhiêu?",
+      "en": "What is the industry benchmark ratio between Customer Lifetime Value (CLV) and Customer Acquisition Cost (CAC)?"
+    },
+    "back": {
+      "vi": "Tỷ lệ vàng chuẩn mực là tối thiểu **3:1** (CLV phải gấp ít nhất 3 lần CAC). Nếu là 1:1, doanh nghiệp đang bị lỗ ròng; nếu vượt quá 5:1, doanh nghiệp đang chi quá ít cho việc thu hút khách hàng mới.",
+      "en": "The benchmark ratio is at least **3:1** (CLV must be at least 3x CAC). A 1:1 ratio represents margin destruction; a ratio exceeding 5:1 suggests under-investment in growth acquisition."
+    },
+    "hint": {
+      "vi": "Lợi nhuận trọn đời phải lớn gấp mấy lần chi phí bỏ ra để mua khách hàng.",
+      "en": "Lifetime gross profit must comfortably exceed acquisition expenditure."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "metrics",
+      "clv-cac"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) Ch. 12, pp. 360-365"
+    }
+  },
+  {
+    "id": "fc-011",
+    "topic": "Social CRM",
+    "chapter_id": "mod-baran-ch13",
+    "card_type": "scenario",
+    "front": {
+      "vi": "Vụ việc 'United Breaks Guitars' (2009) minh họa cho nguyên lý căn bản nào trong kỷ nguyên Social CRM?",
+      "en": "What core principle of the Social CRM era does the 'United Breaks Guitars' incident illustrate?"
+    },
+    "back": {
+      "vi": "Minh họa cho sự đảo chiều quyền lực từ doanh nghiệp sang khách hàng. Trong kỷ nguyên mạng xã hội, một lời phàn nàn công khai của một cá nhân có thể lan truyền theo cấp số nhân và hủy hoại uy tín thương hiệu trị giá hàng triệu USD nếu doanh nghiệp thiếu quy trình phản hồi nhanh nhạy.",
+      "en": "Illustrates the inversion of communication power from corporate monopolies to networked consumers. In the Social CRM era, a single aggrieved customer's viral post can inflict millions of dollars in market capitalization damage if service support remains unresponsive."
+    },
+    "hint": {
+      "vi": "Một bài hát trên YouTube có thể làm bốc hơi hàng chục triệu USD giá trị cổ phiếu.",
+      "en": "A single viral YouTube video can destroy corporate shareholder value."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "social-crm",
+      "united-breaks-guitars"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) Ch. 13, p. 431"
+    }
+  },
+  {
+    "id": "fc-012",
+    "topic": "Execution & Testing",
+    "chapter_id": "mod-fund-ch06",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Kiểm thử Chấp nhận của Người dùng (UAT) khác với Kiểm thử Hệ thống (System Testing) ở điểm nào?",
+      "en": "How does User Acceptance Testing (UAT) differ from System Integration Testing (SIT)?"
+    },
+    "back": {
+      "vi": "- System Testing do đội ngũ kỹ thuật thực hiện để kiểm tra xem phần mềm có bị lỗi code hay lỗi tích hợp dữ liệu hay không.\n- UAT do chính những người dùng nghiệp vụ thực tế thực hiện theo các kịch bản công việc hàng ngày để xác nhận phần mềm có giải quyết được bài toán kinh doanh trước khi Go-Live.",
+      "en": "- System Testing is executed by technical engineers to verify code stability, API contracts, and integration integrity.\n- UAT is conducted directly by business operational end-users executing daily work tasks to formally sign off that the solution meets business requirements."
+    },
+    "hint": {
+      "vi": "Một bên do IT kiểm tra lỗi kỹ thuật; một bên do nhân viên nghiệp vụ kiểm tra tính thực tiễn công việc.",
+      "en": "One is executed by technical developers; the other by actual business end-users."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "testing",
+      "uat",
+      "kostojohn-ch6"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) Ch. 6, pp. 183-195"
+    }
+  },
+  {
+    "id": "fc-013",
+    "topic": "Strategy",
+    "chapter_id": "mod-baran-ch02",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Tại sao chiến lược CRM phải xuất phát từ Chiến lược Kinh doanh Tổng thể thay vì do bộ phận IT khởi xướng đơn độc?",
+      "en": "Why must a CRM strategy originate from Corporate Business Strategy rather than being initiated solely by IT?"
+    },
+    "back": {
+      "vi": "Vì CRM là chiến lược định hình lại trải nghiệm khách hàng và tạo lợi thế cạnh tranh; công nghệ chỉ là công cụ hỗ trợ để đạt được các mục tiêu kinh doanh (doanh thu, giữ chân, thị phần).",
+      "en": "Because CRM reshapes customer experience to drive competitive advantage; technology is merely an enabler to serve business objectives (revenue, retention, share)."
+    },
+    "hint": {
+      "vi": "Công nghệ phục vụ kinh doanh, không phải ngược lại.",
+      "en": "Technology serves business goals, not the other way around."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "strategy",
+      "alignment",
+      "baran-ch2"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 35-42"
+    }
+  },
+  {
+    "id": "fc-014",
+    "topic": "Customer Portfolio",
+    "chapter_id": "mod-baran-ch03",
+    "card_type": "definition_to_term",
+    "front": {
+      "vi": "Phương pháp phân tích và phân loại cơ sở khách hàng thành các nhóm giá trị khác nhau để phân bổ nguồn lực phục vụ một cách tối ưu được gọi là gì?",
+      "en": "What is the strategic methodology of analyzing and segmenting a customer base into value tiers to optimize resource allocation?"
+    },
+    "back": {
+      "vi": "Quản trị Danh mục Khách hàng (Customer Portfolio Management - CPM)",
+      "en": "Customer Portfolio Management (CPM)"
+    },
+    "hint": {
+      "vi": "Phân chia khách hàng thành các nhóm như Platinum, Gold, Iron, Lead.",
+      "en": "Segments customer base into tiers like Platinum, Gold, Iron, and Lead."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "cpm",
+      "segmentation",
+      "baran-ch3"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 68-75"
+    }
+  },
+  {
+    "id": "fc-015",
+    "topic": "Governance",
+    "chapter_id": "mod-fund-ch02",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Vai trò chiến lược quan trọng nhất của Ban Chỉ đạo Dự án CRM (Steering Committee) là gì?",
+      "en": "What is the most critical strategic function of the CRM Steering Committee?"
+    },
+    "back": {
+      "vi": "Cung cấp định hướng chiến lược, giải quyết xung đột lợi ích giữa các phòng ban, phê duyệt ngân sách và bảo đảm dự án bám sát mục tiêu kinh doanh dài hạn.",
+      "en": "Providing executive strategic vision, resolving cross-silo friction, approving budgets, and keeping the initiative tethered to business objectives."
+    },
+    "hint": {
+      "vi": "Quy tụ lãnh đạo cấp cao để phá vỡ các rào cản phòng ban.",
+      "en": "Unites senior leadership to dismantle departmental silos."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "governance",
+      "steering-committee",
+      "kostojohn-ch2"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 32-38"
+    }
+  },
+  {
+    "id": "fc-016",
+    "topic": "Change Management",
+    "chapter_id": "mod-fund-ch02",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Đại sứ phòng ban (Departmental Champions / Super Users) có vai trò gì trong sự thành công của CRM?",
+      "en": "What role do Departmental Champions (Super Users) play in CRM implementation success?"
+    },
+    "back": {
+      "vi": "Họ kết hợp hiểu biết nghiệp vụ sâu sắc với uy tín nội bộ, đóng vai trò cầu nối chuyển tải yêu cầu người dùng, huấn luyện đồng nghiệp tại chỗ và thúc đẩy tỷ lệ tiếp nhận (adoption).",
+      "en": "They combine deep domain workflow knowledge with peer respect, translating requirements, providing on-the-ground floor coaching, and driving user adoption."
+    },
+    "hint": {
+      "vi": "Những người dùng nòng cốt hỗ trợ đồng nghiệp vượt qua sức ỳ thay đổi.",
+      "en": "Respected operational peers who coach colleagues through change resistance."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "champions",
+      "super-users",
+      "adoption",
+      "kostojohn-ch2"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 39-43"
+    }
+  },
+  {
+    "id": "fc-017",
+    "topic": "Culture",
+    "chapter_id": "mod-baran-ch04",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Tác hại nghiêm trọng nhất của hiện tượng 'Ốc đảo phòng ban' (Functional Silos) đối với CRM là gì?",
+      "en": "What is the most severe operational harm inflicted by 'Functional Silos' on CRM initiatives?"
+    },
+    "back": {
+      "vi": "Dữ liệu bị phân mảnh giữa Bán hàng, Tiếp thị và Dịch vụ, ngăn cản việc xây dựng Chân dung khách hàng 360 độ (SCV), dẫn đến trải nghiệm khách hàng đứt gãy và mâu thuẫn.",
+      "en": "Data is fragmented across Sales, Marketing, and Service silos, preventing a Single Customer View (SCV) and generating jarring, contradictory customer touchpoints."
+    },
+    "hint": {
+      "vi": "Khách hàng phải lặp lại thông tin nhiều lần cho các phòng ban khác nhau.",
+      "en": "Forces customers to repeat their history across fragmented touchpoints."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "silos",
+      "scv",
+      "culture",
+      "baran-ch4"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 102-108"
+    }
+  },
+  {
+    "id": "fc-018",
+    "topic": "Data Architecture",
+    "chapter_id": "mod-baran-ch05",
+    "card_type": "definition_to_term",
+    "front": {
+      "vi": "Hồ sơ tổng hợp, nhất quán và phi trùng lặp tập hợp mọi tương tác, giao dịch và lịch sử của khách hàng từ mọi điểm chạm được gọi là gì?",
+      "en": "What is the consolidated master profile aggregating all customer transactions, touchpoints, and tickets into a single unified record called?"
+    },
+    "back": {
+      "vi": "Chân dung Khách hàng 360 độ (Single Customer View - SCV)",
+      "en": "Single Customer View (SCV / 360-degree view)"
+    },
+    "hint": {
+      "vi": "Góc nhìn toàn cảnh 360 độ về khách hàng.",
+      "en": "360-degree view of customer history."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "scv",
+      "data-architecture",
+      "baran-ch5"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 140-148"
+    }
+  },
+  {
+    "id": "fc-019",
+    "topic": "Data Hygiene",
+    "chapter_id": "mod-baran-ch05",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Tốc độ suy thoái tự nhiên hàng năm của cơ sở dữ liệu khách hàng (Data Decay) là bao nhiêu và do đâu?",
+      "en": "What is the average annual natural Customer Data Decay rate and what drives it?"
+    },
+    "back": {
+      "vi": "Khoảng 15% đến 20% mỗi năm do thay đổi địa chỉ chỗ ở, chuyển đổi công tác, đổi số điện thoại, kết hôn hoặc qua đời.",
+      "en": "Approximately 15% to 20% annually, driven by residential moves, career transitions, phone changes, marital status shifts, or death."
+    },
+    "hint": {
+      "vi": "Từ 15 đến 20% dữ liệu biến thành 'dữ liệu chết' nếu không làm sạch.",
+      "en": "15–20% of contact records degrade naturally every single year."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "data-decay",
+      "data-hygiene",
+      "baran-ch5"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 150-155"
+    }
+  },
+  {
+    "id": "fc-020",
+    "topic": "Analytics",
+    "chapter_id": "mod-baran-ch07",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Trong mô hình RFM, biến số nào có trọng số dự báo cao nhất về khả năng khách hàng sẽ tiếp tục mua hàng trong tương lai gần?",
+      "en": "In the RFM segmentation framework, which variable carries the highest predictive weight for immediate future purchase propensity?"
+    },
+    "back": {
+      "vi": "Tính gần đây của giao dịch (Recency - R): khách hàng vừa mua gần đây luôn có xác suất phản hồi cao hơn nhiều so với khách hàng đã lâu không tương tác.",
+      "en": "Recency (R): accounts that purchased most recently demonstrate dramatically higher response rates than dormant past spenders."
+    },
+    "hint": {
+      "vi": "Chữ R trong RFM.",
+      "en": "The 'R' in RFM."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "rfm",
+      "recency",
+      "predictive-analytics",
+      "baran-ch7"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 214-219"
+    }
+  },
+  {
+    "id": "fc-021",
+    "topic": "Technology",
+    "chapter_id": "mod-fund-ch04",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Sự khác biệt cốt lõi giữa 'Cấu hình' (Configuration) và 'Tùy biến' (Customization) trong công nghệ CRM là gì?",
+      "en": "What is the key technical difference between 'Configuration' and 'Customization' in CRM platforms?"
+    },
+    "back": {
+      "vi": "Cấu hình là điều chỉnh các thiết lập sẵn có bằng giao diện kéo thả không cần code; Tùy biến là viết thêm mã nguồn tùy biến mở rộng tính năng ngoài giới hạn mặc định.",
+      "en": "Configuration adjusts built-in declarative settings without code; Customization involves writing proprietary code to extend capabilities beyond native limits."
+    },
+    "hint": {
+      "vi": "Cấu hình = Declarative; Tùy biến = Custom Code.",
+      "en": "Configuration = declarative clicks; Customization = writing custom code."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "configuration",
+      "customization",
+      "technical-debt",
+      "kostojohn-ch4"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 104-107"
+    }
+  },
+  {
+    "id": "fc-022",
+    "topic": "Architecture",
+    "chapter_id": "mod-baran-ch06",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Đặc trưng then chốt của Kiến trúc Đa người thuê (Multi-Tenant Architecture) trong Cloud CRM là gì?",
+      "en": "What is the defining characteristic of Multi-Tenant Architecture in Cloud CRM?"
+    },
+    "back": {
+      "vi": "Nhiều tổ chức khách hàng cùng dùng chung một phiên bản ứng dụng và hạ tầng phần cứng, nhưng dữ liệu của từng khách hàng được phân tách logic an toàn tuyệt đối.",
+      "en": "Multiple client organizations share a common application instance and underlying hardware, while each company's data remains logically segregated and secured."
+    },
+    "hint": {
+      "vi": "Dùng chung hạ tầng nhưng phân tách dữ liệu bảo mật.",
+      "en": "Shared infrastructure with strict logical data isolation."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "multi-tenancy",
+      "cloud-crm",
+      "architecture",
+      "baran-ch6"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 180-184"
+    }
+  },
+  {
+    "id": "fc-023",
+    "topic": "Implementation Planning",
+    "chapter_id": "mod-fund-ch05",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Tại sao triển khai phân kỳ (Phased Rollout) luôn được ưu tiên hơn phương pháp triển khai toàn bộ cùng lúc (Big Bang)?",
+      "en": "Why is a Phased Rollout strategy preferred over a 'Big Bang' deployment in enterprise CRM?"
+    },
+    "back": {
+      "vi": "Giảm thiểu rủi ro vận hành, sớm mang lại giá trị thấy được (Quick Wins), tạo điều kiện tiếp thu phản hồi thực tế từ người dùng và điều chỉnh lộ trình kịp thời.",
+      "en": "Isolates operational risk, delivers early quick wins, incorporates user feedback continuously, and allows roadmap adjustments before full deployment."
+    },
+    "hint": {
+      "vi": "Chia nhỏ để kiểm soát rủi ro và đạt thắng lợi sớm.",
+      "en": "De-risks implementation and delivers iterative early wins."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "phased-rollout",
+      "big-bang",
+      "risk-management",
+      "kostojohn-ch5"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 128-134"
+    }
+  },
+  {
+    "id": "fc-024",
+    "topic": "Project Governance",
+    "chapter_id": "mod-fund-ch05",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Hiện tượng 'Phình phạm vi' (Scope Creep) trong dự án CRM là gì và làm thế nào để kiểm soát nó?",
+      "en": "What is 'Scope Creep' in CRM projects and how is it rigorously controlled?"
+    },
+    "back": {
+      "vi": "Sự gia tăng không kiểm soát của các yêu cầu tính năng mới ngoài kế hoạch ban đầu; kiểm soát bằng quy trình Quản lý Yêu cầu Thay đổi chính thức (Formal Change Control) do Ban Chỉ đạo phê duyệt.",
+      "en": "Uncontrolled expansion of project requirements beyond original budget and schedule; managed through a formal Change Control process governed by the Steering Committee."
+    },
+    "hint": {
+      "vi": "Các yêu cầu mới phải đưa vào Backlog đánh giá tác động thay vì làm ngay.",
+      "en": "New feature requests must be vetted in backlogs, not added ad-hoc."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "scope-creep",
+      "change-control",
+      "governance",
+      "kostojohn-ch5"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 136-141"
+    }
+  },
+  {
+    "id": "fc-025",
+    "topic": "Testing",
+    "chapter_id": "mod-fund-ch06",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Mục tiêu tối hậu của Kiểm thử Chấp nhận Người dùng (User Acceptance Testing - UAT) là gì?",
+      "en": "What is the primary objective of User Acceptance Testing (UAT) in CRM rollout?"
+    },
+    "back": {
+      "vi": "Để người dùng nghiệp vụ thực tế xác nhận hệ thống hỗ trợ chính xác và đầy đủ các quy trình công việc hàng ngày của họ trước khi ký biên bản nghiệm thu đưa vào vận hành.",
+      "en": "To allow business end-users to validate that configured workflows faithfully support daily operational duties before signing off on live production launch."
+    },
+    "hint": {
+      "vi": "Xác nhận của người dùng nghiệp vụ, không phải của lập trình viên.",
+      "en": "Business validation and operational sign-off by real end-users."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "uat",
+      "testing",
+      "sign-off",
+      "kostojohn-ch6"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 165-170"
+    }
+  },
+  {
+    "id": "fc-026",
+    "topic": "Launch Management",
+    "chapter_id": "mod-fund-ch06",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Cuộc họp Go/No-Go Decision Gate trước ngày Golive CRM dựa trên các tiêu chí cốt lõi nào?",
+      "en": "On what criteria is the executive Go/No-Go Decision Gate determined prior to CRM go-live?"
+    },
+    "back": {
+      "vi": "Không còn lỗi nghiêm trọng cấp độ 1 (Severity 1 / Blocker bugs), kết quả UAT được ký duyệt 100%, nạp dữ liệu delta sẵn sàng, và kế hoạch hỗ trợ Hypercare đã sẵn sàng.",
+      "en": "Zero open Severity-1 blocker bugs, signed UAT certificates, validated delta migration readiness, and active hypercare floor support staffing."
+    },
+    "hint": {
+      "vi": "0 lỗi Sev-1, UAT pass, Data ready, Hypercare ready.",
+      "en": "Zero blocker bugs and full operational sign-off."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "go-no-go",
+      "hypercare",
+      "cutover",
+      "kostojohn-ch6"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 172-176"
+    }
+  },
+  {
+    "id": "fc-027",
+    "topic": "Loyalty",
+    "chapter_id": "mod-baran-ch09",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Nghịch lý Khắc phục Dịch vụ (Service Recovery Paradox) là gì?",
+      "en": "What is the Service Recovery Paradox?"
+    },
+    "back": {
+      "vi": "Khách hàng gặp sự cố dịch vụ nhưng sau đó được doanh nghiệp xử lý thỏa đáng và đền bù vượt mong đợi có thể trở nên trung thành và hài lòng hơn cả khách hàng chưa từng gặp sự cố.",
+      "en": "A customer who experiences a service failure that is resolved exceptionally well can develop higher loyalty and satisfaction than if no failure had occurred at all."
+    },
+    "hint": {
+      "vi": "Sự cố được giải quyết xuất sắc tạo ra niềm tin sâu sắc hơn.",
+      "en": "Masterful recovery can forge deeper bonds than zero-defect history."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "service-recovery",
+      "paradox",
+      "complaints",
+      "baran-ch9"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 290-295"
+    }
+  },
+  {
+    "id": "fc-028",
+    "topic": "Metrics",
+    "chapter_id": "mod-baran-ch09",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Điểm số Nỗ lực của Khách hàng (Customer Effort Score - CES) đo lường điều gì và có tác động ra sao đến việc giữ chân?",
+      "en": "What does Customer Effort Score (CES) measure and how does it relate to retention?"
+    },
+    "back": {
+      "vi": "Đo mức độ dễ dàng mà khách hàng trải qua khi giải quyết sự cố; nghiên cứu chứng minh giảm thiểu nỗ lực của khách hàng giữ chân khách hiệu quả hơn cố gắng gây bất ngờ.",
+      "en": "Measures ease of issue resolution; research shows minimizing customer effort builds loyalty far more effectively than attempting to delight customers."
+    },
+    "hint": {
+      "vi": "Làm cho mọi thứ trở nên nhẹ nhàng, không tốn sức (Effortless).",
+      "en": "Effortless experience prevents customer defection."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "ces",
+      "effortless-experience",
+      "metrics",
+      "baran-ch9"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 285-288"
+    }
+  },
+  {
+    "id": "fc-029",
+    "topic": "Retention Economics",
+    "chapter_id": "mod-baran-ch10",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Theo nghiên cứu của Reichheld & Sasser, tăng tỷ lệ giữ chân khách hàng thêm 5% có thể giúp tăng lợi nhuận bao nhiêu?",
+      "en": "According to Reichheld & Sasser, a 5% increase in customer retention can boost profits by how much?"
+    },
+    "back": {
+      "vi": "Từ 25% đến 95%, nhờ chi phí phục vụ khách hàng cũ giảm, giao dịch định kỳ tăng và giới thiệu khách hàng mới miễn phí.",
+      "en": "Between 25% and 95%, driven by lower servicing costs, recurring purchases, price premiums, and zero-cost referrals."
+    },
+    "hint": {
+      "vi": "Đòn bẩy lợi nhuận từ 25% đến 95%.",
+      "en": "Leverage of 25% to 95% profit surge."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "retention-economics",
+      "reichheld",
+      "profit-leverage",
+      "baran-ch10"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 310-316"
+    }
+  },
+  {
+    "id": "fc-030",
+    "topic": "B2B CRM",
+    "chapter_id": "mod-baran-ch08",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Trung tâm Mua hàng (Buying Center / DMU) trong B2B bao gồm 6 vai trò tiêu biểu nào?",
+      "en": "What are the six typical stakeholder roles comprising an enterprise Buying Center (DMU)?"
+    },
+    "back": {
+      "vi": "1. Người khởi xướng (Initiator)\n2. Người sử dụng (User)\n3. Người ảnh hưởng (Influencer)\n4. Người gác cổng (Gatekeeper)\n5. Người quyết định (Decider)\n6. Người mua/đàm phán (Buyer)",
+      "en": "1. Initiator\n2. User\n3. Influencer\n4. Gatekeeper\n5. Decider\n6. Buyer"
+    },
+    "hint": {
+      "vi": "6 vai trò từ người đề xuất, thẩm định kỹ thuật, duyệt giá đến ký hợp đồng.",
+      "en": "6 roles spanning user need, technical review, budget approval, and contract signing."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "buying-center",
+      "dmu",
+      "b2b-crm",
+      "baran-ch8"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 238-245"
+    }
+  },
+  {
+    "id": "fc-031",
+    "topic": "B2B Metrics",
+    "chapter_id": "mod-baran-ch08",
+    "card_type": "definition_to_term",
+    "front": {
+      "vi": "Chỉ số đo lường tỷ lệ phần trăm doanh thu định kỳ được duy trì và tăng trưởng từ nhóm khách hàng hiện tại (bao gồm mở rộng trừ đi thu hẹp và rời bỏ) được gọi là gì?",
+      "en": "What metric measures the percentage of recurring revenue retained from existing accounts, factoring expansions minus churn?"
+    },
+    "back": {
+      "vi": "Tỷ lệ Duy trì Doanh thu Ròng (Net Revenue Retention - NRR / Net Dollar Retention)",
+      "en": "Net Revenue Retention (NRR / Net Dollar Retention)"
+    },
+    "hint": {
+      "vi": "Thước đo vàng của mô hình SaaS; NRR > 100% chứng minh doanh nghiệp tự tăng trưởng.",
+      "en": "Gold standard SaaS metric; NRR > 100% indicates organic expansion."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "nrr",
+      "b2b-metrics",
+      "saas",
+      "baran-ch8"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 252-256"
+    }
+  },
+  {
+    "id": "fc-032",
+    "topic": "Omnichannel",
+    "chapter_id": "mod-baran-ch13",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Sự khác biệt bản chất giữa Multichannel và Omnichannel là gì?",
+      "en": "What is the core distinction between Multichannel and Omnichannel?"
+    },
+    "back": {
+      "vi": "Multichannel vận hành các kênh riêng rẽ độc lập; Omnichannel tích hợp liền mạch toàn bộ các kênh thành một trải nghiệm duy nhất với dữ liệu và ngữ cảnh đồng bộ thời gian thực.",
+      "en": "Multichannel operates isolated touchpoint silos; Omnichannel orchestrates all touchpoints into a unified customer journey with synchronized real-time data."
+    },
+    "hint": {
+      "vi": "Multichannel = Nhiều kênh tách rời; Omnichannel = Hợp nhất liền mạch.",
+      "en": "Multichannel = separate channels; Omnichannel = unified continuous journey."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "omnichannel",
+      "multichannel",
+      "seamless",
+      "baran-ch13"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 402-408"
+    }
+  },
+  {
+    "id": "fc-033",
+    "topic": "Case Application",
+    "chapter_id": "mod-baran-ch13",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Trong tình huống Disney MyMagic+, chiếc vòng MagicBand minh họa nguyên lý Omnichannel IoT nào?",
+      "en": "In the Disney MyMagic+ case, how does the MagicBand illustrate Omnichannel IoT principles?"
+    },
+    "back": {
+      "vi": "Hợp nhất mọi điểm chạm (chìa khóa phòng, vé vào cổng, thanh toán không chạm, FastPass) vào một thiết bị IoT duy nhất, loại bỏ hoàn toàn ma sát xếp hàng và cá nhân hóa trải nghiệm theo thời gian thực.",
+      "en": "Consolidates all touchpoints (room key, park ticket, payment, FastPass) into a single IoT device, eliminating queue friction and personalizing park magic in real time."
+    },
+    "hint": {
+      "vi": "Trải nghiệm không ma sát (Frictionless Experience) qua IoT.",
+      "en": "Frictionless experience orchestrating physical resort spaces."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "disney-case",
+      "magicband",
+      "iot",
+      "omnichannel"
+    ],
+    "source": {
+      "document": "Experiential Marketing (Batat) pp. 102-108"
+    }
+  },
+  {
+    "id": "fc-034",
+    "topic": "Metrics",
+    "chapter_id": "mod-baran-ch11",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Tại sao chỉ số dẫn dắt (Leading Indicators) lại quan trọng hơn chỉ số kết quả (Lagging Indicators) trong điều hành CRM hàng ngày?",
+      "en": "Why are Leading Indicators more vital than Lagging Indicators for day-to-day CRM operational management?"
+    },
+    "back": {
+      "vi": "Chỉ số kết quả (doanh thu, churn) là kết quả đã rồi trong quá khứ không thể thay đổi; chỉ số dẫn dắt (tần suất liên hệ, dữ liệu hoàn thiện, mức độ đăng nhập) là hành vi dự báo có thể tác động và điều chỉnh kịp thời.",
+      "en": "Lagging metrics (revenue, churn) reflect past outcomes that cannot be undone; leading metrics (login rate, profile completeness, response velocity) provide steerable predictive signals."
+    },
+    "hint": {
+      "vi": "Chỉ số dẫn dắt giúp can thiệp chủ động trước khi kết quả xấu xảy ra.",
+      "en": "Leading signals allow proactive steering before financial losses materialize."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "leading-indicators",
+      "lagging-indicators",
+      "metrics",
+      "baran-ch11"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 350-355"
+    }
+  },
+  {
+    "id": "fc-035",
+    "topic": "Privacy & GDPR",
+    "chapter_id": "mod-baran-ch12",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "'Quyền được lãng quên' (Right to be Forgotten) theo chuẩn GDPR đặt ra yêu cầu kỹ thuật nào cho kiến trúc CRM?",
+      "en": "What technical requirement does GDPR's 'Right to be Forgotten' mandate for CRM architectures?"
+    },
+    "back": {
+      "vi": "Hệ thống phải có khả năng xóa bỏ hoặc ẩn danh hóa vĩnh viễn toàn bộ dữ liệu định danh cá nhân của khách hàng trên tất cả các bảng cơ sở dữ liệu liên kết khi nhận được yêu cầu hợp lệ.",
+      "en": "The system must support cascading permanent erasure or anonymization of all personal identifiable data across all relational tables upon verified customer request."
+    },
+    "hint": {
+      "vi": "Xóa sạch dữ liệu cá nhân trên mọi bảng liên kết khi khách hàng yêu cầu.",
+      "en": "Permanent cascading data erasure upon request."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "gdpr",
+      "right-to-be-forgotten",
+      "privacy",
+      "baran-ch12"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 380-388"
+    }
+  },
+  {
+    "id": "fc-036",
+    "topic": "Ethics",
+    "chapter_id": "mod-baran-ch12",
+    "card_type": "definition_to_term",
+    "front": {
+      "vi": "Các thủ thuật thiết kế giao diện cố tình đánh lừa hoặc thao túng người dùng thực hiện các hành động bất lợi cho họ (như tự động gia hạn, khó hủy tài khoản) được gọi là gì?",
+      "en": "What are deceptive UI/UX designs engineered to trick users into unintended actions (e.g., hidden subscriptions, cancellation mazes) called?"
+    },
+    "back": {
+      "vi": "Mẫu Thiết kế Giao diện Đen (Dark Patterns)",
+      "en": "Dark Patterns"
+    },
+    "hint": {
+      "vi": "Thiết kế giao diện mang tính thao túng, phi đạo đức.",
+      "en": "Manipulative and deceptive digital interface patterns."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "dark-patterns",
+      "ethics",
+      "ux",
+      "baran-ch12"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 390-395"
+    }
+  },
+  {
+    "id": "fc-037",
+    "topic": "Maintenance",
+    "chapter_id": "mod-fund-ch07",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Quy tắc cách ly môi trường nghiêm ngặt trong quản trị phát hành (Release Management) CRM quy định điều gì?",
+      "en": "What rule governs strict environment isolation in CRM Release Management?"
+    },
+    "back": {
+      "vi": "Nghiêm cấm viết code hoặc chỉnh sửa cấu hình trực tiếp trên môi trường vận hành thật (Live Production); mọi thay đổi phải đi qua chu trình: Sandbox (Dev) -> UAT (Kiểm thử) -> Scheduled Production Release.",
+      "en": "Prohibits developing directly on live production; all code and configurations must progress through isolated tiers: Sandbox (Dev) -> UAT (Testing) -> Scheduled Production Release."
+    },
+    "hint": {
+      "vi": "Không bao giờ code trực tiếp trên Production.",
+      "en": "Never build or test directly on live Production."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "release-management",
+      "sandbox",
+      "governance",
+      "kostojohn-ch7"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 215-222"
+    }
+  },
+  {
+    "id": "fc-038",
+    "topic": "Governance",
+    "chapter_id": "mod-fund-ch07",
+    "card_type": "definition_to_term",
+    "front": {
+      "vi": "Hội đồng liên phòng ban chịu trách nhiệm đánh giá, ưu tiên và phê duyệt các yêu cầu thay đổi tính năng sau khi hệ thống CRM đã đi vào vận hành được gọi là gì?",
+      "en": "What is the cross-functional body responsible for reviewing, prioritizing, and approving post-launch CRM enhancement requests called?"
+    },
+    "back": {
+      "vi": "Hội đồng Cố vấn Thay đổi (Change Advisory Board - CAB)",
+      "en": "Change Advisory Board (CAB)"
+    },
+    "hint": {
+      "vi": "Viết tắt là CAB.",
+      "en": "Abbreviated as CAB."
+    },
+    "difficulty": "medium",
+    "tags": [
+      "cab",
+      "governance",
+      "change-advisory-board",
+      "kostojohn-ch7"
+    ],
+    "source": {
+      "document": "Kostojohn et al. (2011) pp. 218-223"
+    }
+  },
+  {
+    "id": "fc-039",
+    "topic": "Service Operations",
+    "chapter_id": "mod-baran-ch11",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Tại sao việc áp đặt KPI giảm Thời gian Xử lý Trung bình (AHT) một cách máy móc lại gây nguy hiểm cho trải nghiệm khách hàng?",
+      "en": "Why can rigidly imposing Average Handle Time (AHT) reduction targets damage customer experience?"
+    },
+    "back": {
+      "vi": "Khiến nhân viên vội vàng cúp máy, giải quyết hời hợt hoặc chuyển cuộc gọi để đạt KPI thời gian, khiến gốc rễ vấn đề không được giải quyết và khách hàng phải gọi lại nhiều lần.",
+      "en": "Forces reps to rush callers, dismiss nuance, or bounce tickets to meet minute quotas, leaving root issues unresolved and triggering repeat customer complaints."
+    },
+    "hint": {
+      "vi": "Nhanh chưa chắc đã tốt nếu không giải quyết dứt điểm vấn đề (FCR).",
+      "en": "Speed without resolution quality degrades overall customer satisfaction."
+    },
+    "difficulty": "hard",
+    "tags": [
+      "aht",
+      "kpi",
+      "contact-center",
+      "baran-ch11"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) pp. 356-360"
+    }
+  },
+  {
+    "id": "fc-040",
+    "topic": "CRM Philosophy",
+    "chapter_id": "mod-baran-ch14",
+    "card_type": "concept_to_explanation",
+    "front": {
+      "vi": "Đích đến tối hậu của một chiến lược CRM thành công là gì?",
+      "en": "What is the ultimate destination of an authentic CRM journey?"
+    },
+    "back": {
+      "vi": "CRM không phải là một dự án công nghệ có điểm dừng; đó là một cam kết chiến lược và văn hóa tổ chức liên tục tiến hóa, lấy khách hàng làm trung tâm để kiến tạo giá trị thịnh vượng bền vững cho cả khách hàng và doanh nghiệp.",
+      "en": "CRM is not a one-off IT project with a finish line; it is an enduring strategic commitment and evolving culture uniting people, process, and technology to co-create sustainable mutual value."
+    },
+    "hint": {
+      "vi": "CRM là một hành trình liên tục, không phải là đích đến tĩnh.",
+      "en": "An ongoing cultural and strategic commitment, not a static software tool."
+    },
+    "difficulty": "easy",
+    "tags": [
+      "crm-philosophy",
+      "customer-centricity",
+      "baran-ch14",
+      "kostojohn-ch7"
+    ],
+    "source": {
+      "document": "Baran & Galka (2017) p. 450; Kostojohn (2011) p. 230"
+    }
+  }
+]
